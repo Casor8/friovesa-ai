@@ -1,0 +1,2 @@
+"""Configuración del proyecto Friovesa."""
+

@@ -1,0 +1,68 @@
+name: Actualizar catálogo Friovesa
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 3 * * *"
+      timezone: "America/Guayaquil"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-catalogo
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PYTHONUNBUFFERED: "1"
+      CATALOG_CONFIG: config/brands/friovesa.yaml
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: python -m pip install -r requirements.txt
+
+      - name: Ejecutar pruebas
+        run: python -m unittest discover -s tests -v
+
+      - name: Actualizar catálogo y base IA
+        run: python actualizar_catalogo.py
+
+      - name: Publicar cambios generados
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A output knowledge reports
+          if git diff --cached --quiet; then
+            echo "La web no produjo cambios publicables."
+          else
+            git commit -m "Actualizar catálogo Friovesa $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Conservar evidencia de ejecución
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ejecucion-${{ github.run_number }}
+          path: |
+            logs/
+            reports/
+            output/ULTIMO_REPORTE_CAMBIOS.md
+          if-no-files-found: warn
+          retention-days: 30

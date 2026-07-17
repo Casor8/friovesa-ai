@@ -1,0 +1,22 @@
+brand:
+  code: friovesa
+  name: Friovesa
+  base_url: https://friovesa.com/
+  sitemap_url: https://friovesa.com/product-sitemap.xml
+
+stores:
+  - code: uio
+    city: Quito
+    url: https://friovesa.com/store/uio/
+  - code: gye
+    city: Guayaquil
+    url: https://friovesa.com/store/gye/
+
+runtime:
+  timeout_seconds: 35
+  retries: 3
+  workers: 8
+  delay_seconds: 0.15
+  incremental: true
+  full_refresh_days: 14
+  user_agent: FriovesaKnowledgeCrawler/1.0 (+https://friovesa.com/)

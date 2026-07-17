@@ -1,0 +1,20 @@
+# Copiar este archivo, completar los datos públicos y ejecutar con CATALOG_CONFIG.
+brand:
+  code: nueva-marca
+  name: Nueva Marca
+  base_url: https://ejemplo.com/
+  sitemap_url: https://ejemplo.com/product-sitemap.xml
+
+stores:
+  - code: principal
+    city: Principal
+    url: https://ejemplo.com/store/principal/
+
+runtime:
+  timeout_seconds: 35
+  retries: 3
+  workers: 8
+  delay_seconds: 0.20
+  incremental: true
+  full_refresh_days: 14
+  user_agent: CatalogKnowledgeCrawler/1.0
