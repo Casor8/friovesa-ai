@@ -317,7 +317,6 @@
 | Quito | Proteinas | Cerdo | Chuletas Cerdo 500gr o 1kg | [Abrir](https://friovesa.com/product/chuletas-cerdo/) |
 | Quito | Proteinas | Cerdo | Costillas Cerdo 1Kg | [Abrir](https://friovesa.com/product/costillas-cerdo-1kg/) |
 | Quito | Proteinas | Cerdo | Filetes cerdo 1kg | [Abrir](https://friovesa.com/product/filetes-cerdo/) |
-| Quito | Proteinas | Cerdo | Fritada 1kg | [Abrir](https://friovesa.com/product/fritada-1kg/) |
 | Quito | Proteinas | Cerdo | Lomo Fino Cerdo 500gr | [Abrir](https://friovesa.com/product/lomo-fino-cerdo/) |
 | Quito | Proteinas | Cerdo | Matambre 1kg | [Abrir](https://friovesa.com/product/matambre-1kg/) |
 | Quito | Proteinas | Cerdo | Molida Cerdo 500gr o 1kg | [Abrir](https://friovesa.com/product/molida-cerdo/) |
@@ -377,7 +376,6 @@
 | Quito | Proteinas | Pollo | Molida Pollo 1kg | [Abrir](https://friovesa.com/product/molida-pollo/) |
 | Quito | Proteinas | Pollo | Mollejas Pollo 1kg | [Abrir](https://friovesa.com/product/mollejas-de-pollo-1kg/) |
 | Quito | Proteinas | Pollo | Patas Pollo 1kg | [Abrir](https://friovesa.com/product/patas-pollo-1kg/) |
-| Quito | Proteinas | Pollo | Pechugas Limpias (1kg o 3Kg) | [Abrir](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/) |
 | Quito | Proteinas | Pollo | Pollo Entero 5lb | [Abrir](https://friovesa.com/product/pollo-entero-5lb/) |
 | Quito | Proteinas | Res | Costillas Res 1kg | [Abrir](https://friovesa.com/product/costillas-res-1kg/) |
 | Quito | Proteinas | Res | Goulash de Carne 1kg | [Abrir](https://friovesa.com/product/goulash-de-carne-1kg/) |
@@ -395,6 +393,7 @@
 | Quito | Proteínas | Apanados | Tilapia Apanada 500gr o 1kg | [Abrir](https://friovesa.com/product/tilapia-apanada-500gr-o-1kg/) |
 | Quito | Proteínas | Cerdo | Bondiola Cerdo 1kg | [Abrir](https://friovesa.com/product/bondiola-cerdo-1kg/) |
 | Quito | Proteínas | Cerdo | Costillas San Luis 1kg | [Abrir](https://friovesa.com/product/costillas-san-luis-2k-2-piezas/) |
+| Quito | Proteínas | Cerdo | Fritada 1kg | [Abrir](https://friovesa.com/product/fritada-1kg/) |
 | Quito | Proteínas | Cerdo | Panceta Cerdo 1kg | [Abrir](https://friovesa.com/product/panceta-cerdo-1kg/) |
 | Quito | Proteínas | Cerdo | Pícaña Cerdo 2kg | [Abrir](https://friovesa.com/product/picana-cerdo-2kg/) |
 | Quito | Proteínas | Cortes Parrilleros | Alitas 1kg – 6 a 7ud | [Abrir](https://friovesa.com/product/alitas-1kg-6-a-7ud/) |
@@ -422,6 +421,7 @@
 | Quito | Proteínas | Pollo | Muslos 1kg – 4 ud | [Abrir](https://friovesa.com/product/muslos-1kg-4-ud/) |
 | Quito | Proteínas | Pollo | Pechuga Entera 1kg | [Abrir](https://friovesa.com/product/pechuga-entera-1kg/) |
 | Quito | Proteínas | Pollo | Pechuga Filetes (500gr – 1kg) | [Abrir](https://friovesa.com/product/pechuga-filetes-500gr-1kg/) |
+| Quito | Proteínas | Pollo | Pechugas Limpias (1kg o 3Kg) | [Abrir](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/) |
 | Quito | Proteínas | Pollo | Piernas 1kg – 5 a 6ud | [Abrir](https://friovesa.com/product/piernas-1kg-5-a-6ud/) |
 | Quito | Proteínas | Pollo | Pollo a la Juliana | [Abrir](https://friovesa.com/product/pollo-a-la-juliana/) |
 | Quito | Proteínas | Res | Carne de Paleta 1kg | [Abrir](https://friovesa.com/product/carne-de-paleta-1kg/) |

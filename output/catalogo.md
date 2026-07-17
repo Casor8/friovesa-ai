@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-07-16T22:14:29.066448+00:00
+Actualizado: 2026-07-17T04:50:35.424348+00:00
 
 ## Guayaquil (71 productos)
 
@@ -322,7 +322,6 @@ Actualizado: 2026-07-16T22:14:29.066448+00:00
 - [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/) — $ 5,99 - $ 9,99 Rango de precios: desde $5,99 hasta $9,99 — Proteinas
 - [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/) — $ 13,99 — Proteinas
 - [Filetes cerdo 1kg](https://friovesa.com/product/filetes-cerdo/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteinas
-- [Fritada 1kg](https://friovesa.com/product/fritada-1kg/) — $ 7,99 — Proteinas
 - [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/) — $ 7,50 - $ 12,50 Rango de precios: desde $7,50 hasta $12,50 — Proteinas
 - [Matambre 1kg](https://friovesa.com/product/matambre-1kg/) — $ 13,99 — Proteinas
 - [Molida Cerdo 500gr o 1kg](https://friovesa.com/product/molida-cerdo/) — $ 6,50 - $ 8,99 Rango de precios: desde $6,50 hasta $8,99 — Proteinas
@@ -382,7 +381,6 @@ Actualizado: 2026-07-16T22:14:29.066448+00:00
 - [Molida Pollo 1kg](https://friovesa.com/product/molida-pollo/) — $ 8,50 — Proteinas
 - [Mollejas Pollo 1kg](https://friovesa.com/product/mollejas-de-pollo-1kg/) — $ 5,99 — Proteinas
 - [Patas Pollo 1kg](https://friovesa.com/product/patas-pollo-1kg/) — $ 3,50 — Proteinas
-- [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/) — $ 7,99 - $ 21,99 Rango de precios: desde $7,99 hasta $21,99 — Proteinas
 - [Pollo Entero 5lb](https://friovesa.com/product/pollo-entero-5lb/) — $ 10,49 — Proteinas
 - [Costillas Res 1kg](https://friovesa.com/product/costillas-res-1kg/) — $ 6,99 — Proteinas
 - [Goulash de Carne 1kg](https://friovesa.com/product/goulash-de-carne-1kg/) — $ 10,99 — Proteinas
@@ -400,6 +398,7 @@ Actualizado: 2026-07-16T22:14:29.066448+00:00
 - [Tilapia Apanada 500gr o 1kg](https://friovesa.com/product/tilapia-apanada-500gr-o-1kg/) — $ 7,99 - $ 12,99 Rango de precios: desde $7,99 hasta $12,99 — Proteínas
 - [Bondiola Cerdo 1kg](https://friovesa.com/product/bondiola-cerdo-1kg/) — $ 10,50 — Proteínas
 - [Costillas San Luis 1kg](https://friovesa.com/product/costillas-san-luis-2k-2-piezas/) — $ 12,99 — Proteínas
+- [Fritada 1kg](https://friovesa.com/product/fritada-1kg/) — $ 7,99 — Proteínas
 - [Panceta Cerdo 1kg](https://friovesa.com/product/panceta-cerdo-1kg/) — $ 10,50 — Proteínas
 - [Pícaña Cerdo 2kg](https://friovesa.com/product/picana-cerdo-2kg/) — $ 17,50 — Proteínas
 - [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/) — $ 4,99 — Proteínas
@@ -427,6 +426,7 @@ Actualizado: 2026-07-16T22:14:29.066448+00:00
 - [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/) — $ 4,75 — Proteínas
 - [Pechuga Entera 1kg](https://friovesa.com/product/pechuga-entera-1kg/) — $ 6,50 — Proteínas
 - [Pechuga Filetes (500gr – 1kg)](https://friovesa.com/product/pechuga-filetes-500gr-1kg/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteínas
+- [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/) — $ 7,99 - $ 21,99 Rango de precios: desde $7,99 hasta $21,99 — Proteínas
 - [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/) — $ 4,99 — Proteínas
 - [Pollo a la Juliana](https://friovesa.com/product/pollo-a-la-juliana/) — $ 5,50 - $ 8,49 Rango de precios: desde $5,50 hasta $8,49 — Proteínas
 - [Carne de Paleta 1kg](https://friovesa.com/product/carne-de-paleta-1kg/) — $ 10,99 — Proteínas
