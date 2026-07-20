@@ -357,11 +357,8 @@
 | Quito | Proteinas | Exóticos | Pavos de 8 a 13k | [Abrir](https://friovesa.com/product/pavos-de-8-a-13k/) |
 | Quito | Proteinas | Exóticos | Pechuga Pavo 2,5 kilos | [Abrir](https://friovesa.com/product/pechuga-pavo-25-kilos/) |
 | Quito | Proteinas | Mariscos | Almejas 1lb – 40ud | [Abrir](https://friovesa.com/product/almejas-1lb-40ud/) |
-| Quito | Proteinas | Mariscos | Atún Rojo ( 1Lb o 2Lb ) | [Abrir](https://friovesa.com/product/atun-rojo-1lb-o-2lb/) |
 | Quito | Proteinas | Mariscos | Baby Calamar 1Lb o 2lb | [Abrir](https://friovesa.com/product/baby-calamar-1lb-o-2lb/) |
-| Quito | Proteinas | Mariscos | Cangrejo Pulpa 1lb | [Abrir](https://friovesa.com/product/pulpa-de-cangrejo-1lb/) |
 | Quito | Proteinas | Mariscos | Cangrejo Uñas 1lb | [Abrir](https://friovesa.com/product/unas-cangrejo-1lb/) |
-| Quito | Proteinas | Mariscos | Corvina 1lb o 2lb | [Abrir](https://friovesa.com/product/corvina-roca-1lb-o-2lb/) |
 | Quito | Proteinas | Mariscos | Cubos Ceviche 1Lb o 2lb | [Abrir](https://friovesa.com/product/cubos-ceviche-1lb-o-2lb/) |
 | Quito | Proteinas | Mariscos | Langostinos (1Lb o 2Lb) | [Abrir](https://friovesa.com/product/langostinos-1lb-o-2lb/) |
 | Quito | Proteinas | Mariscos | Mejillones 1lb – 40ud | [Abrir](https://friovesa.com/product/mejillones-1lb-40ud/) |
@@ -380,12 +377,10 @@
 | Quito | Proteinas | Res | Costillas Res 1kg | [Abrir](https://friovesa.com/product/costillas-res-1kg/) |
 | Quito | Proteinas | Res | Goulash de Carne 1kg | [Abrir](https://friovesa.com/product/goulash-de-carne-1kg/) |
 | Quito | Proteinas | Res | Higado Res 1kg | [Abrir](https://friovesa.com/product/higado-1kg/) |
-| Quito | Proteinas | Res | Lomo Falda filetes (500gr – 1kg) | [Abrir](https://friovesa.com/product/lomo-falda-filetes-500gr-1kg/) |
 | Quito | Proteinas | Res | Mollejas Res 1kg | [Abrir](https://friovesa.com/product/mollejas-res-1kg/) |
 | Quito | Proteinas | Res | Pata Res 1ud | [Abrir](https://friovesa.com/product/pata-res-1ud/) |
 | Quito | Proteinas | Res | Pulpa Negra Res 500gr a 1kg | [Abrir](https://friovesa.com/product/pulpa-negra-res-500gr-a-1kg/) |
 | Quito | Proteinas | Res | Punta Cadera Fileteada 1kg – 8ud | [Abrir](https://friovesa.com/product/punta-cadera-fileteada-1kg-8ud/) |
-| Quito | Proteinas | Res | Salón (500gr o 1kg) | [Abrir](https://friovesa.com/product/salon-500gr-o-1kg/) |
 | Quito | Proteínas | Ahumados | Carne Mechada 500gr | [Abrir](https://friovesa.com/product/carne-mechada-500gr/) |
 | Quito | Proteínas | Ahumados | Pollo Mechado 500gr | [Abrir](https://friovesa.com/product/pollo-mechado-500gr/) |
 | Quito | Proteínas | Apanados | Alitas Apanadas 500gr | [Abrir](https://friovesa.com/product/alitas-listas-500gr/) |
@@ -409,8 +404,11 @@
 | Quito | Proteínas | Exóticos | Pato Entero 2,5kg | [Abrir](https://friovesa.com/product/pato-entero/) |
 | Quito | Proteínas | Mariscos | Albacora 1lb- 2lb | [Abrir](https://friovesa.com/product/albacora-1lb-2lb/) |
 | Quito | Proteínas | Mariscos | Almejas Pulpa 1lb | [Abrir](https://friovesa.com/product/pulpa-almejas-1lb/) |
+| Quito | Proteínas | Mariscos | Atún Rojo ( 1Lb o 2Lb ) | [Abrir](https://friovesa.com/product/atun-rojo-1lb-o-2lb/) |
 | Quito | Proteínas | Mariscos | Calamar Anillos 2lb | [Abrir](https://friovesa.com/product/calamar-anillos-2lb/) |
 | Quito | Proteínas | Mariscos | Camarones 500gr o 1kg | [Abrir](https://friovesa.com/product/camarones-500gr-o-1kg/) |
+| Quito | Proteínas | Mariscos | Cangrejo Pulpa 1lb | [Abrir](https://friovesa.com/product/pulpa-de-cangrejo-1lb/) |
+| Quito | Proteínas | Mariscos | Corvina 1lb o 2lb | [Abrir](https://friovesa.com/product/corvina-roca-1lb-o-2lb/) |
 | Quito | Proteínas | Mariscos | Dorado Filetes 1lb o 2lb | [Abrir](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/) |
 | Quito | Proteínas | Mariscos | Mejillones Pulpa 1lb | [Abrir](https://friovesa.com/product/pulpa-mejillones-1lb/) |
 | Quito | Proteínas | Mariscos | Merito ( 500gr o 1kg) | [Abrir](https://friovesa.com/product/merito-500gr-o-1kg/) |
@@ -427,9 +425,11 @@
 | Quito | Proteínas | Res | Carne de Paleta 1kg | [Abrir](https://friovesa.com/product/carne-de-paleta-1kg/) |
 | Quito | Proteínas | Res | Guatita – 1kg | [Abrir](https://friovesa.com/product/guatita-1kg/) |
 | Quito | Proteínas | Res | Hueso Carnudo 1kg | [Abrir](https://friovesa.com/product/hueso-carnudo-1kg/) |
+| Quito | Proteínas | Res | Lomo Falda filetes (500gr – 1kg) | [Abrir](https://friovesa.com/product/lomo-falda-filetes-500gr-1kg/) |
 | Quito | Proteínas | Res | Lomo Fino Res 500gr o 1kg | [Abrir](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/) |
 | Quito | Proteínas | Res | Lomo falda Res 500gr o 1kg | [Abrir](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/) |
 | Quito | Proteínas | Res | Molida Res (500gr o 1kg) | [Abrir](https://friovesa.com/product/molida-res-500gr-o-1kg/) |
+| Quito | Proteínas | Res | Salón (500gr o 1kg) | [Abrir](https://friovesa.com/product/salon-500gr-o-1kg/) |
 | Quito | Sin categorizar |  | 3 Lomo fino de 150gr | [Abrir](https://friovesa.com/product/450-gr-de-lomo-fino-de-150gramos/) |
 | Quito | Sin categorizar |  | Forever Nature Min | [Abrir](https://friovesa.com/product/forever-nature-min/) |
 | Quito | Suplementos |  | Ashwagandha 60cap | [Abrir](https://friovesa.com/product/ashwagandha-60cap-2/) |

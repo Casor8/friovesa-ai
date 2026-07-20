@@ -25,8 +25,11 @@
 - [Pato Entero 2,5kg](#pato-entero-2-5kg)
 - [Albacora 1lb- 2lb](#albacora-1lb-2lb)
 - [Almejas Pulpa 1lb](#almejas-pulpa-1lb)
+- [Atún Rojo ( 1Lb o 2Lb )](#atun-rojo-1lb-o-2lb)
 - [Calamar Anillos 2lb](#calamar-anillos-2lb)
 - [Camarones 500gr o 1kg](#camarones-500gr-o-1kg)
+- [Cangrejo Pulpa 1lb](#cangrejo-pulpa-1lb)
+- [Corvina 1lb o 2lb](#corvina-1lb-o-2lb)
 - [Dorado Filetes 1lb o 2lb](#dorado-filetes-1lb-o-2lb)
 - [Mejillones Pulpa 1lb](#mejillones-pulpa-1lb)
 - [Merito ( 500gr o 1kg)](#merito-500gr-o-1kg)
@@ -43,9 +46,11 @@
 - [Carne de Paleta 1kg](#carne-de-paleta-1kg)
 - [Guatita – 1kg](#guatita-1kg)
 - [Hueso Carnudo 1kg](#hueso-carnudo-1kg)
+- [Lomo Falda filetes (500gr – 1kg)](#lomo-falda-filetes-500gr-1kg)
 - [Lomo falda Res 500gr o 1kg](#lomo-falda-res-500gr-o-1kg)
 - [Lomo Fino Res 500gr o 1kg](#lomo-fino-res-500gr-o-1kg)
 - [Molida Res (500gr o 1kg)](#molida-res-500gr-o-1kg)
+- [Salón (500gr o 1kg)](#salon-500gr-o-1kg)
 
 ## Carne Mechada 500gr
 
@@ -202,9 +207,9 @@
 - **Palabras clave:** Alitas 1kg – 6 a 7ud, Proteínas, Cortes Parrilleros
 - **Categoría:** Proteínas
 - **Subcategoría:** Cortes Parrilleros
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/)
+- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/)
 - **Estado:** activo
-- **Stock:** 4587 disponibles
+- **Stock:** 4585 disponibles
 
 ## Chinchulines 500gr
 
@@ -394,6 +399,25 @@
 - **Estado:** activo
 - **Stock:** No publicado
 
+## Atún Rojo ( 1Lb o 2Lb )
+
+- **Descripción:** Atún Rojo con nuestra presentación 1 libra que contiene 4 filetes y el de 2 libras que incluye 8 filetes cuidadosamente seleccionados. Este Atún Rojo es conocido por su textura firme y su sabor intenso, lo que lo convierte en una opción ideal tanto para platos sencillos como para recetas gourmet. Beneficios para la Salud
+- **Precio:** $ 9,50 - $ 16,99 Rango de precios: desde $9,50 hasta $16,99
+- **Enlace:** https://friovesa.com/product/atun-rojo-1lb-o-2lb/
+- **Peso:** No publicado
+- **SKU:** 75285
+- **Palabras clave:** Atún Rojo ( 1Lb o 2Lb ), Proteínas, Mariscos
+- **Categoría:** Proteínas
+- **Subcategoría:** Mariscos
+- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Estado:** activo
+- **Stock:** Con stock
+
+### Variantes
+
+- peso: 1-lb — USD 9.50 — SKU: 75285-01 — Stock: 1948.0
+- peso: 2-lb — USD 16.99 — SKU: 75285-02 — Stock: 1948.0
+
 ## Calamar Anillos 2lb
 
 - **Descripción:** Aros de Calamar vienen de 22 a 30 x libra 2lb van aprox 55 aros
@@ -418,14 +442,47 @@
 - **Palabras clave:** Camarones 500gr o 1kg, Proteínas, Mariscos
 - **Categoría:** Proteínas
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 500-g — USD 7.49 — SKU: 29633-01 — Stock: 9933.0
-- peso: 1-kg — USD 13.99 — SKU: 29633-02 — Stock: 9933.0
+- peso: 500-g — USD 7.49 — SKU: 29633-01 — Stock: 9930.0
+- peso: 1-kg — USD 13.99 — SKU: 29633-02 — Stock: 9930.0
+
+## Cangrejo Pulpa 1lb
+
+- **Descripción:** Pulpa de Cangrejo 1lb - Frescura y Sabor del Mar Introducción al Producto: La Pulpa de Cangrejo 1lb es una opción deliciosa y versátil para los amantes de los mariscos. Extraída de cangrejos frescos, esta pulpa ofrece una textura suave y un sabor auténtico que realza cualquier plato. Ideal para preparar ensaladas, pastas, empanadas y
+- **Precio:** $ 18,50
+- **Enlace:** https://friovesa.com/product/pulpa-de-cangrejo-1lb/
+- **Peso:** No publicado
+- **SKU:** 44238
+- **Palabras clave:** Cangrejo Pulpa 1lb, Proteínas, Mariscos
+- **Categoría:** Proteínas
+- **Subcategoría:** Mariscos
+- **Productos relacionados:** [Salón (500gr o 1kg)](https://friovesa.com/product/salon-500gr-o-1kg/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
+- **Estado:** activo
+- **Stock:** 963 disponibles
+
+## Corvina 1lb o 2lb
+
+- **Descripción:** Corvina Premium 1Lb son 3 filetes 2Lb son 6 filetes La Corvina Premium de 1lb a 2lb dividida entre 3 a 6 filetes, es una opción exquisita y versátil para los amantes del pescado. Este pescado de alta calidad, conocido por su carne blanca y suave, es ideal tanto para preparaciones sencillas como para recetas
+- **Precio:** $ 10,99 - $ 19,99 Rango de precios: desde $10,99 hasta $19,99
+- **Enlace:** https://friovesa.com/product/corvina-roca-1lb-o-2lb/
+- **Peso:** No publicado
+- **SKU:** 42957
+- **Palabras clave:** Corvina 1lb o 2lb, Proteínas, Mariscos
+- **Categoría:** Proteínas
+- **Subcategoría:** Mariscos
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
+- **Estado:** activo
+- **Stock:** Con stock
+
+### Variantes
+
+- peso: 1-lb — USD 10.99 — SKU: 42957-01 — Stock: 17.0
+- peso: 2-lb — USD 19.99 — SKU: 42957-02 — Stock: 17.0
 
 ## Dorado Filetes 1lb o 2lb
 
@@ -437,14 +494,14 @@
 - **Palabras clave:** Dorado Filetes 1lb o 2lb, Proteínas, Mariscos
 - **Categoría:** Proteínas
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-lb — USD 8.50 — SKU: 65924-01 — Stock: 827.0
-- peso: 2-lb — USD 15.99 — SKU: 65924-02 — Stock: 827.0
+- peso: 1-lb — USD 8.50 — SKU: 65924-01 — Stock: 826.0
+- peso: 2-lb — USD 15.99 — SKU: 65924-02 — Stock: 826.0
 
 ## Mejillones Pulpa 1lb
 
@@ -508,14 +565,14 @@
 - **Palabras clave:** Tilapia ( 1Lb o 2Lb ), Proteínas, Mariscos
 - **Categoría:** Proteínas
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
+- **Productos relacionados:** [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-lb — USD 7.25 — SKU: 55256-01 — Stock: 80.0
-- peso: 2-lb — USD 12.50 — SKU: 55256-02 — Stock: 80.0
+- peso: 1-lb — USD 7.25 — SKU: 55256-01 — Stock: 79.0
+- peso: 2-lb — USD 12.50 — SKU: 55256-02 — Stock: 79.0
 
 ## Trucha limpia 500gr
 
@@ -588,14 +645,14 @@
 - **Palabras clave:** Pechuga Filetes (500gr – 1kg), Proteínas, Pollo
 - **Categoría:** Proteínas
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
+- **Productos relacionados:** [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 8.99 — SKU: 39793-01 — Stock: 512.0
-- peso: 500-g — USD 5.50 — SKU: 39793-02 — Stock: 512.0
+- peso: 1-kg — USD 8.99 — SKU: 39793-01 — Stock: 501.0
+- peso: 500-g — USD 5.50 — SKU: 39793-02 — Stock: 501.0
 
 ## Pechugas Limpias (1kg o 3Kg)
 
@@ -607,14 +664,14 @@
 - **Palabras clave:** Pechugas Limpias (1kg o 3Kg), Proteínas, Pollo
 - **Categoría:** Proteínas
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Salón (500gr o 1kg)](https://friovesa.com/product/salon-500gr-o-1kg/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Productos relacionados:** [Salón (500gr o 1kg)](https://friovesa.com/product/salon-500gr-o-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 7.99 — SKU: 71726-01 — Stock: 8743.0
-- peso: 3-kg — USD 21.99 — SKU: 71726-02 — Stock: 8743.0
+- peso: 1-kg — USD 7.99 — SKU: 71726-01 — Stock: 8742.0
+- peso: 3-kg — USD 21.99 — SKU: 71726-02 — Stock: 8742.0
 
 ## Piernas 1kg – 5 a 6ud
 
@@ -626,9 +683,9 @@
 - **Palabras clave:** Piernas 1kg – 5 a 6ud, Proteínas, Pollo
 - **Categoría:** Proteínas
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/)
 - **Estado:** activo
-- **Stock:** 211 disponibles
+- **Stock:** 207 disponibles
 
 ## Pollo a la Juliana
 
@@ -691,6 +748,25 @@
 - **Estado:** activo
 - **Stock:** No publicado
 
+## Lomo Falda filetes (500gr – 1kg)
+
+- **Descripción:** Cantidad: 500gr vienen 4 filetes 1kg vienen 8 filetes Lomo de Falda Fileteado 1kg - 8ud: La Elección Perfecta para tus Recetas Más Deliciosas Descubre la exquisitez y versatilidad del Lomo de Falda fileteado en presentaciones de 1kg con 8 unidades cuidadosamente seleccionadas. Este corte de carne de res, además de ser conocido por su
+- **Precio:** $ 7,80 - $ 14,50 Rango de precios: desde $7,80 hasta $14,50
+- **Enlace:** https://friovesa.com/product/lomo-falda-filetes-500gr-1kg/
+- **Peso:** No publicado
+- **SKU:** 68463
+- **Palabras clave:** Lomo Falda filetes (500gr – 1kg), Proteínas, Res
+- **Categoría:** Proteínas
+- **Subcategoría:** Res
+- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
+- **Estado:** activo
+- **Stock:** Con stock
+
+### Variantes
+
+- peso: 1-kg — USD 14.50 — SKU: 68463-01 — Stock: 163.0
+- peso: 500-g — USD 7.80 — SKU: 68463-02 — Stock: 163.0
+
 ## Lomo falda Res 500gr o 1kg
 
 - **Descripción:** 1 Kilo
@@ -744,11 +820,30 @@
 - **Palabras clave:** Molida Res (500gr o 1kg), Proteínas, Res
 - **Categoría:** Proteínas
 - **Subcategoría:** Res
-- **Productos relacionados:** [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 8.99 — SKU: 99464-01 — Stock: 2634.0
-- peso: 500-g — USD 5.50 — SKU: 99464-02 — Stock: 2634.0
+- peso: 1-kg — USD 8.99 — SKU: 99464-01 — Stock: 2633.0
+- peso: 500-g — USD 5.50 — SKU: 99464-02 — Stock: 2633.0
+
+## Salón (500gr o 1kg)
+
+- **Descripción:** Cantidad: 1 kg de salon de res en 2 paquetes de 500 gr. El Salón 1kg - 2ud es un ingrediente básico en la cocina, ideal para quienes buscan calidad y durabilidad. Este paquete contiene dos unidades de 1kg de sal refinada, ofreciendo un suministro prolongado para tus necesidades diarias. La sal es indispensable en
+- **Precio:** $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99
+- **Enlace:** https://friovesa.com/product/salon-500gr-o-1kg/
+- **Peso:** No publicado
+- **SKU:** 74777
+- **Palabras clave:** Salón (500gr o 1kg), Proteínas, Res
+- **Categoría:** Proteínas
+- **Subcategoría:** Res
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Estado:** activo
+- **Stock:** Con stock
+
+### Variantes
+
+- peso: 1-kg — USD 11.99 — SKU: 74777-01 — Stock: 193.0
+- peso: 500-g — USD 6.99 — SKU: 74777-02 — Stock: 193.0
