@@ -306,7 +306,6 @@
 | Quito | Proteinas | Ahumados | Pernil 400gr | [Abrir](https://friovesa.com/product/pernil-400gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Al Pastor 500 gr | [Abrir](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Bbq 500gr | [Abrir](https://friovesa.com/product/pulled-pork-bbq-500gr/) |
-| Quito | Proteinas | Ahumados | Smoked Brisket 500 gr | [Abrir](https://friovesa.com/product/smoked-brisket-500-gr/) |
 | Quito | Proteinas | Apanados | Dedos apanados 500gr – 1kg | [Abrir](https://friovesa.com/product/dedos-apanados-500gr-1kg/) |
 | Quito | Proteinas | Cerdo | Costillas Cerdo 1Kg | [Abrir](https://friovesa.com/product/costillas-cerdo-1kg/) |
 | Quito | Proteinas | Cerdo | Filetes cerdo 1kg | [Abrir](https://friovesa.com/product/filetes-cerdo/) |
@@ -370,6 +369,7 @@
 | Quito | Proteínas | Ahumados | Carne Mechada 500gr | [Abrir](https://friovesa.com/product/carne-mechada-500gr/) |
 | Quito | Proteínas | Ahumados | Jamón Sanduchero 400gr | [Abrir](https://friovesa.com/product/jamon-sanduchero-600gr-3ud/) |
 | Quito | Proteínas | Ahumados | Pollo Mechado 500gr | [Abrir](https://friovesa.com/product/pollo-mechado-500gr/) |
+| Quito | Proteínas | Ahumados | Smoked Brisket 500 gr | [Abrir](https://friovesa.com/product/smoked-brisket-500-gr/) |
 | Quito | Proteínas | Ahumados | Smoked Pastrami 500 gr | [Abrir](https://friovesa.com/product/smoked-pastrami-500-gr/) |
 | Quito | Proteínas | Apanados | Alitas Apanadas 500gr | [Abrir](https://friovesa.com/product/alitas-listas-500gr/) |
 | Quito | Proteínas | Apanados | Camarones Apanados | [Abrir](https://friovesa.com/product/camarones-apanados/) |

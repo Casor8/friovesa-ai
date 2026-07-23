@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-07-22T10:35:02.613680+00:00
+Actualizado: 2026-07-23T10:35:50.136361+00:00
 
 ## Guayaquil (71 productos)
 
@@ -98,11 +98,11 @@ Actualizado: 2026-07-22T10:35:02.613680+00:00
 - [Purificador Total](https://friovesa.com/product/purificador-total/) — $ 690,00 — Accesorios
 - [Arepas 4 a 6ud ❄️](https://friovesa.com/product/arepa-con-sal-4ud/) — $ 2,99 - $ 4,70 Rango de precios: desde $2,99 hasta $4,70 — Antojitos
 - [Aros Cebolla 500gr ❄️](https://friovesa.com/product/aros-cebolla-500gr/) — $ 3,99 — Antojitos
-- [Bolon 6ud ❄️](https://friovesa.com/product/bolon-6ud/) — $ 4,99 — Antojitos
+- [Bolon 6ud ❄️](https://friovesa.com/product/bolon-6ud/) — $ 5,50 — Antojitos
 - [Burritos❄️](https://friovesa.com/product/burritos-5ud/) — $ 6,99 - $ 115,00 Rango de precios: desde $6,99 hasta $115,00 — Antojitos
 - [Corviche 4ud ❄️](https://friovesa.com/product/corviche-4ud/) — $ 6,50 — Antojitos
 - [Empanadas Bolivianas ❄️](https://friovesa.com/product/empanadas-bolivianas-2-a-3ud/) — $ 3,99 - $ 5,50 Rango de precios: desde $3,99 hasta $5,50 — Antojitos
-- [Empanadas verde 8ud ❄️](https://friovesa.com/product/empanadas-de-verde-8ud/) — $ 6,50 — Antojitos
+- [Empanadas verde 8ud ❄️](https://friovesa.com/product/empanadas-de-verde-8ud/) — $ 6,99 — Antojitos
 - [Falafel 18ud ❄️](https://friovesa.com/product/falafel-18ud/) — $ 6,99 — Antojitos
 - [Humitas 4ud ❄️](https://friovesa.com/product/humitas-4ud/) — $ 6,00 — Antojitos
 - [Lasagna Carne ❄️](https://friovesa.com/product/lasagna-de-carne/) — $ 5,99 — Antojitos
@@ -116,7 +116,7 @@ Actualizado: 2026-07-22T10:35:02.613680+00:00
 - [Quimbolitos 4ud ❄️](https://friovesa.com/product/quimbolitos-4ud/) — $ 6,00 — Antojitos
 - [Tamal pollo 2ud ❄️](https://friovesa.com/product/tamal-2ud/) — $ 4,99 — Antojitos
 - [Tigrillo c/ Queso 300gr ❄️](https://friovesa.com/product/tigrillo-450gr/) — $ 3,99 — Antojitos
-- [Tortillas Maduro 6ud ❄️](https://friovesa.com/product/tortillas-de-maduro-6ud/) — $ 4,99 — Antojitos
+- [Tortillas Maduro 6ud ❄️](https://friovesa.com/product/tortillas-de-maduro-6ud/) — $ 5,50 — Antojitos
 - [Tortillas maíz 12ud ❄️](https://friovesa.com/product/tortillas-de-maiz-12ud/) — $ 6,99 — Antojitos
 - [Puré Papas 900gr ❄️](https://friovesa.com/product/pure-papas/) — $ 5,48 — Antojitos
 - [Waffles 4ud ❄️](https://friovesa.com/product/waffles-congelados-con-azucar-perlado/) — $ 6,80 — Antojitos
@@ -311,7 +311,6 @@ Actualizado: 2026-07-22T10:35:02.613680+00:00
 - [Pernil 400gr](https://friovesa.com/product/pernil-400gr/) — $ 7,99 — Proteinas
 - [Pulled Pork Al Pastor 500 gr](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) — $ 14,99 — Proteinas
 - [Pulled Pork Bbq 500gr](https://friovesa.com/product/pulled-pork-bbq-500gr/) — $ 12,49 — Proteinas
-- [Smoked Brisket 500 gr](https://friovesa.com/product/smoked-brisket-500-gr/) — $ 12,99 — Proteinas
 - [Dedos apanados 500gr – 1kg](https://friovesa.com/product/dedos-apanados-500gr-1kg/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteinas
 - [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/) — $ 13,99 — Proteinas
 - [Filetes cerdo 1kg](https://friovesa.com/product/filetes-cerdo/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteinas
@@ -375,6 +374,7 @@ Actualizado: 2026-07-22T10:35:02.613680+00:00
 - [Carne Mechada 500gr](https://friovesa.com/product/carne-mechada-500gr/) — $ 8,99 — Proteínas
 - [Jamón Sanduchero 400gr](https://friovesa.com/product/jamon-sanduchero-600gr-3ud/) — $ 3,99 — Proteínas
 - [Pollo Mechado 500gr](https://friovesa.com/product/pollo-mechado-500gr/) — $ 7,99 — Proteínas
+- [Smoked Brisket 500 gr](https://friovesa.com/product/smoked-brisket-500-gr/) — $ 12,99 — Proteínas
 - [Smoked Pastrami 500 gr](https://friovesa.com/product/smoked-pastrami-500-gr/) — $ 12,99 — Proteínas
 - [Alitas Apanadas 500gr](https://friovesa.com/product/alitas-listas-500gr/) — $ 6,99 — Proteínas
 - [Camarones Apanados](https://friovesa.com/product/camarones-apanados/) — $ 7,50 - $ 13,99 Rango de precios: desde $7,50 hasta $13,99 — Proteínas
@@ -417,7 +417,7 @@ Actualizado: 2026-07-22T10:35:02.613680+00:00
 - [Langostinos (1Lb o 2Lb)](https://friovesa.com/product/langostinos-1lb-o-2lb/) — $ 9,50 - $ 16,99 Rango de precios: desde $9,50 hasta $16,99 — Proteínas
 - [Mejillones Pulpa 1lb](https://friovesa.com/product/pulpa-mejillones-1lb/) — $ 5,99 — Proteínas
 - [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/) — $ 5,99 - $ 9,99 Rango de precios: desde $5,99 hasta $9,99 — Proteínas
-- [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/) — $ 15,99 - $ 25,99 Rango de precios: desde $15,99 hasta $25,99 — Proteínas
+- [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/) — $ 15,99 - $ 24,99 Rango de precios: desde $15,99 hasta $24,99 — Proteínas
 - [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/) — $ 7,25 - $ 12,50 Rango de precios: desde $7,25 hasta $12,50 — Proteínas
 - [Trucha limpia 500gr](https://friovesa.com/product/trucha-limpia-500gr-2-filetes/) — $ 8,40 — Proteínas
 - [Wahoo Filetes 1Lb o 2Lb](https://friovesa.com/product/wahoo-filetes-1lb-o-2lb/) — $ 7,50 - $ 15,00 Rango de precios: desde $7,50 hasta $15,00 — Proteínas

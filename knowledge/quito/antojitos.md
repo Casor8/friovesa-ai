@@ -65,14 +65,14 @@
 ## Bolon 6ud ❄️
 
 - **Descripción:** El Bolón 6ud es una de las delicias más representativas de la gastronomía ecuatoriana, preparado a base de plátano verde y acompañado de ingredientes tradicionales como el queso, el chicharrón o el maní. Este plato típico se disfruta principalmente en el desayuno, aunque también puede ser una opción deliciosa para la merienda o un almuerzo
-- **Precio:** $ 4,99
+- **Precio:** $ 5,50
 - **Enlace:** https://friovesa.com/product/bolon-6ud/
 - **Peso:** No publicado
 - **SKU:** 51528
 - **Palabras clave:** Bolon 6ud ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/)
 - **Estado:** activo
 - **Stock:** 910 disponibles
 
@@ -138,14 +138,14 @@
 ## Empanadas verde 8ud ❄️
 
 - **Descripción:** Empanadas de Verde 8ud Disfruta del auténtico sabor de la tradición con nuestras Empanadas de Verde. Cada paquete contiene 5 empanadas deliciosas, rellenas con una mezcla exquisita de plátano verde y especias que crean un sabor único y auténtico. Ideal para cualquier ocasión, estas empanadas son perfectas para compartir con amigos y familiares, o simplemente
-- **Precio:** $ 6,50
+- **Precio:** $ 6,99
 - **Enlace:** https://friovesa.com/product/empanadas-de-verde-8ud/
 - **Peso:** No publicado
 - **SKU:** 53762
 - **Palabras clave:** Empanadas verde 8ud ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
+- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** 3 disponibles
 
@@ -282,7 +282,7 @@
 
 ## Pizzas Medianas ❄️
 
-- **Descripción:** quí tienes descripciones cortas y comerciales para usar en WordPress: 🍕 Pizza Congelada Friovesa Jamón y Queso Deliciosa pizza elaborada con una base crujiente, abundante queso mozzarella y finas láminas de jamón. Una combinación clásica que encanta a toda la familia. Lista para hornear y disfrutar en minutos. 🍍 Pizza Congelada Friovesa Hawaiana La mezcla
+- **Descripción:** 🍕 Pizza Congelada Friovesa Jamón y Queso Deliciosa pizza elaborada con una base crujiente, abundante queso mozzarella y finas láminas de jamón. Una combinación clásica que encanta a toda la familia. Lista para hornear y disfrutar en minutos. 🍍 Pizza Congelada Friovesa Hawaiana La mezcla perfecta entre lo dulce y lo salado. Preparada con queso
 - **Precio:** $ 6,99
 - **Enlace:** https://friovesa.com/product/pizza/
 - **Peso:** No publicado
@@ -290,13 +290,13 @@
 - **Palabras clave:** Pizzas Medianas ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/)
+- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- ingresientes: 4-quesos — USD 6.99 — SKU: 22677 — Stock: 
+- ingresientes: 4-quesos — USD 6.99 — SKU: 22677-01 — Stock: 
 - ingresientes: hawaiana — USD 6.99 — SKU: 22677 — Stock: 
 - ingresientes: jamon — USD 6.99 — SKU: 22677-02 — Stock: 
 - ingresientes: pepperoni — USD 6.99 — SKU: 22677-03 — Stock: 
@@ -346,14 +346,14 @@
 ## Tortillas Maduro 6ud ❄️
 
 - **Descripción:** Las Tortillas de Maduro 6ud son una exquisita y saludable opción para disfrutar en cualquier momento del día. Estas tortillas están elaboradas a base de plátano maduro, lo que les confiere un sabor dulce y suave, perfecto para acompañar platos principales o ser el protagonista de tu comida. Cada paquete incluye seis unidades de tortillas
-- **Precio:** $ 4,99
+- **Precio:** $ 5,50
 - **Enlace:** https://friovesa.com/product/tortillas-de-maduro-6ud/
 - **Peso:** No publicado
 - **SKU:** 68256
 - **Palabras clave:** Tortillas Maduro 6ud ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/)
 - **Estado:** activo
 - **Stock:** 48 disponibles
 
