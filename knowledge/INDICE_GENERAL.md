@@ -340,7 +340,6 @@
 | Quito | Proteinas | Cortes Parrilleros | Pícaña Importada | [Abrir](https://friovesa.com/product/picana-importada-boliviana/) |
 | Quito | Proteinas | Embutidos | Salchicha Frankfurter 1kg – 20ud | [Abrir](https://friovesa.com/product/salchicha-frankfurter-1kg-20ud/) |
 | Quito | Proteinas | Embutidos | Tocino Ahumado 600gr – 3ud | [Abrir](https://friovesa.com/product/tocino-ahumado-600gr-3ud/) |
-| Quito | Proteinas | Exóticos | Ancas de Rana 500gr – 5ud | [Abrir](https://friovesa.com/product/ancas-de-rana-500gr-5ud/) |
 | Quito | Proteinas | Exóticos | Conejo entero | [Abrir](https://friovesa.com/product/conejo-entero-12kg/) |
 | Quito | Proteinas | Exóticos | Pavos de 8 a 13k | [Abrir](https://friovesa.com/product/pavos-de-8-a-13k/) |
 | Quito | Proteinas | Exóticos | Pechuga Pavo 2,5 kilos | [Abrir](https://friovesa.com/product/pechuga-pavo-25-kilos/) |
@@ -398,6 +397,7 @@
 | Quito | Proteínas | Cortes Parrilleros | Morcillas 1kg – 20ud | [Abrir](https://friovesa.com/product/morcillas-1kg-20ud/) |
 | Quito | Proteínas | Cortes Parrilleros | Ribeye importado 500gr o 1kg | [Abrir](https://friovesa.com/product/ribeye-importado-500gr-o-1kg/) |
 | Quito | Proteínas | Embutidos | Salame Rebanado 600gr | [Abrir](https://friovesa.com/product/salame-rebanado-600gr-2/) |
+| Quito | Proteínas | Exóticos | Ancas de Rana 500gr – 5ud | [Abrir](https://friovesa.com/product/ancas-de-rana-500gr-5ud/) |
 | Quito | Proteínas | Exóticos | Cuy Entero 800gr | [Abrir](https://friovesa.com/product/cuy-entero-800gr/) |
 | Quito | Proteínas | Exóticos | Pato Entero 2,5kg | [Abrir](https://friovesa.com/product/pato-entero/) |
 | Quito | Proteínas | Mariscos | Albacora 1lb- 2lb | [Abrir](https://friovesa.com/product/albacora-1lb-2lb/) |
