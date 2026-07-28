@@ -900,9 +900,9 @@
 - **Palabras clave:** Pechuga Entera, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Tocino](https://friovesa.com/product/tocino/), [T-Bone](https://friovesa.com/product/t-bone/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
 - **Estado:** activo
-- **Stock:** 16 disponibles (puede reservarse)
+- **Stock:** 13 disponibles (puede reservarse)
 
 ## Pechuga Limpia
 
@@ -1171,13 +1171,13 @@
 - **Palabras clave:** Pulpa Negra, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Fritada](https://friovesa.com/product/fritada/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Productos relacionados:** [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Fritada](https://friovesa.com/product/fritada/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 13.80 — SKU: 49494-01 — Stock: 20.0
+- peso: 1-kg — USD 13.80 — SKU: 49494-01 — Stock: 19.0
 - peso: 500-g — USD 6.90 — SKU: 49494-02 — Stock: 19.0
 
 ## Punta de Cadera Entera

@@ -302,7 +302,6 @@
 | Quito | Postres |  | Chocolates Hash 80gr c/u | [Abrir](https://friovesa.com/product/chocolate-blanco-matcha-amaranto-80gr/) |
 | Quito | Postres |  | Dubai Chocolate 60g | [Abrir](https://friovesa.com/product/dubai-chocolate/) |
 | Quito | Postres |  | Torta Zanahoria 6ud | [Abrir](https://friovesa.com/product/pastel-zanahoria/) |
-| Quito | Proteinas | Ahumados | Chuleta Ahumada 500gr o 1kg | [Abrir](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/) |
 | Quito | Proteinas | Ahumados | Pernil 400gr | [Abrir](https://friovesa.com/product/pernil-400gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Al Pastor 500 gr | [Abrir](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Bbq 500gr | [Abrir](https://friovesa.com/product/pulled-pork-bbq-500gr/) |
@@ -366,6 +365,7 @@
 | Quito | Proteinas | Res | Pulpa Negra Res 500gr a 1kg | [Abrir](https://friovesa.com/product/pulpa-negra-res-500gr-a-1kg/) |
 | Quito | Proteinas | Res | Punta Cadera Fileteada 1kg – 8ud | [Abrir](https://friovesa.com/product/punta-cadera-fileteada-1kg-8ud/) |
 | Quito | Proteínas | Ahumados | Carne Mechada 500gr | [Abrir](https://friovesa.com/product/carne-mechada-500gr/) |
+| Quito | Proteínas | Ahumados | Chuleta Ahumada 500gr o 1kg | [Abrir](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/) |
 | Quito | Proteínas | Ahumados | Jamón Sanduchero 400gr | [Abrir](https://friovesa.com/product/jamon-sanduchero-600gr-3ud/) |
 | Quito | Proteínas | Ahumados | Pollo Mechado 500gr | [Abrir](https://friovesa.com/product/pollo-mechado-500gr/) |
 | Quito | Proteínas | Ahumados | Smoked Brisket 500 gr | [Abrir](https://friovesa.com/product/smoked-brisket-500-gr/) |

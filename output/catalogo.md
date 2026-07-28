@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-07-27T11:42:28.937905+00:00
+Actualizado: 2026-07-28T10:46:14.296957+00:00
 
 ## Guayaquil (71 productos)
 
@@ -307,7 +307,6 @@ Actualizado: 2026-07-27T11:42:28.937905+00:00
 - [Chocolates Hash 80gr c/u](https://friovesa.com/product/chocolate-blanco-matcha-amaranto-80gr/) — $ 4,80 — Postres
 - [Dubai Chocolate 60g](https://friovesa.com/product/dubai-chocolate/) — $ 5,99 — Postres
 - [Torta Zanahoria 6ud](https://friovesa.com/product/pastel-zanahoria/) — $ 5,22 — Postres
-- [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/) — $ 10,99 - $ 18,50 Rango de precios: desde $10,99 hasta $18,50 — Proteinas
 - [Pernil 400gr](https://friovesa.com/product/pernil-400gr/) — $ 7,99 — Proteinas
 - [Pulled Pork Al Pastor 500 gr](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) — $ 14,99 — Proteinas
 - [Pulled Pork Bbq 500gr](https://friovesa.com/product/pulled-pork-bbq-500gr/) — $ 12,49 — Proteinas
@@ -371,6 +370,7 @@ Actualizado: 2026-07-27T11:42:28.937905+00:00
 - [Pulpa Negra Res 500gr a 1kg](https://friovesa.com/product/pulpa-negra-res-500gr-a-1kg/) — $ 6,99 - $ 12,50 Rango de precios: desde $6,99 hasta $12,50 — Proteinas
 - [Punta Cadera Fileteada 1kg – 8ud](https://friovesa.com/product/punta-cadera-fileteada-1kg-8ud/) — $ 12,50 — Proteinas
 - [Carne Mechada 500gr](https://friovesa.com/product/carne-mechada-500gr/) — $ 8,99 — Proteínas
+- [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/) — $ 10,99 - $ 18,50 Rango de precios: desde $10,99 hasta $18,50 — Proteínas
 - [Jamón Sanduchero 400gr](https://friovesa.com/product/jamon-sanduchero-600gr-3ud/) — $ 3,99 — Proteínas
 - [Pollo Mechado 500gr](https://friovesa.com/product/pollo-mechado-500gr/) — $ 7,99 — Proteínas
 - [Smoked Brisket 500 gr](https://friovesa.com/product/smoked-brisket-500-gr/) — $ 12,99 — Proteínas
