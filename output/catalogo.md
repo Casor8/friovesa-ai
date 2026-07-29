@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-07-28T10:46:14.296957+00:00
+Actualizado: 2026-07-29T10:49:27.728836+00:00
 
 ## Guayaquil (71 productos)
 
@@ -310,7 +310,6 @@ Actualizado: 2026-07-28T10:46:14.296957+00:00
 - [Pernil 400gr](https://friovesa.com/product/pernil-400gr/) — $ 7,99 — Proteinas
 - [Pulled Pork Al Pastor 500 gr](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) — $ 14,99 — Proteinas
 - [Pulled Pork Bbq 500gr](https://friovesa.com/product/pulled-pork-bbq-500gr/) — $ 12,49 — Proteinas
-- [Dedos apanados 500gr – 1kg](https://friovesa.com/product/dedos-apanados-500gr-1kg/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteinas
 - [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/) — $ 13,99 — Proteinas
 - [Filetes cerdo 1kg](https://friovesa.com/product/filetes-cerdo/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteinas
 - [Molida Cerdo 500gr o 1kg](https://friovesa.com/product/molida-cerdo/) — $ 6,50 - $ 8,99 Rango de precios: desde $6,50 hasta $8,99 — Proteinas
@@ -343,7 +342,6 @@ Actualizado: 2026-07-28T10:46:14.296957+00:00
 - [Palillos tipo Pinchos](https://friovesa.com/product/palillos-tipo-pinchos/) — $ 1,80 — Proteinas
 - [Pícaña Importada](https://friovesa.com/product/picana-importada-boliviana/) — $ 25,99 - $ 32,99 Rango de precios: desde $25,99 hasta $32,99 — Proteinas
 - [Salchicha Frankfurter 1kg – 20ud](https://friovesa.com/product/salchicha-frankfurter-1kg-20ud/) — $ 7,49 — Proteinas
-- [Tocino Ahumado 600gr – 3ud](https://friovesa.com/product/tocino-ahumado-600gr-3ud/) — $ 9,99 — Proteinas
 - [Conejo entero](https://friovesa.com/product/conejo-entero-12kg/) — $ 29,99 — Proteinas
 - [Pavos de 8 a 13k](https://friovesa.com/product/pavos-de-8-a-13k/) — $ 39,99 - $ 64,99 Rango de precios: desde $39,99 hasta $64,99 — Proteinas
 - [Pechuga Pavo 2,5 kilos](https://friovesa.com/product/pechuga-pavo-25-kilos/) — $ 26,50 — Proteinas
@@ -375,8 +373,10 @@ Actualizado: 2026-07-28T10:46:14.296957+00:00
 - [Pollo Mechado 500gr](https://friovesa.com/product/pollo-mechado-500gr/) — $ 7,99 — Proteínas
 - [Smoked Brisket 500 gr](https://friovesa.com/product/smoked-brisket-500-gr/) — $ 12,99 — Proteínas
 - [Smoked Pastrami 500 gr](https://friovesa.com/product/smoked-pastrami-500-gr/) — $ 12,99 — Proteínas
+- [Tocino Ahumado 600gr – 3ud](https://friovesa.com/product/tocino-ahumado-600gr-3ud/) — $ 9,99 — Proteínas
 - [Alitas Apanadas 500gr](https://friovesa.com/product/alitas-listas-500gr/) — $ 6,99 — Proteínas
 - [Camarones Apanados](https://friovesa.com/product/camarones-apanados/) — $ 7,50 - $ 13,99 Rango de precios: desde $7,50 hasta $13,99 — Proteínas
+- [Dedos apanados 500gr – 1kg](https://friovesa.com/product/dedos-apanados-500gr-1kg/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteínas
 - [Milanesa Pollo 4ud](https://friovesa.com/product/milanesa-pollo-4ud/) — $ 9,99 — Proteínas
 - [Milanesa Res 4ud](https://friovesa.com/product/milanesa-res-4ud/) — $ 9,99 — Proteínas
 - [Nuggets Saludables 12ud](https://friovesa.com/product/nuggets-de-pollo-12ud/) — $ 5,99 — Proteínas

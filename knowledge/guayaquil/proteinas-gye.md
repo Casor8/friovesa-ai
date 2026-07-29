@@ -113,13 +113,13 @@
 - **Palabras clave:** Carne Molida de Cerdo, Proteinas Gye, Cerdo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Cerdo
-- **Productos relacionados:** [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Salón](https://friovesa.com/product/salon/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Matambre](https://friovesa.com/product/matambre/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Salón](https://friovesa.com/product/salon/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 8.00 — SKU: 93229-01 — Stock: 20.0
+- peso: 1-kg — USD 8.00 — SKU: 93229-01 — Stock: 19.0
 - peso: 500-g — USD 6.00 — SKU: 93229-02 — Stock: 20.0
 
 ## Chuleta de Cerdo
@@ -208,13 +208,13 @@
 - **Palabras clave:** Lomo Fino de Cerdo, Proteinas Gye, Cerdo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Cerdo
-- **Productos relacionados:** [Atún Blanco](https://friovesa.com/product/atun-blanco/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Longaniza](https://friovesa.com/product/longaniza/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Productos relacionados:** [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Longaniza](https://friovesa.com/product/longaniza/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 12.00 — SKU: 27813-01 — Stock: 20.0
+- peso: 1-kg — USD 12.00 — SKU: 27813-01 — Stock: 19.0
 - peso: 500-g — USD 6.00 — SKU: 27813-02 — Stock: 19.0
 
 ## Matambre
@@ -516,14 +516,14 @@
 - **Palabras clave:** Cubos de Ceviche, Proteinas Gye, Mariscos
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Morcilla](https://friovesa.com/product/morcilla/), [T-Bone](https://friovesa.com/product/t-bone/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/), [Piernas](https://friovesa.com/product/piernas/)
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Salón](https://friovesa.com/product/salon/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
 - peso: 1-kg — USD 16.99 — SKU: 79267-01 — Stock: 18.0
-- peso: 500-g — USD 7.50 — SKU: 79267-02 — Stock: 20.0
+- peso: 500-g — USD 7.50 — SKU: 79267-02 — Stock: 19.0
 
 ## Dorado
 
@@ -701,13 +701,13 @@
 - **Palabras clave:** Tilapia, Proteinas Gye, Mariscos
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Alitas](https://friovesa.com/product/alitas/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Morcilla](https://friovesa.com/product/morcilla/), [Fritada](https://friovesa.com/product/fritada/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 12.00 — SKU: 92717-01 — Stock: 20.0
+- peso: 1-kg — USD 12.00 — SKU: 92717-01 — Stock: 19.0
 - peso: 500-g — USD 6.00 — SKU: 92717-02 — Stock: 20.0
 
 ## Trucha
@@ -810,13 +810,13 @@
 - **Palabras clave:** Filetes de Muslo, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Longaniza](https://friovesa.com/product/longaniza/), [Fritada](https://friovesa.com/product/fritada/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Productos relacionados:** [Fritada](https://friovesa.com/product/fritada/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 8.99 — SKU: 62669-01 — Stock: 20.0
+- peso: 1-kg — USD 8.99 — SKU: 62669-01 — Stock: 19.0
 - peso: 500-g — USD 4.50 — SKU: 62669-02 — Stock: 20.0
 
 ## Filetes de Pechuga
@@ -829,13 +829,13 @@
 - **Palabras clave:** Filetes de Pechuga, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Fritada](https://friovesa.com/product/fritada/), [Salón](https://friovesa.com/product/salon/), [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/)
+- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Alitas](https://friovesa.com/product/alitas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 8.99 — SKU: 78782-01 — Stock: 19.0
+- peso: 1-kg — USD 8.99 — SKU: 78782-01 — Stock: 18.0
 - peso: 500-g — USD 4.50 — SKU: 78782-02 — Stock: 20.0
 
 ## Mollejas
@@ -867,13 +867,13 @@
 - **Palabras clave:** Muslo y Cadera, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Matambre](https://friovesa.com/product/matambre/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Productos relacionados:** [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Salón](https://friovesa.com/product/salon/), [Morcilla](https://friovesa.com/product/morcilla/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 4.99 — SKU: 12946-01 — Stock: 20.0
+- peso: 1-kg — USD 4.99 — SKU: 12946-01 — Stock: 19.0
 - peso: 500-g — USD 2.50 — SKU: 12946-02 — Stock: 20.0
 
 ## Pechuga con Hueso sin Piel
@@ -914,14 +914,14 @@
 - **Palabras clave:** Pechuga Limpia, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Salón](https://friovesa.com/product/salon/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Morcilla](https://friovesa.com/product/morcilla/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/)
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Morcilla](https://friovesa.com/product/morcilla/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Alitas](https://friovesa.com/product/alitas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
 - peso: 3-kg — USD 21.99 — SKU: 13242 — Stock: 20.0
-- peso: 1-kg — USD 7.90 — SKU: 13242-01 — Stock: 20.0
+- peso: 1-kg — USD 7.90 — SKU: 13242-01 — Stock: 19.0
 - peso: 500-g — USD 3.90 — SKU: 13242-02 — Stock: 20.0
 
 ## Piernas
@@ -967,14 +967,14 @@
 - **Palabras clave:** Bife de Chorizo, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/)
+- **Productos relacionados:** [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Alitas](https://friovesa.com/product/alitas/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
 - peso: 1-kg — USD 18.90 — SKU: 43834-01 — Stock: 20.0
-- peso: 500-g — USD 10.00 — SKU: 43834-02 — Stock: 20.0
+- peso: 500-g — USD 10.00 — SKU: 43834-02 — Stock: 19.0
 
 ## Carne de Estofado
 
@@ -1005,13 +1005,13 @@
 - **Palabras clave:** Carne Molida Especial, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Morcilla](https://friovesa.com/product/morcilla/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Salón](https://friovesa.com/product/salon/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Tocino](https://friovesa.com/product/tocino/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 11.90 — SKU: 38187-01 — Stock: 20.0
+- peso: 1-kg — USD 11.90 — SKU: 38187-01 — Stock: 19.0
 - peso: 500-g — USD 5.95 — SKU: 38187-02 — Stock: 19.0
 
 ## Colita Cuadril
@@ -1247,13 +1247,13 @@
 - **Palabras clave:** Ribeye, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Longaniza](https://friovesa.com/product/longaniza/), [Alitas](https://friovesa.com/product/alitas/)
+- **Productos relacionados:** [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Salón](https://friovesa.com/product/salon/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Tocino](https://friovesa.com/product/tocino/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 18.99 — SKU: 32722-01 — Stock: 20.0
+- peso: 1-kg — USD 18.99 — SKU: 32722-01 — Stock: 19.0
 - peso: 500-g — USD 10.50 — SKU: 32722-02 — Stock: 20.0
 
 ## Salón
@@ -1285,13 +1285,13 @@
 - **Palabras clave:** T-Bone, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Atún Blanco](https://friovesa.com/product/atun-blanco/), [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Fritada](https://friovesa.com/product/fritada/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 30.54 — SKU: 55814-01 — Stock: 20.0
+- peso: 1-kg — USD 30.54 — SKU: 55814-01 — Stock: 19.0
 - peso: 500-g — USD 15.28 — SKU: 55814-02 — Stock: 20.0
 
 ## Tomahawk

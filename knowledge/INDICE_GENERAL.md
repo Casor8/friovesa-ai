@@ -305,7 +305,6 @@
 | Quito | Proteinas | Ahumados | Pernil 400gr | [Abrir](https://friovesa.com/product/pernil-400gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Al Pastor 500 gr | [Abrir](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Bbq 500gr | [Abrir](https://friovesa.com/product/pulled-pork-bbq-500gr/) |
-| Quito | Proteinas | Apanados | Dedos apanados 500gr – 1kg | [Abrir](https://friovesa.com/product/dedos-apanados-500gr-1kg/) |
 | Quito | Proteinas | Cerdo | Costillas Cerdo 1Kg | [Abrir](https://friovesa.com/product/costillas-cerdo-1kg/) |
 | Quito | Proteinas | Cerdo | Filetes cerdo 1kg | [Abrir](https://friovesa.com/product/filetes-cerdo/) |
 | Quito | Proteinas | Cerdo | Molida Cerdo 500gr o 1kg | [Abrir](https://friovesa.com/product/molida-cerdo/) |
@@ -338,7 +337,6 @@
 | Quito | Proteinas | Cortes Parrilleros | Palillos tipo Pinchos | [Abrir](https://friovesa.com/product/palillos-tipo-pinchos/) |
 | Quito | Proteinas | Cortes Parrilleros | Pícaña Importada | [Abrir](https://friovesa.com/product/picana-importada-boliviana/) |
 | Quito | Proteinas | Embutidos | Salchicha Frankfurter 1kg – 20ud | [Abrir](https://friovesa.com/product/salchicha-frankfurter-1kg-20ud/) |
-| Quito | Proteinas | Embutidos | Tocino Ahumado 600gr – 3ud | [Abrir](https://friovesa.com/product/tocino-ahumado-600gr-3ud/) |
 | Quito | Proteinas | Exóticos | Conejo entero | [Abrir](https://friovesa.com/product/conejo-entero-12kg/) |
 | Quito | Proteinas | Exóticos | Pavos de 8 a 13k | [Abrir](https://friovesa.com/product/pavos-de-8-a-13k/) |
 | Quito | Proteinas | Exóticos | Pechuga Pavo 2,5 kilos | [Abrir](https://friovesa.com/product/pechuga-pavo-25-kilos/) |
@@ -370,8 +368,10 @@
 | Quito | Proteínas | Ahumados | Pollo Mechado 500gr | [Abrir](https://friovesa.com/product/pollo-mechado-500gr/) |
 | Quito | Proteínas | Ahumados | Smoked Brisket 500 gr | [Abrir](https://friovesa.com/product/smoked-brisket-500-gr/) |
 | Quito | Proteínas | Ahumados | Smoked Pastrami 500 gr | [Abrir](https://friovesa.com/product/smoked-pastrami-500-gr/) |
+| Quito | Proteínas | Ahumados | Tocino Ahumado 600gr – 3ud | [Abrir](https://friovesa.com/product/tocino-ahumado-600gr-3ud/) |
 | Quito | Proteínas | Apanados | Alitas Apanadas 500gr | [Abrir](https://friovesa.com/product/alitas-listas-500gr/) |
 | Quito | Proteínas | Apanados | Camarones Apanados | [Abrir](https://friovesa.com/product/camarones-apanados/) |
+| Quito | Proteínas | Apanados | Dedos apanados 500gr – 1kg | [Abrir](https://friovesa.com/product/dedos-apanados-500gr-1kg/) |
 | Quito | Proteínas | Apanados | Milanesa Pollo 4ud | [Abrir](https://friovesa.com/product/milanesa-pollo-4ud/) |
 | Quito | Proteínas | Apanados | Milanesa Res 4ud | [Abrir](https://friovesa.com/product/milanesa-res-4ud/) |
 | Quito | Proteínas | Apanados | Nuggets Saludables 12ud | [Abrir](https://friovesa.com/product/nuggets-de-pollo-12ud/) |
