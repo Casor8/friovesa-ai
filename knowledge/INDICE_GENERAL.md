@@ -305,7 +305,6 @@
 | Quito | Proteinas | Ahumados | Pernil 400gr | [Abrir](https://friovesa.com/product/pernil-400gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Al Pastor 500 gr | [Abrir](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) |
 | Quito | Proteinas | Ahumados | Pulled Pork Bbq 500gr | [Abrir](https://friovesa.com/product/pulled-pork-bbq-500gr/) |
-| Quito | Proteinas | Cerdo | Costillas Cerdo 1Kg | [Abrir](https://friovesa.com/product/costillas-cerdo-1kg/) |
 | Quito | Proteinas | Cerdo | Filetes cerdo 1kg | [Abrir](https://friovesa.com/product/filetes-cerdo/) |
 | Quito | Proteinas | Cerdo | Molida Cerdo 500gr o 1kg | [Abrir](https://friovesa.com/product/molida-cerdo/) |
 | Quito | Proteinas | Cerdo | Mortadela 400gr | [Abrir](https://friovesa.com/product/mortadela-600gr-3ud/) |
@@ -379,6 +378,7 @@
 | Quito | Proteínas | Apanados | Tilapia Apanada 500gr o 1kg | [Abrir](https://friovesa.com/product/tilapia-apanada-500gr-o-1kg/) |
 | Quito | Proteínas | Cerdo | Bondiola Cerdo 1kg | [Abrir](https://friovesa.com/product/bondiola-cerdo-1kg/) |
 | Quito | Proteínas | Cerdo | Chuletas Cerdo 500gr o 1kg | [Abrir](https://friovesa.com/product/chuletas-cerdo/) |
+| Quito | Proteínas | Cerdo | Costillas Cerdo 1Kg | [Abrir](https://friovesa.com/product/costillas-cerdo-1kg/) |
 | Quito | Proteínas | Cerdo | Costillas San Luis 1kg | [Abrir](https://friovesa.com/product/costillas-san-luis-2k-2-piezas/) |
 | Quito | Proteínas | Cerdo | Fritada 1kg | [Abrir](https://friovesa.com/product/fritada-1kg/) |
 | Quito | Proteínas | Cerdo | Grasa Chicharrón 1kg | [Abrir](https://friovesa.com/product/grasa-chicharron-1kg/) |

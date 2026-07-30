@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-07-29T10:49:27.728836+00:00
+Actualizado: 2026-07-30T10:34:56.765394+00:00
 
 ## Guayaquil (71 productos)
 
@@ -310,7 +310,6 @@ Actualizado: 2026-07-29T10:49:27.728836+00:00
 - [Pernil 400gr](https://friovesa.com/product/pernil-400gr/) — $ 7,99 — Proteinas
 - [Pulled Pork Al Pastor 500 gr](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) — $ 14,99 — Proteinas
 - [Pulled Pork Bbq 500gr](https://friovesa.com/product/pulled-pork-bbq-500gr/) — $ 12,49 — Proteinas
-- [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/) — $ 13,99 — Proteinas
 - [Filetes cerdo 1kg](https://friovesa.com/product/filetes-cerdo/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteinas
 - [Molida Cerdo 500gr o 1kg](https://friovesa.com/product/molida-cerdo/) — $ 6,50 - $ 8,99 Rango de precios: desde $6,50 hasta $8,99 — Proteinas
 - [Mortadela 400gr](https://friovesa.com/product/mortadela-600gr-3ud/) — $ 2,99 — Proteinas
@@ -384,6 +383,7 @@ Actualizado: 2026-07-29T10:49:27.728836+00:00
 - [Tilapia Apanada 500gr o 1kg](https://friovesa.com/product/tilapia-apanada-500gr-o-1kg/) — $ 7,99 - $ 12,99 Rango de precios: desde $7,99 hasta $12,99 — Proteínas
 - [Bondiola Cerdo 1kg](https://friovesa.com/product/bondiola-cerdo-1kg/) — $ 10,50 — Proteínas
 - [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/) — $ 5,99 - $ 9,99 Rango de precios: desde $5,99 hasta $9,99 — Proteínas
+- [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/) — $ 13,99 — Proteínas
 - [Costillas San Luis 1kg](https://friovesa.com/product/costillas-san-luis-2k-2-piezas/) — $ 12,99 — Proteínas
 - [Fritada 1kg](https://friovesa.com/product/fritada-1kg/) — $ 7,99 — Proteínas
 - [Grasa Chicharrón 1kg](https://friovesa.com/product/grasa-chicharron-1kg/) — $ 4,99 — Proteínas
