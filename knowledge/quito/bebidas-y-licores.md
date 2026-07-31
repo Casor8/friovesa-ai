@@ -23,7 +23,7 @@
 - **Palabras clave:** Botellón de agua, Bebidas y Licores
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
+- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -42,7 +42,7 @@
 - **Palabras clave:** Cero Resaca Drink 4ud, Bebidas y Licores
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -56,7 +56,7 @@
 - **Palabras clave:** Colada Morada 500ml, Bebidas y Licores
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Productos relacionados:** [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -70,7 +70,7 @@
 - **Palabras clave:** Kombucha, Bebidas y Licores
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/)
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -90,7 +90,7 @@
 - **Palabras clave:** Vino Blanco Rossetti Bianco, Bebidas y Licores
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Orange Smoothie](https://friovesa.com/product/orange-smoothie/), [Green Smoothie](https://friovesa.com/product/green-smoothie/), [3 Papillas bebe 90g c/u](https://friovesa.com/product/papiyas-de-bebe/), [Colada Morada 500ml](https://friovesa.com/product/colada-morada/)
+- **Productos relacionados:** [Botellón de agua](https://friovesa.com/product/botellon-de-agua/), [Vodka Snic 750ml](https://friovesa.com/product/vodka-snic-750ml/), [3 Papillas bebe 90g c/u](https://friovesa.com/product/papiyas-de-bebe/), [Colada Morada 500ml](https://friovesa.com/product/colada-morada/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -104,7 +104,7 @@
 - **Palabras clave:** Vino Tinto Rossetti Rosso, Bebidas y Licores
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Botellón de agua](https://friovesa.com/product/botellon-de-agua/), [Cero Resaca Drink 4ud](https://friovesa.com/product/cero-resaca-drink-4ud/), [Vino Blanco Rossetti Bianco](https://friovesa.com/product/vino-blanco-rossetti-bianco/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/)
+- **Productos relacionados:** [Cero Resaca Drink 4ud](https://friovesa.com/product/cero-resaca-drink-4ud/), [Vodka Snic 750ml](https://friovesa.com/product/vodka-snic-750ml/), [Colada Morada 500ml](https://friovesa.com/product/colada-morada/), [Kombucha](https://friovesa.com/product/kombucha/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -118,7 +118,7 @@
 - **Palabras clave:** Vodka Snic 750ml, Bebidas y Licores
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
+- **Productos relacionados:** [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -132,7 +132,7 @@
 - **Palabras clave:** Green Smoothie, Bebidas y Licores, IceMan
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** IceMan
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Productos relacionados:** [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -146,7 +146,7 @@
 - **Palabras clave:** Orange Smoothie, Bebidas y Licores, IceMan
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** IceMan
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -160,6 +160,6 @@
 - **Palabras clave:** Red Smoothie, Bebidas y Licores, IceMan
 - **Categoría:** Bebidas y Licores
 - **Subcategoría:** IceMan
-- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/)
 - **Estado:** activo
 - **Stock:** No publicado

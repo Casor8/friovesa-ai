@@ -14,7 +14,7 @@
 - **Palabras clave:** Merito
 - **Categoría:** No publicada
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Róbalo](https://friovesa.com/product/robalo/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Pollo Entero](https://friovesa.com/product/pollo-entero/)
+- **Productos relacionados:** [Fritada](https://friovesa.com/product/fritada/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
 - **Estado:** activo
 - **Stock:** Con stock
 

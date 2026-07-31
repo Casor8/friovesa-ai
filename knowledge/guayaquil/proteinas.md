@@ -15,7 +15,7 @@
 - **Palabras clave:** Nuggets de Pollo, Proteínas, Pollo
 - **Categoría:** Proteínas
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Matambre](https://friovesa.com/product/matambre/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Tocino](https://friovesa.com/product/tocino/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -34,7 +34,7 @@
 - **Palabras clave:** Lomo Fino, Proteínas, Res
 - **Categoría:** Proteínas
 - **Subcategoría:** Res
-- **Productos relacionados:** [T-Bone](https://friovesa.com/product/t-bone/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/)
 - **Estado:** activo
 - **Stock:** Con stock
 

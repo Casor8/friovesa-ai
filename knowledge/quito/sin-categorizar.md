@@ -15,7 +15,7 @@
 - **Palabras clave:** 3 Lomo fino de 150gr, Sin categorizar
 - **Categoría:** Sin categorizar
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Purificador Total](https://friovesa.com/product/purificador-total/), [Molida Pollo 1kg](https://friovesa.com/product/molida-pollo/), [Cocktail Vodka Snic](https://friovesa.com/product/cocktail-vodka-snic/), [Creatina Levro Mono 300gr](https://friovesa.com/product/creatina-levro-mono/)
+- **Productos relacionados:** [Purificador Total](https://friovesa.com/product/purificador-total/), [Forever Nature Min](https://friovesa.com/product/forever-nature-min/), [Proteina Mutant Mass](https://friovesa.com/product/proteina-mutant-mass/), [Citrate Magnecio 60cap](https://friovesa.com/product/citrate-magnecio-60cap/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -29,6 +29,6 @@
 - **Palabras clave:** Forever Nature Min, Sin categorizar
 - **Categoría:** Sin categorizar
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Purificador Total](https://friovesa.com/product/purificador-total/), [Molida Pollo 1kg](https://friovesa.com/product/molida-pollo/), [Omega 3 – 90cap](https://friovesa.com/product/omega-3-90cap/), [Creatina Levro Mono 300gr](https://friovesa.com/product/creatina-levro-mono/)
+- **Productos relacionados:** [Purificador Total](https://friovesa.com/product/purificador-total/), [Cocktail Vodka Snic](https://friovesa.com/product/cocktail-vodka-snic/), [Citrate Magnecio 60cap](https://friovesa.com/product/citrate-magnecio-60cap/), [Glicinato Magnesio 120 Cap.](https://friovesa.com/product/glicinato-magnesio-120-cap/)
 - **Estado:** activo
 - **Stock:** No publicado

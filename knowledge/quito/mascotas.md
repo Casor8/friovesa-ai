@@ -20,27 +20,27 @@
 - **Palabras clave:** Alimento Barf 1kg a 48kg, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
+- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 48-kg, sabor: pollo — USD 168.00 — SKU: 53396 — Stock: 3129.0
-- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396 — Stock: 3129.0
-- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396 — Stock: 3129.0
-- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396 — Stock: 3129.0
-- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396 — Stock: 3129.0
-- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396 — Stock: 3129.0
-- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396 — Stock: 3129.0
-- peso: 42-kg, sabor: pollo — USD 147.00 — SKU: 53396 — Stock: 3129.0
-- peso: 30-kg, sabor: pollo — USD 108.00 — SKU: 53396 — Stock: 3129.0
-- peso: 15-kg, sabor: pollo — USD 57.00 — SKU: 53396 — Stock: 3129.0
-- peso: 21-kg, sabor: pollo — USD 77.70 — SKU: 53396 — Stock: 3129.0
-- peso: 10-kg, sabor: pollo — USD 39.00 — SKU: 53396-03 — Stock: 3129.0
-- peso: 5-kg, sabor: pollo — USD 19.99 — SKU: 53396-08 — Stock: 3129.0
-- peso: 3-kg, sabor: pollo — USD 11.99 — SKU: 53396-10 — Stock: 3129.0
-- peso: 1-kg, sabor: pollo — USD 3.99 — SKU: 53396-12 — Stock: 3129.0
+- peso: 48-kg, sabor: pollo — USD 168.00 — SKU: 53396 — Stock: 3119.0
+- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396 — Stock: 3119.0
+- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396 — Stock: 3119.0
+- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396 — Stock: 3119.0
+- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396 — Stock: 3119.0
+- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396 — Stock: 3119.0
+- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396 — Stock: 3119.0
+- peso: 42-kg, sabor: pollo — USD 147.00 — SKU: 53396 — Stock: 3119.0
+- peso: 30-kg, sabor: pollo — USD 108.00 — SKU: 53396 — Stock: 3119.0
+- peso: 15-kg, sabor: pollo — USD 57.00 — SKU: 53396 — Stock: 3119.0
+- peso: 21-kg, sabor: pollo — USD 77.70 — SKU: 53396 — Stock: 3119.0
+- peso: 10-kg, sabor: pollo — USD 39.00 — SKU: 53396-03 — Stock: 3119.0
+- peso: 5-kg, sabor: pollo — USD 19.99 — SKU: 53396-08 — Stock: 3119.0
+- peso: 3-kg, sabor: pollo — USD 11.99 — SKU: 53396-10 — Stock: 3119.0
+- peso: 1-kg, sabor: pollo — USD 3.99 — SKU: 53396-12 — Stock: 3119.0
 
 ## Bolitas Carnes Liofilizadas 250gr
 
@@ -52,7 +52,7 @@
 - **Palabras clave:** Bolitas Carnes Liofilizadas 250gr, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -66,7 +66,7 @@
 - **Palabras clave:** Fundas Perros, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/)
+- **Productos relacionados:** [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -80,7 +80,7 @@
 - **Palabras clave:** Galletas Perros, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -100,7 +100,7 @@
 - **Palabras clave:** Perrines Snacks, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
+- **Productos relacionados:** [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -128,7 +128,7 @@
 - **Palabras clave:** Snacks Deshidratados, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/)
+- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -150,7 +150,7 @@
 - **Palabras clave:** Vaca Snacks, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
+- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 

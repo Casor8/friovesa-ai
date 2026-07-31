@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-07-30T10:34:56.765394+00:00
+Actualizado: 2026-07-31T11:00:38.284275+00:00
 
 ## Guayaquil (71 productos)
 
@@ -240,30 +240,30 @@ Actualizado: 2026-07-30T10:34:56.765394+00:00
 - [Pecorino Romano 150 g.](https://friovesa.com/product/pecorino-romano-150-g/) — $ 7,25 — Despensa
 - [Sour Cream 500 g.](https://friovesa.com/product/sour-cream-500-g/) — $ 7,50 — Despensa
 - [Tomme Rallado 225 g.](https://friovesa.com/product/tomme-rallado-225-g/) — $ 6,00 — Despensa
-- [Arveja 500gr ❄️](https://friovesa.com/product/alverja-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,70 — Frutas Y Verduras
-- [Brócoli 500gr ❄️](https://friovesa.com/product/brocoli-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,00 — Frutas Y Verduras
-- [Chocho 500gr ❄️](https://friovesa.com/product/chocho-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas Y Verduras
-- [Choclo 500gr ❄️](https://friovesa.com/product/choclo-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas Y Verduras
-- [Ensalada Rusa 500gr ❄️](https://friovesa.com/product/ensalada-rusa-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,60 — Frutas Y Verduras
-- [Frejol Rojo 500gr ❄️](https://friovesa.com/product/frejol-rojo-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas Y Verduras
-- [Frutillas 450gr ❄️](https://friovesa.com/product/frutillas-450gr-%e2%9d%84%ef%b8%8f/) — $ 3,50 — Frutas Y Verduras
-- [Garbanzo 500gr ❄️](https://friovesa.com/product/garbanzo-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas Y Verduras
-- [Moras 450gr ❄️](https://friovesa.com/product/moras-450gr-%e2%9d%84%ef%b8%8f/) — $ 3,75 — Frutas Y Verduras
-- [Pimiento 500gr ❄️](https://friovesa.com/product/pimiento-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas Y Verduras
-- [Vainitas 500gr ❄️](https://friovesa.com/product/vainitas-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,70 — Frutas Y Verduras
-- [Zanahoria 500gr ❄️](https://friovesa.com/product/zanahoria-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,60 — Frutas Y Verduras
-- [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/) — $ 14,00 — Frutas Y Verduras
-- [Limón Deshidratado 1Lb](https://friovesa.com/product/limon-deshidratado-1lb/) — $ 9,99 — Frutas Y Verduras
-- [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/) — $ 15,00 — Frutas Y Verduras
-- [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/) — $ 14,00 — Frutas Y Verduras
-- [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/) — $ 13,00 — Frutas Y Verduras
-- [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/) — $ 12,00 — Frutas Y Verduras
-- [Tomate Deshidratado 1Lb](https://friovesa.com/product/tomate-deshidratado-1lb/) — $ 12,50 — Frutas Y Verduras
-- [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/) — $ 11,99 — Frutas Y Verduras
+- [Arveja 500gr ❄️](https://friovesa.com/product/alverja-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,70 — Frutas y Verduras
+- [Brócoli 500gr ❄️](https://friovesa.com/product/brocoli-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,00 — Frutas y Verduras
+- [Chocho 500gr ❄️](https://friovesa.com/product/chocho-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas y Verduras
+- [Choclo 500gr ❄️](https://friovesa.com/product/choclo-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas y Verduras
+- [Ensalada Rusa 500gr ❄️](https://friovesa.com/product/ensalada-rusa-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,60 — Frutas y Verduras
+- [Frejol Rojo 500gr ❄️](https://friovesa.com/product/frejol-rojo-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas y Verduras
+- [Frutillas 450gr ❄️](https://friovesa.com/product/frutillas-450gr-%e2%9d%84%ef%b8%8f/) — $ 3,50 — Frutas y Verduras
+- [Garbanzo 500gr ❄️](https://friovesa.com/product/garbanzo-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas y Verduras
+- [Moras 450gr ❄️](https://friovesa.com/product/moras-450gr-%e2%9d%84%ef%b8%8f/) — $ 3,75 — Frutas y Verduras
+- [Pimiento 500gr ❄️](https://friovesa.com/product/pimiento-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,99 — Frutas y Verduras
+- [Vainitas 500gr ❄️](https://friovesa.com/product/vainitas-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,70 — Frutas y Verduras
+- [Zanahoria 500gr ❄️](https://friovesa.com/product/zanahoria-500gr-%e2%9d%84%ef%b8%8f/) — $ 2,60 — Frutas y Verduras
+- [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/) — $ 14,00 — Frutas y Verduras
+- [Limón Deshidratado 1Lb](https://friovesa.com/product/limon-deshidratado-1lb/) — $ 9,99 — Frutas y Verduras
+- [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/) — $ 15,00 — Frutas y Verduras
+- [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/) — $ 14,00 — Frutas y Verduras
+- [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/) — $ 13,00 — Frutas y Verduras
+- [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/) — $ 12,00 — Frutas y Verduras
+- [Tomate Deshidratado 1Lb](https://friovesa.com/product/tomate-deshidratado-1lb/) — $ 12,50 — Frutas y Verduras
+- [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/) — $ 11,99 — Frutas y Verduras
 - [Canasta](https://friovesa.com/product/canasta/) — From $ 0,00 — Frutas y Verduras
-- [3 Papillas bebe 90g c/u](https://friovesa.com/product/papiyas-de-bebe/) — $ 2,99 — Frutas Y Verduras
-- [Pulpas 10 ud x litro](https://friovesa.com/product/10-pulpas-de-100gr-x-sabor/) — $ 5,90 - $ 8,90 Rango de precios: desde $5,90 hasta $8,90 — Frutas Y Verduras
-- [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/) — $ 13,50 — Frutas Y Verduras
+- [3 Papillas bebe 90g c/u](https://friovesa.com/product/papiyas-de-bebe/) — $ 2,99 — Frutas y Verduras
+- [Pulpas 10 ud x litro](https://friovesa.com/product/10-pulpas-de-100gr-x-sabor/) — $ 5,90 - $ 8,90 Rango de precios: desde $5,90 hasta $8,90 — Frutas y Verduras
+- [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/) — $ 13,50 — Frutas y Verduras
 - [Aros de Cebolla](https://friovesa.com/product/aros-de-cebolla/) — $ 4,99 — IceMan
 - [Arvejas Ultracongeladas](https://friovesa.com/product/arvejas-ultracongeladas/) — $ 2,50 — IceMan
 - [Croquetas de Yuca](https://friovesa.com/product/croquetas-de-yuca/) — $ 3,50 — IceMan
@@ -307,69 +307,13 @@ Actualizado: 2026-07-30T10:34:56.765394+00:00
 - [Chocolates Hash 80gr c/u](https://friovesa.com/product/chocolate-blanco-matcha-amaranto-80gr/) — $ 4,80 — Postres
 - [Dubai Chocolate 60g](https://friovesa.com/product/dubai-chocolate/) — $ 5,99 — Postres
 - [Torta Zanahoria 6ud](https://friovesa.com/product/pastel-zanahoria/) — $ 5,22 — Postres
-- [Pernil 400gr](https://friovesa.com/product/pernil-400gr/) — $ 7,99 — Proteinas
-- [Pulled Pork Al Pastor 500 gr](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) — $ 14,99 — Proteinas
-- [Pulled Pork Bbq 500gr](https://friovesa.com/product/pulled-pork-bbq-500gr/) — $ 12,49 — Proteinas
-- [Filetes cerdo 1kg](https://friovesa.com/product/filetes-cerdo/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteinas
-- [Molida Cerdo 500gr o 1kg](https://friovesa.com/product/molida-cerdo/) — $ 6,50 - $ 8,99 Rango de precios: desde $6,50 hasta $8,99 — Proteinas
-- [Mortadela 400gr](https://friovesa.com/product/mortadela-600gr-3ud/) — $ 2,99 — Proteinas
-- [Patas Cerdo 1kg](https://friovesa.com/product/patas-cerdo-1kg/) — $ 4,99 — Proteinas
-- [Pierna entera Cerdo 11k](https://friovesa.com/product/pierna-entera-cerdo-11k/) — $ 60,00 — Proteinas
-- [Calienta y Listo](https://friovesa.com/product/calienta-y-listo/) — $ 16,50 — Proteinas
-- [Combo 1](https://friovesa.com/product/combo-1/) — $ 18,00 — Proteinas
-- [Combo 2](https://friovesa.com/product/combo-2/) — $ 19,00 — Proteinas
-- [Combo 3](https://friovesa.com/product/combo-3/) — $ 13,00 — Proteinas
-- [Combo Para Picar](https://friovesa.com/product/combo-mundialista/) — $ 34,99 — Proteinas
-- [Combo Parrillero](https://friovesa.com/product/combo-parrilero/) — $ 59,99 — Proteinas
-- [Chuleta Paletilla 500gr](https://friovesa.com/product/chuleta-de-paletilla-1kg/) — $ 8,99 — Proteinas
-- [Hamburguesa Cordero 4ud](https://friovesa.com/product/hamburguesa-cordero-6ud/) — $ 11,99 — Proteinas
-- [T-Bone Cordero 500gr](https://friovesa.com/product/t-bone-cordero-1kg/) — $ 12,50 — Proteinas
-- [Trozos Cordero 500gr](https://friovesa.com/product/trozos-cordero-1kg/) — $ 9,90 — Proteinas
-- [Carbon 1.5k](https://friovesa.com/product/carbon-1-5k/) — $ 2,60 — Proteinas
-- [Carbón parrillero 2kg](https://friovesa.com/product/carbon-parrillero-1-kg/) — $ 2,90 — Proteinas
-- [Choricillo 1kg – 20ud](https://friovesa.com/product/choricillo-1kg-20ud/) — $ 13,99 — Proteinas
-- [Chorizo Botón – 20ud](https://friovesa.com/product/chorizo-boton-20ud/) — $ 10,50 — Proteinas
-- [Chorizo Paisa 12u/900g](https://friovesa.com/product/chorizo-paisa-12ud/) — $ 9,50 — Proteinas
-- [Colita Cuadril Importada](https://friovesa.com/product/colita-cuadril-importada/) — $ 17,99 - $ 24,99 Rango de precios: desde $17,99 hasta $24,99 — Proteinas
-- [Encendedor Líquido](https://friovesa.com/product/encendedor-liquido/) — $ 2,50 — Proteinas
-- [Enciende Fuegos](https://friovesa.com/product/enciende-fuegos/) — $ 1,99 — Proteinas
-- [Entraña de Res 1kg](https://friovesa.com/product/entrana-de-res-1kg/) — $ 11,99 — Proteinas
-- [Filete de Muslo 1kg](https://friovesa.com/product/filete-de-muslo/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteinas
-- [Fósforos Hogar 3ud](https://friovesa.com/product/fosforos-hogar-3ud/) — $ 3,60 — Proteinas
-- [Lomo fino Importado](https://friovesa.com/product/lomo-fino-importado/) — $ 28,50 - $ 52,99 Rango de precios: desde $28,50 hasta $52,99 — Proteinas
-- [Olmas 1kg – 20ud](https://friovesa.com/product/olmas-1kg-10ud/) — $ 9,99 — Proteinas
-- [Palillos tipo Pinchos](https://friovesa.com/product/palillos-tipo-pinchos/) — $ 1,80 — Proteinas
-- [Pícaña Importada](https://friovesa.com/product/picana-importada-boliviana/) — $ 25,99 - $ 32,99 Rango de precios: desde $25,99 hasta $32,99 — Proteinas
-- [Salchicha Frankfurter 1kg – 20ud](https://friovesa.com/product/salchicha-frankfurter-1kg-20ud/) — $ 7,49 — Proteinas
-- [Conejo entero](https://friovesa.com/product/conejo-entero-12kg/) — $ 29,99 — Proteinas
-- [Pavos de 8 a 13k](https://friovesa.com/product/pavos-de-8-a-13k/) — $ 39,99 - $ 64,99 Rango de precios: desde $39,99 hasta $64,99 — Proteinas
-- [Pechuga Pavo 2,5 kilos](https://friovesa.com/product/pechuga-pavo-25-kilos/) — $ 26,50 — Proteinas
-- [Almejas 1lb – 40ud](https://friovesa.com/product/almejas-1lb-40ud/) — $ 5,20 — Proteinas
-- [Baby Calamar 1Lb o 2lb](https://friovesa.com/product/baby-calamar-1lb-o-2lb/) — $ 7,50 - $ 13,99 Rango de precios: desde $7,50 hasta $13,99 — Proteinas
-- [Cangrejo Uñas 1lb](https://friovesa.com/product/unas-cangrejo-1lb/) — $ 23,99 — Proteinas
-- [Mejillones 1lb – 40ud](https://friovesa.com/product/mejillones-1lb-40ud/) — $ 5,50 — Proteinas
-- [Pez Espada (1Lb o 2lb)](https://friovesa.com/product/pez-espada-1lb-o-2lb/) — $ 9,50 - $ 17,50 Rango de precios: desde $9,50 hasta $17,50 — Proteinas
-- [Picudo Steak (1lb o 2lb)](https://friovesa.com/product/picudo-steak-1lb-o-2lb/) — $ 8,99 - $ 16,99 Rango de precios: desde $8,99 hasta $16,99 — Proteinas
-- [Pulpo Entero – 2lb](https://friovesa.com/product/pulpo-entero-500gr/) — $ 21,99 — Proteinas
-- [Róbalo 1lb – 3 filetes](https://friovesa.com/product/robalo-1lb-3-filetes/) — $ 12,50 — Proteinas
-- [Salmón Pieza Entera 4lb](https://friovesa.com/product/salmon-pieza-entera-4lb/) — $ 44,99 — Proteinas
-- [Caldo de Hueso 1Lt](https://friovesa.com/product/caldo-de-hueso/) — $ 9,99 — Proteinas
-- [Huevos 30ud](https://friovesa.com/product/huevos-30ud/) — $ 5,50 — Proteinas
-- [Molida Pollo 1kg](https://friovesa.com/product/molida-pollo/) — $ 8,50 — Proteinas
-- [Mollejas Pollo 1kg](https://friovesa.com/product/mollejas-de-pollo-1kg/) — $ 5,99 — Proteinas
-- [Patas Pollo 1kg](https://friovesa.com/product/patas-pollo-1kg/) — $ 3,50 — Proteinas
-- [Pollo Entero 5lb](https://friovesa.com/product/pollo-entero-5lb/) — $ 10,49 — Proteinas
-- [Costillas Res 1kg](https://friovesa.com/product/costillas-res-1kg/) — $ 6,99 — Proteinas
-- [Goulash de Carne 1kg](https://friovesa.com/product/goulash-de-carne-1kg/) — $ 10,99 — Proteinas
-- [Higado Res 1kg](https://friovesa.com/product/higado-1kg/) — $ 7,40 — Proteinas
-- [Mollejas Res 1kg](https://friovesa.com/product/mollejas-res-1kg/) — $ 6,80 — Proteinas
-- [Pata Res 1ud](https://friovesa.com/product/pata-res-1ud/) — $ 8,99 — Proteinas
-- [Pulpa Negra Res 500gr a 1kg](https://friovesa.com/product/pulpa-negra-res-500gr-a-1kg/) — $ 6,99 - $ 12,50 Rango de precios: desde $6,99 hasta $12,50 — Proteinas
-- [Punta Cadera Fileteada 1kg – 8ud](https://friovesa.com/product/punta-cadera-fileteada-1kg-8ud/) — $ 12,50 — Proteinas
 - [Carne Mechada 500gr](https://friovesa.com/product/carne-mechada-500gr/) — $ 8,99 — Proteínas
 - [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/) — $ 10,99 - $ 18,50 Rango de precios: desde $10,99 hasta $18,50 — Proteínas
 - [Jamón Sanduchero 400gr](https://friovesa.com/product/jamon-sanduchero-600gr-3ud/) — $ 3,99 — Proteínas
+- [Pernil 400gr](https://friovesa.com/product/pernil-400gr/) — $ 7,99 — Proteínas
 - [Pollo Mechado 500gr](https://friovesa.com/product/pollo-mechado-500gr/) — $ 7,99 — Proteínas
+- [Pulled Pork Al Pastor 500 gr](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) — $ 14,99 — Proteínas
+- [Pulled Pork Bbq 500gr](https://friovesa.com/product/pulled-pork-bbq-500gr/) — $ 12,49 — Proteínas
 - [Smoked Brisket 500 gr](https://friovesa.com/product/smoked-brisket-500-gr/) — $ 12,99 — Proteínas
 - [Smoked Pastrami 500 gr](https://friovesa.com/product/smoked-pastrami-500-gr/) — $ 12,99 — Proteínas
 - [Tocino Ahumado 600gr – 3ud](https://friovesa.com/product/tocino-ahumado-600gr-3ud/) — $ 9,99 — Proteínas
@@ -385,56 +329,112 @@ Actualizado: 2026-07-30T10:34:56.765394+00:00
 - [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/) — $ 5,99 - $ 9,99 Rango de precios: desde $5,99 hasta $9,99 — Proteínas
 - [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/) — $ 13,99 — Proteínas
 - [Costillas San Luis 1kg](https://friovesa.com/product/costillas-san-luis-2k-2-piezas/) — $ 12,99 — Proteínas
+- [Filetes cerdo 1kg](https://friovesa.com/product/filetes-cerdo/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteínas
 - [Fritada 1kg](https://friovesa.com/product/fritada-1kg/) — $ 7,99 — Proteínas
 - [Grasa Chicharrón 1kg](https://friovesa.com/product/grasa-chicharron-1kg/) — $ 4,99 — Proteínas
 - [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/) — $ 7,50 - $ 12,50 Rango de precios: desde $7,50 hasta $12,50 — Proteínas
 - [Matambre 500gr o 1kg](https://friovesa.com/product/matambre-1kg/) — $ 7,99 - $ 13,99 Rango de precios: desde $7,99 hasta $13,99 — Proteínas
+- [Molida Cerdo 500gr o 1kg](https://friovesa.com/product/molida-cerdo/) — $ 6,50 - $ 8,99 Rango de precios: desde $6,50 hasta $8,99 — Proteínas
+- [Mortadela 400gr](https://friovesa.com/product/mortadela-600gr-3ud/) — $ 2,99 — Proteínas
 - [Panceta Cerdo 1kg](https://friovesa.com/product/panceta-cerdo-1kg/) — $ 10,50 — Proteínas
+- [Patas Cerdo 1kg](https://friovesa.com/product/patas-cerdo-1kg/) — $ 4,99 — Proteínas
+- [Pierna entera Cerdo 11k](https://friovesa.com/product/pierna-entera-cerdo-11k/) — $ 60,00 — Proteínas
 - [Pícaña Cerdo 2kg](https://friovesa.com/product/picana-cerdo-2kg/) — $ 17,50 — Proteínas
+- [Calienta y Listo](https://friovesa.com/product/calienta-y-listo/) — $ 16,50 — Proteínas
+- [Combo 1](https://friovesa.com/product/combo-1/) — $ 18,00 — Proteínas
+- [Combo 2](https://friovesa.com/product/combo-2/) — $ 19,00 — Proteínas
+- [Combo 3](https://friovesa.com/product/combo-3/) — $ 13,00 — Proteínas
+- [Combo Para Picar](https://friovesa.com/product/combo-mundialista/) — $ 34,99 — Proteínas
+- [Combo Parrillero](https://friovesa.com/product/combo-parrilero/) — $ 59,99 — Proteínas
+- [Chuleta Paletilla 500gr](https://friovesa.com/product/chuleta-de-paletilla-1kg/) — $ 8,99 — Proteínas
+- [Hamburguesa Cordero 4ud](https://friovesa.com/product/hamburguesa-cordero-6ud/) — $ 11,99 — Proteínas
+- [T-Bone Cordero 500gr](https://friovesa.com/product/t-bone-cordero-1kg/) — $ 12,50 — Proteínas
+- [Trozos Cordero 500gr](https://friovesa.com/product/trozos-cordero-1kg/) — $ 9,90 — Proteínas
 - [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/) — $ 4,99 — Proteínas
 - [Bife Importado 500gr o 1kg](https://friovesa.com/product/bife-importado-500gr-o-1kg/) — $ 10,50 - $ 18,99 Rango de precios: desde $10,50 hasta $18,99 — Proteínas
+- [Carbon 1.5k](https://friovesa.com/product/carbon-1-5k/) — $ 2,60 — Proteínas
+- [Carbón parrillero 2kg](https://friovesa.com/product/carbon-parrillero-1-kg/) — $ 2,90 — Proteínas
 - [Chinchulines 500gr](https://friovesa.com/product/chinchulines-500gr/) — $ 8,99 — Proteínas
 - [Chistorra 1kg](https://friovesa.com/product/chistorra-1kg/) — $ 13,50 — Proteínas
+- [Choricillo 1kg – 20ud](https://friovesa.com/product/choricillo-1kg-20ud/) — $ 13,99 — Proteínas
 - [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/) — $ 10,99 — Proteínas
+- [Chorizo Botón – 20ud](https://friovesa.com/product/chorizo-boton-20ud/) — $ 10,50 — Proteínas
+- [Chorizo Paisa 12u/900g](https://friovesa.com/product/chorizo-paisa-12ud/) — $ 9,50 — Proteínas
+- [Colita Cuadril Importada](https://friovesa.com/product/colita-cuadril-importada/) — $ 17,99 - $ 24,99 Rango de precios: desde $17,99 hasta $24,99 — Proteínas
+- [Encendedor Líquido](https://friovesa.com/product/encendedor-liquido/) — $ 2,50 — Proteínas
+- [Enciende Fuegos](https://friovesa.com/product/enciende-fuegos/) — $ 1,99 — Proteínas
+- [Entraña de Res 1kg](https://friovesa.com/product/entrana-de-res-1kg/) — $ 11,99 — Proteínas
+- [Filete de Muslo 1kg](https://friovesa.com/product/filete-de-muslo/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteínas
+- [Fósforos Hogar 3ud](https://friovesa.com/product/fosforos-hogar-3ud/) — $ 3,60 — Proteínas
 - [Hamburguesa Pollo 1Lb o 2lb](https://friovesa.com/product/hamburguesa-pollo-1lb-o-2lb/) — $ 5,99 - $ 11,99 Rango de precios: desde $5,99 hasta $11,99 — Proteínas
 - [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/) — $ 5,99 - $ 11,99 Rango de precios: desde $5,99 hasta $11,99 — Proteínas
+- [Lomo fino Importado](https://friovesa.com/product/lomo-fino-importado/) — $ 28,50 - $ 52,99 Rango de precios: desde $28,50 hasta $52,99 — Proteínas
 - [Longaniza 1kg](https://friovesa.com/product/longaniza-1kg/) — $ 10,99 — Proteínas
 - [Morcillas 1kg – 20ud](https://friovesa.com/product/morcillas-1kg-20ud/) — $ 8,49 — Proteínas
+- [Olmas 1kg – 20ud](https://friovesa.com/product/olmas-1kg-10ud/) — $ 9,99 — Proteínas
+- [Palillos tipo Pinchos](https://friovesa.com/product/palillos-tipo-pinchos/) — $ 1,80 — Proteínas
+- [Pícaña Importada](https://friovesa.com/product/picana-importada-boliviana/) — $ 25,99 - $ 32,99 Rango de precios: desde $25,99 hasta $32,99 — Proteínas
 - [Ribeye importado 500gr o 1kg](https://friovesa.com/product/ribeye-importado-500gr-o-1kg/) — $ 10,50 - $ 18,99 Rango de precios: desde $10,50 hasta $18,99 — Proteínas
 - [Salame Rebanado 600gr](https://friovesa.com/product/salame-rebanado-600gr-2/) — $ 6,99 — Proteínas
+- [Salchicha Frankfurter 1kg – 20ud](https://friovesa.com/product/salchicha-frankfurter-1kg-20ud/) — $ 7,49 — Proteínas
 - [Ancas de Rana 500gr – 5ud](https://friovesa.com/product/ancas-de-rana-500gr-5ud/) — $ 9,99 — Proteínas
+- [Conejo entero](https://friovesa.com/product/conejo-entero-12kg/) — $ 29,99 — Proteínas
 - [Cuy Entero 800gr](https://friovesa.com/product/cuy-entero-800gr/) — $ 15,50 — Proteínas
 - [Pato Entero 2,5kg](https://friovesa.com/product/pato-entero/) — $ 41,50 — Proteínas
+- [Pavos de 8 a 13k](https://friovesa.com/product/pavos-de-8-a-13k/) — $ 39,99 - $ 64,99 Rango de precios: desde $39,99 hasta $64,99 — Proteínas
+- [Pechuga Pavo 2,5 kilos](https://friovesa.com/product/pechuga-pavo-25-kilos/) — $ 26,50 — Proteínas
 - [Albacora 1lb- 2lb](https://friovesa.com/product/albacora-1lb-2lb/) — $ 5,50 - $ 9,99 Rango de precios: desde $5,50 hasta $9,99 — Proteínas
+- [Almejas 1lb – 40ud](https://friovesa.com/product/almejas-1lb-40ud/) — $ 5,20 — Proteínas
 - [Almejas Pulpa 1lb](https://friovesa.com/product/pulpa-almejas-1lb/) — $ 5,99 — Proteínas
 - [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/) — $ 9,50 - $ 16,99 Rango de precios: desde $9,50 hasta $16,99 — Proteínas
+- [Baby Calamar 1Lb o 2lb](https://friovesa.com/product/baby-calamar-1lb-o-2lb/) — $ 7,50 - $ 13,99 Rango de precios: desde $7,50 hasta $13,99 — Proteínas
 - [Calamar Anillos 2lb](https://friovesa.com/product/calamar-anillos-2lb/) — $ 12,50 — Proteínas
 - [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/) — $ 7,49 - $ 13,99 Rango de precios: desde $7,49 hasta $13,99 — Proteínas
 - [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/) — $ 18,50 — Proteínas
+- [Cangrejo Uñas 1lb](https://friovesa.com/product/unas-cangrejo-1lb/) — $ 23,99 — Proteínas
 - [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/) — $ 11,99 - $ 22,99 Rango de precios: desde $11,99 hasta $22,99 — Proteínas
 - [Cubos Ceviche 1Lb o 2lb](https://friovesa.com/product/cubos-ceviche-1lb-o-2lb/) — $ 7,50 - $ 14,99 Rango de precios: desde $7,50 hasta $14,99 — Proteínas
 - [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/) — $ 8,50 - $ 15,99 Rango de precios: desde $8,50 hasta $15,99 — Proteínas
 - [Langostinos (1Lb o 2Lb)](https://friovesa.com/product/langostinos-1lb-o-2lb/) — $ 9,50 - $ 16,99 Rango de precios: desde $9,50 hasta $16,99 — Proteínas
+- [Mejillones 1lb – 40ud](https://friovesa.com/product/mejillones-1lb-40ud/) — $ 5,50 — Proteínas
 - [Mejillones Pulpa 1lb](https://friovesa.com/product/pulpa-mejillones-1lb/) — $ 5,99 — Proteínas
 - [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/) — $ 5,99 - $ 9,99 Rango de precios: desde $5,99 hasta $9,99 — Proteínas
+- [Pez Espada (1Lb o 2lb)](https://friovesa.com/product/pez-espada-1lb-o-2lb/) — $ 9,50 - $ 17,50 Rango de precios: desde $9,50 hasta $17,50 — Proteínas
+- [Picudo Steak (1lb o 2lb)](https://friovesa.com/product/picudo-steak-1lb-o-2lb/) — $ 8,99 - $ 16,99 Rango de precios: desde $8,99 hasta $16,99 — Proteínas
+- [Pulpo Entero – 2lb](https://friovesa.com/product/pulpo-entero-500gr/) — $ 21,99 — Proteínas
+- [Róbalo 1lb – 3 filetes](https://friovesa.com/product/robalo-1lb-3-filetes/) — $ 12,50 — Proteínas
 - [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/) — $ 15,99 - $ 24,99 Rango de precios: desde $15,99 hasta $24,99 — Proteínas
+- [Salmón Pieza Entera 4lb](https://friovesa.com/product/salmon-pieza-entera-4lb/) — $ 44,99 — Proteínas
 - [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/) — $ 7,25 - $ 12,50 Rango de precios: desde $7,25 hasta $12,50 — Proteínas
 - [Trucha limpia 500gr](https://friovesa.com/product/trucha-limpia-500gr-2-filetes/) — $ 8,40 — Proteínas
 - [Wahoo Filetes 1Lb o 2Lb](https://friovesa.com/product/wahoo-filetes-1lb-o-2lb/) — $ 7,50 - $ 15,00 Rango de precios: desde $7,50 hasta $15,00 — Proteínas
+- [Caldo de Hueso 1Lt](https://friovesa.com/product/caldo-de-hueso/) — $ 9,99 — Proteínas
 - [Estofado Pollo 1kg](https://friovesa.com/product/estofado-pollo/) — $ 5,50 - $ 8,49 Rango de precios: desde $5,50 hasta $8,49 — Proteínas
+- [Huevos 30ud](https://friovesa.com/product/huevos-30ud/) — $ 5,50 — Proteínas
+- [Molida Pollo 1kg](https://friovesa.com/product/molida-pollo/) — $ 8,50 — Proteínas
+- [Mollejas Pollo 1kg](https://friovesa.com/product/mollejas-de-pollo-1kg/) — $ 5,99 — Proteínas
 - [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/) — $ 4,75 — Proteínas
+- [Patas Pollo 1kg](https://friovesa.com/product/patas-pollo-1kg/) — $ 3,50 — Proteínas
 - [Pechuga Entera 1kg](https://friovesa.com/product/pechuga-entera-1kg/) — $ 6,50 — Proteínas
 - [Pechuga Filetes (500gr – 1kg)](https://friovesa.com/product/pechuga-filetes-500gr-1kg/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteínas
 - [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/) — $ 7,99 - $ 21,99 Rango de precios: desde $7,99 hasta $21,99 — Proteínas
 - [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/) — $ 4,99 — Proteínas
 - [Pollo a la Juliana](https://friovesa.com/product/pollo-a-la-juliana/) — $ 5,50 - $ 8,49 Rango de precios: desde $5,50 hasta $8,49 — Proteínas
+- [Pollo Entero 5lb](https://friovesa.com/product/pollo-entero-5lb/) — $ 10,49 — Proteínas
 - [Carne de Paleta 1kg](https://friovesa.com/product/carne-de-paleta-1kg/) — $ 10,99 — Proteínas
+- [Costillas Res 1kg](https://friovesa.com/product/costillas-res-1kg/) — $ 6,99 — Proteínas
+- [Goulash de Carne 1kg](https://friovesa.com/product/goulash-de-carne-1kg/) — $ 10,99 — Proteínas
 - [Guatita – 1kg](https://friovesa.com/product/guatita-1kg/) — $ 7,50 — Proteínas
+- [Higado Res 1kg](https://friovesa.com/product/higado-1kg/) — $ 7,40 — Proteínas
 - [Hueso Carnudo 1kg](https://friovesa.com/product/hueso-carnudo-1kg/) — $ 3,99 — Proteínas
 - [Lomo Falda filetes (500gr – 1kg)](https://friovesa.com/product/lomo-falda-filetes-500gr-1kg/) — $ 7,80 - $ 14,50 Rango de precios: desde $7,80 hasta $14,50 — Proteínas
 - [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/) — $ 7,99 - $ 13,50 Rango de precios: desde $7,99 hasta $13,50 — Proteínas
 - [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/) — $ 11,99 - $ 46,20 Rango de precios: desde $11,99 hasta $46,20 — Proteínas
 - [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteínas
+- [Mollejas Res 1kg](https://friovesa.com/product/mollejas-res-1kg/) — $ 6,80 — Proteínas
+- [Pata Res 1ud](https://friovesa.com/product/pata-res-1ud/) — $ 8,99 — Proteínas
+- [Pulpa Negra Res 500gr a 1kg](https://friovesa.com/product/pulpa-negra-res-500gr-a-1kg/) — $ 6,99 - $ 12,50 Rango de precios: desde $6,99 hasta $12,50 — Proteínas
+- [Punta Cadera Fileteada 1kg – 8ud](https://friovesa.com/product/punta-cadera-fileteada-1kg-8ud/) — $ 12,50 — Proteínas
 - [Salón (500gr o 1kg)](https://friovesa.com/product/salon-500gr-o-1kg/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteínas
 - [3 Lomo fino de 150gr](https://friovesa.com/product/450-gr-de-lomo-fino-de-150gramos/) — $ 9,00 — Sin categorizar
 - [Forever Nature Min](https://friovesa.com/product/forever-nature-min/) — Precio no publicado — Sin categorizar
