@@ -5,14 +5,20 @@
 | Guayaquil |  |  | Merito | [Abrir](https://friovesa.com/product/merito/) |
 | Guayaquil | Mascotas |  | Alimento Barf 1kg a 48kg | [Abrir](https://friovesa.com/product/alimento-barf-1kg-a-48kg-2/) |
 | Guayaquil | Proteinas Gye | Cerdo | Bondiola | [Abrir](https://friovesa.com/product/bondiola/) |
-| Guayaquil | Proteinas Gye | Cerdo | Brazo de Cerdo | [Abrir](https://friovesa.com/product/brazo-de-cerdo/) |
+| Guayaquil | Proteinas Gye | Cerdo | Brazo Cerdo | [Abrir](https://friovesa.com/product/brazo-cerdo/) |
 | Guayaquil | Proteinas Gye | Cerdo | Carne Molida de Cerdo | [Abrir](https://friovesa.com/product/carne-molida-de-cerdo/) |
+| Guayaquil | Proteinas Gye | Cerdo | Chicharron | [Abrir](https://friovesa.com/product/chicharron/) |
 | Guayaquil | Proteinas Gye | Cerdo | Chuleta de Cerdo | [Abrir](https://friovesa.com/product/chuleta-de-cerdo/) |
 | Guayaquil | Proteinas Gye | Cerdo | Costilla de Cerdo | [Abrir](https://friovesa.com/product/costilla-de-cerdo/) |
 | Guayaquil | Proteinas Gye | Cerdo | Costillas St. Louis | [Abrir](https://friovesa.com/product/costillas-st-louis/) |
+| Guayaquil | Proteinas Gye | Cerdo | Cuero Cerdo 1kg | [Abrir](https://friovesa.com/product/cuero-cerdo-1kg/) |
 | Guayaquil | Proteinas Gye | Cerdo | Fritada | [Abrir](https://friovesa.com/product/fritada/) |
+| Guayaquil | Proteinas Gye | Cerdo | Hueso Carnudo Cerdo | [Abrir](https://friovesa.com/product/hueso-carnudo-cerdo/) |
 | Guayaquil | Proteinas Gye | Cerdo | Lomo Fino de Cerdo | [Abrir](https://friovesa.com/product/lomo-fino-de-cerdo/) |
 | Guayaquil | Proteinas Gye | Cerdo | Matambre | [Abrir](https://friovesa.com/product/matambre/) |
+| Guayaquil | Proteinas Gye | Cerdo | Panceta | [Abrir](https://friovesa.com/product/panceta/) |
+| Guayaquil | Proteinas Gye | Cerdo | Pierna Cerdo | [Abrir](https://friovesa.com/product/brazo-de-cerdo/) |
+| Guayaquil | Proteinas Gye | Cerdo | Secreto Cerdo Ibérico | [Abrir](https://friovesa.com/product/secreto-cerdo-iberico/) |
 | Guayaquil | Proteinas Gye | Embutidos | Jamón Sanduchero | [Abrir](https://friovesa.com/product/jamon-sanduchero/) |
 | Guayaquil | Proteinas Gye | Embutidos | Longaniza | [Abrir](https://friovesa.com/product/longaniza/) |
 | Guayaquil | Proteinas Gye | Embutidos | Morcilla | [Abrir](https://friovesa.com/product/morcilla/) |
@@ -61,6 +67,7 @@
 | Guayaquil | Proteinas Gye | Res | Lomo de Asado | [Abrir](https://friovesa.com/product/lomo-de-asado/) |
 | Guayaquil | Proteinas Gye | Res | Lomo de Falda Entero | [Abrir](https://friovesa.com/product/lomo-de-falda-entero/) |
 | Guayaquil | Proteinas Gye | Res | Lomo de Falda Fileteado | [Abrir](https://friovesa.com/product/lomo-de-falda-fileteado/) |
+| Guayaquil | Proteinas Gye | Res | Mollejas Res | [Abrir](https://friovesa.com/product/mollejas-res/) |
 | Guayaquil | Proteinas Gye | Res | Pajarilla | [Abrir](https://friovesa.com/product/pajarilla/) |
 | Guayaquil | Proteinas Gye | Res | Pulpa Blanca | [Abrir](https://friovesa.com/product/pulpa-prieta/) |
 | Guayaquil | Proteinas Gye | Res | Pulpa Negra | [Abrir](https://friovesa.com/product/pulpa-negra/) |

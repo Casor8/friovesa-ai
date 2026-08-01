@@ -1,20 +1,26 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-07-31T11:00:38.284275+00:00
+Actualizado: 2026-08-01T10:12:09.474507+00:00
 
-## Guayaquil (71 productos)
+## Guayaquil (78 productos)
 
 - [Merito](https://friovesa.com/product/merito/) — $ 7,99 - $ 9,33 Rango de precios: desde $7,99 hasta $9,33 — Sin categoría
 - [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg-2/) — $ 3,99 - $ 168,00 Rango de precios: desde $3,99 hasta $168,00 — Mascotas
 - [Bondiola](https://friovesa.com/product/bondiola/) — $ 5,90 - $ 10,50 Rango de precios: desde $5,90 hasta $10,50 — Proteinas Gye
-- [Brazo de Cerdo](https://friovesa.com/product/brazo-de-cerdo/) — $ 45,00 — Proteinas Gye
+- [Brazo Cerdo](https://friovesa.com/product/brazo-cerdo/) — $ 32,00 — Proteinas Gye
 - [Carne Molida de Cerdo](https://friovesa.com/product/carne-molida-de-cerdo/) — $ 6,00 - $ 8,00 Rango de precios: desde $6,00 hasta $8,00 — Proteinas Gye
-- [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/) — $ 4,90 - $ 9,90 Rango de precios: desde $4,90 hasta $9,90 — Proteinas Gye
+- [Chicharron](https://friovesa.com/product/chicharron/) — $ 4,90 — Proteinas Gye
+- [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/) — $ 4,90 - $ 7,90 Rango de precios: desde $4,90 hasta $7,90 — Proteinas Gye
 - [Costilla de Cerdo](https://friovesa.com/product/costilla-de-cerdo/) — $ 7,00 - $ 13,99 Rango de precios: desde $7,00 hasta $13,99 — Proteinas Gye
 - [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/) — $ 5,10 - $ 10,20 Rango de precios: desde $5,10 hasta $10,20 — Proteinas Gye
-- [Fritada](https://friovesa.com/product/fritada/) — $ 3,60 - $ 7,20 Rango de precios: desde $3,60 hasta $7,20 — Proteinas Gye
+- [Cuero Cerdo 1kg](https://friovesa.com/product/cuero-cerdo-1kg/) — $ 4,80 — Proteinas Gye
+- [Fritada](https://friovesa.com/product/fritada/) — $ 3,50 - $ 6,80 Rango de precios: desde $3,50 hasta $6,80 — Proteinas Gye
+- [Hueso Carnudo Cerdo](https://friovesa.com/product/hueso-carnudo-cerdo/) — $ 3,80 — Proteinas Gye
 - [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/) — $ 6,00 - $ 12,00 Rango de precios: desde $6,00 hasta $12,00 — Proteinas Gye
 - [Matambre](https://friovesa.com/product/matambre/) — $ 9,31 - $ 18,61 Rango de precios: desde $9,31 hasta $18,61 — Proteinas Gye
+- [Panceta](https://friovesa.com/product/panceta/) — $ 9,90 — Proteinas Gye
+- [Pierna Cerdo](https://friovesa.com/product/brazo-de-cerdo/) — $ 45,00 — Proteinas Gye
+- [Secreto Cerdo Ibérico](https://friovesa.com/product/secreto-cerdo-iberico/) — $ 9,50 — Proteinas Gye
 - [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/) — $ 4,50 - $ 8,99 Rango de precios: desde $4,50 hasta $8,99 — Proteinas Gye
 - [Longaniza](https://friovesa.com/product/longaniza/) — $ 5,00 - $ 10,00 Rango de precios: desde $5,00 hasta $10,00 — Proteinas Gye
 - [Morcilla](https://friovesa.com/product/morcilla/) — $ 4,50 - $ 8,99 Rango de precios: desde $4,50 hasta $8,99 — Proteinas Gye
@@ -63,6 +69,7 @@ Actualizado: 2026-07-31T11:00:38.284275+00:00
 - [Lomo de Asado](https://friovesa.com/product/lomo-de-asado/) — $ 7,95 - $ 15,90 Rango de precios: desde $7,95 hasta $15,90 — Proteinas Gye
 - [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/) — $ 7,25 - $ 14,50 Rango de precios: desde $7,25 hasta $14,50 — Proteinas Gye
 - [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/) — $ 7,69 - $ 15,38 Rango de precios: desde $7,69 hasta $15,38 — Proteinas Gye
+- [Mollejas Res](https://friovesa.com/product/mollejas-res/) — $ 6,90 — Proteinas Gye
 - [Pajarilla](https://friovesa.com/product/pajarilla/) — $ 6,46 - $ 12,92 Rango de precios: desde $6,46 hasta $12,92 — Proteinas Gye
 - [Pulpa Blanca](https://friovesa.com/product/pulpa-prieta/) — $ 6,45 - $ 12,90 Rango de precios: desde $6,45 hasta $12,90 — Proteinas Gye
 - [Pulpa Negra](https://friovesa.com/product/pulpa-negra/) — $ 6,90 - $ 13,80 Rango de precios: desde $6,90 hasta $13,80 — Proteinas Gye

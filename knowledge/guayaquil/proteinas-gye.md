@@ -3,14 +3,20 @@
 ## Índice
 
 - [Bondiola](#bondiola)
-- [Brazo de Cerdo](#brazo-de-cerdo)
+- [Brazo Cerdo](#brazo-cerdo)
 - [Carne Molida de Cerdo](#carne-molida-de-cerdo)
+- [Chicharron](#chicharron)
 - [Chuleta de Cerdo](#chuleta-de-cerdo)
 - [Costilla de Cerdo](#costilla-de-cerdo)
 - [Costillas St. Louis](#costillas-st-louis)
+- [Cuero Cerdo 1kg](#cuero-cerdo-1kg)
 - [Fritada](#fritada)
+- [Hueso Carnudo Cerdo](#hueso-carnudo-cerdo)
 - [Lomo Fino de Cerdo](#lomo-fino-de-cerdo)
 - [Matambre](#matambre)
+- [Panceta](#panceta)
+- [Pierna Cerdo](#pierna-cerdo)
+- [Secreto Cerdo Ibérico](#secreto-cerdo-iberico)
 - [Jamón Sanduchero](#jamon-sanduchero)
 - [Longaniza](#longaniza)
 - [Morcilla](#morcilla)
@@ -59,6 +65,7 @@
 - [Lomo de Asado](#lomo-de-asado)
 - [Lomo de Falda Entero](#lomo-de-falda-entero)
 - [Lomo de Falda Fileteado](#lomo-de-falda-fileteado)
+- [Mollejas Res](#mollejas-res)
 - [Pajarilla](#pajarilla)
 - [Pulpa Blanca](#pulpa-blanca)
 - [Pulpa Negra](#pulpa-negra)
@@ -89,19 +96,19 @@
 - peso: 1-kg — USD 10.50 — SKU: 91239-01 — Stock: 20.0
 - peso: 500-g — USD 5.90 — SKU: 91239-02 — Stock: 20.0
 
-## Brazo de Cerdo
+## Brazo Cerdo
 
-- **Descripción:** Los brazos de cerdo son aprox de 6kilos pero puede variar según el corte
-- **Precio:** $ 45,00
-- **Enlace:** https://friovesa.com/product/brazo-de-cerdo/
+- **Descripción:** No publicada
+- **Precio:** $ 32,00
+- **Enlace:** https://friovesa.com/product/brazo-cerdo/
 - **Peso:** No publicado
-- **SKU:** 46138
-- **Palabras clave:** Brazo de Cerdo, Proteinas Gye, Cerdo
+- **SKU:** 62788
+- **Palabras clave:** Brazo Cerdo, Proteinas Gye, Cerdo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Cerdo
-- **Productos relacionados:** [Tocino](https://friovesa.com/product/tocino/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Piernas](https://friovesa.com/product/piernas/)
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/)
 - **Estado:** activo
-- **Stock:** 20 disponibles (puede reservarse)
+- **Stock:** No publicado
 
 ## Carne Molida de Cerdo
 
@@ -122,24 +129,44 @@
 - peso: 1-kg — USD 8.00 — SKU: 93229-01 — Stock: 19.0
 - peso: 500-g — USD 6.00 — SKU: 93229-02 — Stock: 20.0
 
+## Chicharron
+
+- **Descripción:** No publicada
+- **Precio:** $ 4,90
+- **Enlace:** https://friovesa.com/product/chicharron/
+- **Peso:** No publicado
+- **SKU:** 31933
+- **Palabras clave:** Chicharron, Proteinas Gye, Cerdo
+- **Categoría:** Proteinas Gye
+- **Subcategoría:** Cerdo
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Róbalo](https://friovesa.com/product/robalo/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Estado:** activo
+- **Stock:** No publicado
+
 ## Chuleta de Cerdo
 
 - **Descripción:** Introducción a las Chuletas de Cerdo Las chuletas de cerdo son un clásico en la cocina que no puede faltar en tu mesa. Este paquete de Chuletas de Cerdo de 1kg, compuesto por 6 unidades, ofrece una deliciosa y versátil opción para cualquier comida. Además, cada chuleta es seleccionada cuidadosamente para asegurar un sabor jugoso
-- **Precio:** $ 4,90 - $ 9,90 Rango de precios: desde $4,90 hasta $9,90
+- **Precio:** $ 4,90 - $ 7,90 Rango de precios: desde $4,90 hasta $7,90
 - **Enlace:** https://friovesa.com/product/chuleta-de-cerdo/
 - **Peso:** No publicado
 - **SKU:** 13944
 - **Palabras clave:** Chuleta de Cerdo, Proteinas Gye, Cerdo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Cerdo
-- **Productos relacionados:** [Atún Blanco](https://friovesa.com/product/atun-blanco/), [T-Bone](https://friovesa.com/product/t-bone/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Piernas](https://friovesa.com/product/piernas/)
+- **Productos relacionados:** [Matambre](https://friovesa.com/product/matambre/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Longaniza](https://friovesa.com/product/longaniza/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 9.90 — SKU: 13944-01 — Stock: 20.0
-- peso: 500-g — USD 4.90 — SKU: 13944-02 — Stock: 20.0
+- peso: 1-kg, tipo: Nuca — USD 7.90 — SKU: 13944 — Stock: 20.0
+- peso: 500-g, tipo: Nuca — USD 4.90 — SKU: 13944 — Stock: 20.0
+- peso: 500-g, tipo: Pierna — USD 4.90 — SKU: 13944 — Stock: 20.0
+- peso: 500-g, tipo: Lomo — USD 4.90 — SKU: 13944 — Stock: 20.0
+- peso: 1-kg, tipo: Pierna — USD 7.90 — SKU: 13944-03 — Stock: 20.0
+- peso: 1-kg, tipo: Lomo — USD 7.90 — SKU: 13944-04 — Stock: 20.0
+- peso: 1-kg, tipo: Brazo — USD 7.90 — SKU: 13944-01 — Stock: 20.0
+- peso: 500-g, tipo: Brazo — USD 4.90 — SKU: 13944-02 — Stock: 20.0
 
 ## Costilla de Cerdo
 
@@ -179,24 +206,56 @@
 - peso: 1-kg — USD 10.20 — SKU: 29452-01 — Stock: 20.0
 - peso: 500-g — USD 5.10 — SKU: 29452-02 — Stock: 20.0
 
+## Cuero Cerdo 1kg
+
+- **Descripción:** No publicada
+- **Precio:** $ 4,80
+- **Enlace:** https://friovesa.com/product/cuero-cerdo-1kg/
+- **Peso:** No publicado
+- **SKU:** 88656
+- **Palabras clave:** Cuero Cerdo 1kg, Proteinas Gye, Cerdo
+- **Categoría:** Proteinas Gye
+- **Subcategoría:** Cerdo
+- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Tocino](https://friovesa.com/product/tocino/), [Morcilla](https://friovesa.com/product/morcilla/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Estado:** activo
+- **Stock:** No publicado
+
 ## Fritada
 
 - **Descripción:** Fritada Jugosa: Deliciosa y Nutritiva La Fritada jugosa es la opción ideal para quienes buscan una comida deliciosa y de alta calidad. Este producto, elaborado con carne de cerdo fresca y cuidadosamente preparada, ofrece una experiencia gastronómica inigualable. Además, la textura jugosa y el sabor rico de nuestra fritada harán que cada comida sea especial.
-- **Precio:** $ 3,60 - $ 7,20 Rango de precios: desde $3,60 hasta $7,20
+- **Precio:** $ 3,50 - $ 6,80 Rango de precios: desde $3,50 hasta $6,80
 - **Enlace:** https://friovesa.com/product/fritada/
 - **Peso:** No publicado
 - **SKU:** 75662
 - **Palabras clave:** Fritada, Proteinas Gye, Cerdo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Cerdo
-- **Productos relacionados:** [Morcilla](https://friovesa.com/product/morcilla/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/), [Alitas](https://friovesa.com/product/alitas/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Productos relacionados:** [Atún Blanco](https://friovesa.com/product/atun-blanco/), [Pulpo](https://friovesa.com/product/pulpo/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 7.20 — SKU: 75662-01 — Stock: 20.0
-- peso: 500-g — USD 3.60 — SKU: 75662-02 — Stock: 20.0
+- peso: 500-g, tipo: Brazo — USD 3.80 — SKU: 75662 — Stock: 20.0
+- peso: 1-kg, tipo: Brazo — USD 6.80 — SKU: 75662 — Stock: 20.0
+- peso: 500-g, tipo: Con hueso & cuero — USD 3.50 — SKU: 75662 — Stock: 20.0
+- peso: 1-kg, tipo: Con hueso & cuero — USD 6.50 — SKU: 75662 — Stock: 20.0
+- peso: 1-kg, tipo: Pierna — USD 6.80 — SKU: 75662-01 — Stock: 20.0
+- peso: 500-g, tipo: Pierna — USD 3.80 — SKU: 75662-02 — Stock: 20.0
+
+## Hueso Carnudo Cerdo
+
+- **Descripción:** No publicada
+- **Precio:** $ 3,80
+- **Enlace:** https://friovesa.com/product/hueso-carnudo-cerdo/
+- **Peso:** No publicado
+- **SKU:** 57122
+- **Palabras clave:** Hueso Carnudo Cerdo, Proteinas Gye, Cerdo
+- **Categoría:** Proteinas Gye
+- **Subcategoría:** Cerdo
+- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Alitas](https://friovesa.com/product/alitas/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Piernas](https://friovesa.com/product/piernas/)
+- **Estado:** activo
+- **Stock:** No publicado
 
 ## Lomo Fino de Cerdo
 
@@ -235,6 +294,48 @@
 
 - peso: 1-kg — USD 18.61 — SKU: 37192-01 — Stock: 20.0
 - peso: 500-g — USD 9.31 — SKU: 37192-02 — Stock: 20.0
+
+## Panceta
+
+- **Descripción:** No publicada
+- **Precio:** $ 9,90
+- **Enlace:** https://friovesa.com/product/panceta/
+- **Peso:** No publicado
+- **SKU:** 87444
+- **Palabras clave:** Panceta, Proteinas Gye, Cerdo
+- **Categoría:** Proteinas Gye
+- **Subcategoría:** Cerdo
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [T-Bone](https://friovesa.com/product/t-bone/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Estado:** activo
+- **Stock:** No publicado
+
+## Pierna Cerdo
+
+- **Descripción:** Los brazos de cerdo son aprox de 6kilos pero puede variar según el corte
+- **Precio:** $ 45,00
+- **Enlace:** https://friovesa.com/product/brazo-de-cerdo/
+- **Peso:** No publicado
+- **SKU:** 46138
+- **Palabras clave:** Pierna Cerdo, Proteinas Gye, Cerdo
+- **Categoría:** Proteinas Gye
+- **Subcategoría:** Cerdo
+- **Productos relacionados:** [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Estado:** activo
+- **Stock:** 20 disponibles (puede reservarse)
+
+## Secreto Cerdo Ibérico
+
+- **Descripción:** No publicada
+- **Precio:** $ 9,50
+- **Enlace:** https://friovesa.com/product/secreto-cerdo-iberico/
+- **Peso:** No publicado
+- **SKU:** 45786
+- **Palabras clave:** Secreto Cerdo Ibérico, Proteinas Gye, Cerdo
+- **Categoría:** Proteinas Gye
+- **Subcategoría:** Cerdo
+- **Productos relacionados:** [Tocino](https://friovesa.com/product/tocino/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Salón](https://friovesa.com/product/salon/)
+- **Estado:** activo
+- **Stock:** No publicado
 
 ## Jamón Sanduchero
 
@@ -1122,6 +1223,20 @@
 
 - peso: 1-kg — USD 15.38 — SKU: 86225-01 — Stock: 20.0
 - peso: 500-g — USD 7.69 — SKU: 86225-02 — Stock: 20.0
+
+## Mollejas Res
+
+- **Descripción:** No publicada
+- **Precio:** $ 6,90
+- **Enlace:** https://friovesa.com/product/mollejas-res/
+- **Peso:** No publicado
+- **SKU:** 12436
+- **Palabras clave:** Mollejas Res, Proteinas Gye, Res
+- **Categoría:** Proteinas Gye
+- **Subcategoría:** Res
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [T-Bone](https://friovesa.com/product/t-bone/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Piernas](https://friovesa.com/product/piernas/)
+- **Estado:** activo
+- **Stock:** No publicado
 
 ## Pajarilla
 
