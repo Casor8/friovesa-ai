@@ -1,9 +1,9 @@
 # Reporte de cambios del catálogo
 
-- Ejecución: 2026-08-04T10:58:18.195440+00:00
+- Ejecución: 2026-08-05T10:47:23.570645+00:00
 - Productos nuevos: 0
 - Productos eliminados: 0
-- Productos modificados: 26
+- Productos modificados: 23
 
 ## Productos nuevos
 
@@ -17,11 +17,11 @@ Sin cambios.
 
 ### [Pulled Pork Bbq 500gr](https://friovesa.com/product/pulled-pork-bbq-500gr/) — Quito
 
-- stock: `2175 disponibles` → `2174 disponibles`
+- stock: `2174 disponibles` → `2173 disponibles`
 
 ### [Milanesa Pollo 4ud](https://friovesa.com/product/milanesa-pollo-4ud/) — Quito
 
-- stock: `6 disponibles` → `2 disponibles`
+- stock: `2 disponibles` → `1 disponibles`
 
 ### [Lomo Falda filetes (500gr – 1kg)](https://friovesa.com/product/lomo-falda-filetes-500gr-1kg/) — Quito
 
@@ -29,31 +29,40 @@ Sin cambios.
 
 ### [Jamón Sanduchero 400gr](https://friovesa.com/product/jamon-sanduchero-600gr-3ud/) — Quito
 
-- stock: `49 disponibles` → `45 disponibles`
-
-### [Almejas 1lb – 40ud](https://friovesa.com/product/almejas-1lb-40ud/) — Quito
-
-- stock: `1468 disponibles` → `1463 disponibles`
+- stock: `45 disponibles` → `44 disponibles`
 
 ### [Wahoo Filetes 1Lb o 2Lb](https://friovesa.com/product/wahoo-filetes-1lb-o-2lb/) — Quito
 
+- stock: `Con stock` → `Agotado`
 - variantes: `[{"attributes": {"peso": "1-lb"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/a8d5289e-62fc-42f0-bc96-6a8cad5e8f3e.png?fit=1506%2C1045&s…` → `[{"attributes": {"peso": "1-lb"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/a8d5289e-62fc-42f0-bc96-6a8cad5e8f3e.png?fit=1506%2C1045&s…`
-
-### [Pulled Pork Al Pastor 500 gr](https://friovesa.com/product/pulled-pork-al-pastor-500-gr/) — Quito
-
-- stock: `1580 disponibles` → `1579 disponibles`
 
 ### [Pechuga Filetes (500gr – 1kg)](https://friovesa.com/product/pechuga-filetes-500gr-1kg/) — Quito
 
 - variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/02cf4cff-2b7c-4798-9cf0-0409575f6780.png?fit=1537%2C1023&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/02cf4cff-2b7c-4798-9cf0-0409575f6780.png?fit=1537%2C1023&s…`
 
-### [Queso Parmesano 250gr](https://friovesa.com/product/queso-parmesano-250gr/) — Quito
+### [Ancas de Rana 500gr – 5ud](https://friovesa.com/product/ancas-de-rana-500gr-5ud/) — Quito
 
-- stock: `6 disponibles` → `5 disponibles`
+- stock: `7 disponibles` → `6 disponibles`
 
-### [Colita Cuadril Importada](https://friovesa.com/product/colita-cuadril-importada/) — Quito
+### [Sour Cream 500 g.](https://friovesa.com/product/sour-cream-500-g/) — Quito
 
-- variantes: `[{"attributes": {"peso": "1-2-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/img_0127-1.jpeg?fit=1320%2C942&ssl=1", "in_stock": false…` → `[{"attributes": {"peso": "1-2-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/img_0127-1.jpeg?fit=1320%2C942&ssl=1", "in_stock": false…`
+- stock: `` → `Sin existencias`
+- estado: `activo` → `agotado`
+
+### [Montaña 150 g.](https://friovesa.com/product/montana-150-g/) — Quito
+
+- stock: `` → `Sin existencias`
+- estado: `activo` → `agotado`
+
+### [Manchego 150 g.](https://friovesa.com/product/manchego-150-g/) — Quito
+
+- stock: `` → `Sin existencias`
+- estado: `activo` → `agotado`
+
+### [Bolitas Carnes Liofilizadas 250gr](https://friovesa.com/product/bolitas-carnes-liofilizadas/) — Quito
+
+- stock: `` → `Sin existencias`
+- estado: `activo` → `agotado`
 
 ### [Pícaña Importada](https://friovesa.com/product/picana-importada-boliviana/) — Quito
 
@@ -67,21 +76,14 @@ Sin cambios.
 
 - variantes: `[{"attributes": {"peso": "2-2-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2026/04/lomo-lomo.png?fit=1512%2C1040&ssl=1", "in_stock": false,…` → `[{"attributes": {"peso": "2-2-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2026/04/lomo-lomo.png?fit=1512%2C1040&ssl=1", "in_stock": false,…`
 
-### [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/) — Quito
-
-- variantes: `[{"attributes": {"peso": "500-g"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/camarones.png?fit=1470%2C1070&ssl=1", "in_stock": true, "…` → `[{"attributes": {"peso": "500-g"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/camarones.png?fit=1470%2C1070&ssl=1", "in_stock": true, "…`
-
-### [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/) — Quito
-
-- stock: `199 disponibles` → `198 disponibles`
-
-### [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/) — Quito
-
-- stock: `414 disponibles` → `410 disponibles`
-
 ### [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/) — Quito
 
 - variantes: `[{"attributes": {"peso": "48-kg", "sabor": "pollo"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",…` → `[{"attributes": {"peso": "48-kg", "sabor": "pollo"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",…`
+
+### [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/) — Quito
+
+- stock: `Con stock` → `Agotado`
+- variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/07268fdc-dadf-445f-a4e1-f7bb6c335a2b.png?fit=1440%2C1092&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/07268fdc-dadf-445f-a4e1-f7bb6c335a2b.png?fit=1440%2C1092&s…`
 
 ### [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/) — Quito
 
@@ -91,30 +93,22 @@ Sin cambios.
 
 - variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/5b0cd79d-d772-41f5-856e-b79aaeee123b.png?fit=1448%2C1086&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/5b0cd79d-d772-41f5-856e-b79aaeee123b.png?fit=1448%2C1086&s…`
 
-### [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/) — Quito
+### [Camarones Apanados](https://friovesa.com/product/camarones-apanados/) — Quito
 
-- stock: `805 disponibles` → `803 disponibles`
-
-### [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/) — Quito
-
-- variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/78d0eb6e-c631-453d-bb42-a37b51535db1.png?fit=1448%2C1086&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/78d0eb6e-c631-453d-bb42-a37b51535db1.png?fit=1448%2C1086&s…`
-
-### [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/) — Quito
-
-- variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/5f93d77f-1d63-4b6f-a55f-af75e938de71.png?fit=1511%2C1041&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/5f93d77f-1d63-4b6f-a55f-af75e938de71.png?fit=1511%2C1041&s…`
+- variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/c2e64ffc-615b-46e6-8ffc-14360c761dc5.png?fit=1463%2C1075&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/c2e64ffc-615b-46e6-8ffc-14360c761dc5.png?fit=1463%2C1075&s…`
 
 ### [Ribeye importado 500gr o 1kg](https://friovesa.com/product/ribeye-importado-500gr-o-1kg/) — Quito
 
 - variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/3db85abf-8aa4-46cc-93f3-6ca98c974b95.png?fit=1448%2C1086&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/3db85abf-8aa4-46cc-93f3-6ca98c974b95.png?fit=1448%2C1086&s…`
 
-### [Hamburguesa Pollo 1Lb o 2lb](https://friovesa.com/product/hamburguesa-pollo-1lb-o-2lb/) — Quito
+### [Fritada 1kg](https://friovesa.com/product/fritada-1kg/) — Quito
 
-- variantes: `[{"attributes": {"peso": "1-lb"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/136221d9-9627-4761-b24d-cac433dca79b-1.png?fit=1472%2C1068…` → `[{"attributes": {"peso": "1-lb"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/136221d9-9627-4761-b24d-cac433dca79b-1.png?fit=1472%2C1068…`
+- stock: `603 disponibles` → `602 disponibles`
 
 ### [Matambre 500gr o 1kg](https://friovesa.com/product/matambre-1kg/) — Quito
 
 - variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/cece04fc-f329-4008-84d8-954f73111ce3.png?fit=1448%2C1086&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/cece04fc-f329-4008-84d8-954f73111ce3.png?fit=1448%2C1086&s…`
 
-### [Mejillones 1lb – 40ud](https://friovesa.com/product/mejillones-1lb-40ud/) — Quito
+### [Bife Importado 500gr o 1kg](https://friovesa.com/product/bife-importado-500gr-o-1kg/) — Quito
 
-- stock: `81 disponibles` → `76 disponibles`
+- variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/53af7b11-4e59-4d82-821b-c2a5db9da5c8.png?fit=1536%2C1024&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/53af7b11-4e59-4d82-821b-c2a5db9da5c8.png?fit=1536%2C1024&s…`
