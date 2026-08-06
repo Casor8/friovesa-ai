@@ -145,7 +145,7 @@
 - **Palabras clave:** Empanadas verde 8ud ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
+- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/)
 - **Estado:** activo
 - **Stock:** 3 disponibles
 
@@ -290,7 +290,7 @@
 - **Palabras clave:** Pizzas Medianas ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
+- **Productos relacionados:** [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -353,7 +353,7 @@
 - **Palabras clave:** Tortillas Maduro 6ud ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/)
+- **Productos relacionados:** [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** 48 disponibles
 
