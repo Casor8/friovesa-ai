@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-06T10:49:40.983263+00:00
+Actualizado: 2026-08-07T09:16:37.710182+00:00
 
 ## Guayaquil (78 productos)
 
@@ -83,7 +83,7 @@ Actualizado: 2026-08-06T10:49:40.983263+00:00
 - [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/) — $ 5,10 - $ 10,20 Rango de precios: desde $5,10 hasta $10,20 — Proteínas
 - [Lomo Fino](https://friovesa.com/product/lomo-fino/) — $ 10,75 - $ 21,50 Rango de precios: desde $10,75 hasta $21,50 — Proteínas
 
-## Quito (383 productos)
+## Quito (384 productos)
 
 - [Café Molido Friovesa 250gr](https://friovesa.com/product/cafe-molido-friovesa-250gr/) — $ 6,50 — Sin categoría
 - [Agua Alcalina iones](https://friovesa.com/product/agua-alcalina/) — $ 349,57 — Accesorios
@@ -443,6 +443,7 @@ Actualizado: 2026-08-06T10:49:40.983263+00:00
 - [Pulpa Negra Res 500gr a 1kg](https://friovesa.com/product/pulpa-negra-res-500gr-a-1kg/) — $ 6,99 - $ 12,50 Rango de precios: desde $6,99 hasta $12,50 — Proteínas
 - [Punta Cadera Fileteada 1kg – 8ud](https://friovesa.com/product/punta-cadera-fileteada-1kg-8ud/) — $ 12,50 — Proteínas
 - [Salón (500gr o 1kg)](https://friovesa.com/product/salon-500gr-o-1kg/) — $ 6,99 - $ 11,99 Rango de precios: desde $6,99 hasta $11,99 — Proteínas
+- [Vacío Res 1kg](https://friovesa.com/product/vacio-res-1kg/) — $ 9,50 — Proteínas
 - [3 Lomo fino de 150gr](https://friovesa.com/product/450-gr-de-lomo-fino-de-150gramos/) — $ 9,00 — Sin categorizar
 - [Forever Nature Min](https://friovesa.com/product/forever-nature-min/) — Precio no publicado — Sin categorizar
 - [Ashwagandha 60cap](https://friovesa.com/product/ashwagandha-60cap-2/) — $ 21,00 — Suplementos

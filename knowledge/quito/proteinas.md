@@ -131,6 +131,7 @@
 - [Pulpa Negra Res 500gr a 1kg](#pulpa-negra-res-500gr-a-1kg)
 - [Punta Cadera Fileteada 1kg – 8ud](#punta-cadera-fileteada-1kg-8ud)
 - [Salón (500gr o 1kg)](#salon-500gr-o-1kg)
+- [Vacío Res 1kg](#vacio-res-1kg)
 
 ## Carne Mechada 500gr
 
@@ -1405,14 +1406,14 @@
 - **Palabras clave:** Camarones 500gr o 1kg, Proteínas, Mariscos
 - **Categoría:** Proteínas
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 500-g — USD 7.49 — SKU: 29633-01 — Stock: 9918.0
-- peso: 1-kg — USD 13.99 — SKU: 29633-02 — Stock: 9918.0
+- peso: 500-g — USD 7.49 — SKU: 29633-01 — Stock: 9916.0
+- peso: 1-kg — USD 13.99 — SKU: 29633-02 — Stock: 9916.0
 
 ## Cangrejo Pulpa 1lb
 
@@ -1452,14 +1453,14 @@
 - **Palabras clave:** Corvina 1lb o 2lb, Proteínas, Mariscos
 - **Categoría:** Proteínas
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-lb — USD 11.99 — SKU: 42957-01 — Stock: 11.0
-- peso: 2-lb — USD 22.99 — SKU: 42957-02 — Stock: 11.0
+- peso: 1-lb — USD 11.99 — SKU: 42957-01 — Stock: 9.0
+- peso: 2-lb — USD 22.99 — SKU: 42957-02 — Stock: 9.0
 
 ## Cubos Ceviche 1Lb o 2lb
 
@@ -1490,14 +1491,14 @@
 - **Palabras clave:** Dorado Filetes 1lb o 2lb, Proteínas, Mariscos
 - **Categoría:** Proteínas
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/)
+- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-lb — USD 8.50 — SKU: 65924-01 — Stock: 822.0
-- peso: 2-lb — USD 15.99 — SKU: 65924-02 — Stock: 822.0
+- peso: 1-lb — USD 8.50 — SKU: 65924-01 — Stock: 820.0
+- peso: 2-lb — USD 15.99 — SKU: 65924-02 — Stock: 820.0
 
 ## Langostinos (1Lb o 2Lb)
 
@@ -1641,14 +1642,14 @@
 - **Palabras clave:** Salmón ( 600gr o 1kg ), Proteínas, Mariscos
 - **Categoría:** Proteínas
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 24.99 — SKU: 93547-01 — Stock: 106.0
-- peso: 600-g — USD 15.99 — SKU: 93547-02 — Stock: 106.0
+- peso: 1-kg — USD 24.99 — SKU: 93547-01 — Stock: 104.0
+- peso: 600-g — USD 15.99 — SKU: 93547-02 — Stock: 104.0
 
 ## Salmón Pieza Entera 4lb
 
@@ -1848,14 +1849,14 @@
 - **Palabras clave:** Pechuga Filetes (500gr – 1kg), Proteínas, Pollo
 - **Categoría:** Proteínas
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
+- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 8.99 — SKU: 39793-01 — Stock: 454.0
-- peso: 500-g — USD 5.50 — SKU: 39793-02 — Stock: 454.0
+- peso: 1-kg — USD 8.99 — SKU: 39793-01 — Stock: 451.0
+- peso: 500-g — USD 5.50 — SKU: 39793-02 — Stock: 451.0
 
 ## Pechugas Limpias (1kg o 3Kg)
 
@@ -2167,3 +2168,17 @@
 
 - peso: 1-kg — USD 11.99 — SKU: 74777-01 — Stock: 191.0
 - peso: 500-g — USD 6.99 — SKU: 74777-02 — Stock: 191.0
+
+## Vacío Res 1kg
+
+- **Descripción:** No publicada
+- **Precio:** $ 9,50
+- **Enlace:** https://friovesa.com/product/vacio-res-1kg/
+- **Peso:** No publicado
+- **SKU:** 36511
+- **Palabras clave:** Vacío Res 1kg, Proteínas, Res
+- **Categoría:** Proteínas
+- **Subcategoría:** Res
+- **Productos relacionados:** [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Estado:** activo
+- **Stock:** No publicado

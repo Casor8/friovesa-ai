@@ -438,6 +438,7 @@
 | Quito | Proteínas | Res | Pulpa Negra Res 500gr a 1kg | [Abrir](https://friovesa.com/product/pulpa-negra-res-500gr-a-1kg/) |
 | Quito | Proteínas | Res | Punta Cadera Fileteada 1kg – 8ud | [Abrir](https://friovesa.com/product/punta-cadera-fileteada-1kg-8ud/) |
 | Quito | Proteínas | Res | Salón (500gr o 1kg) | [Abrir](https://friovesa.com/product/salon-500gr-o-1kg/) |
+| Quito | Proteínas | Res | Vacío Res 1kg | [Abrir](https://friovesa.com/product/vacio-res-1kg/) |
 | Quito | Sin categorizar |  | 3 Lomo fino de 150gr | [Abrir](https://friovesa.com/product/450-gr-de-lomo-fino-de-150gramos/) |
 | Quito | Sin categorizar |  | Forever Nature Min | [Abrir](https://friovesa.com/product/forever-nature-min/) |
 | Quito | Suplementos |  | Ashwagandha 60cap | [Abrir](https://friovesa.com/product/ashwagandha-60cap-2/) |
