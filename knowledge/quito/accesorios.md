@@ -2,12 +2,9 @@
 
 ## Índice
 
-- [Agua Alcalina iones](#agua-alcalina-iones)
 - [Funda de Silicona G Fits 946 ml a 1180 ml](#funda-de-silicona-g-fits-946-ml-a-1180-ml)
 - [Funda de Silicona P Fits 355 ml a 740 ml](#funda-de-silicona-p-fits-355-ml-a-740-ml)
 - [MicroPuroficador](#micropuroficador)
-- [Plantillas Curativas](#plantillas-curativas)
-- [Pulsera Iones Negativos](#pulsera-iones-negativos)
 - [Purificador Casero](#purificador-casero)
 - [Tapa de Repuesto con Pico](#tapa-de-repuesto-con-pico)
 - [Termo Térmico 355 ml](#termo-termico-355-ml)
@@ -19,20 +16,6 @@
 - [Vaso Térmico Cafetero 500 ml](#vaso-termico-cafetero-500-ml)
 - [Purificador Ducha](#purificador-ducha)
 - [Purificador Total](#purificador-total)
-
-## Agua Alcalina iones
-
-- **Descripción:** Mejora del agua: Disminuye la inflamación y favorece una mejor circulación sanguínea y oxigenación. • Purificación: Combate hongos, bacterias y mal olor. • Equilibrio del organismo: • Contribuye a regular la presión arterial. • Regula el sistema nervioso. • Ayuda a lograr un sueño profundo y reparador. • Salud Física: • Combate várices. • Alivia
-- **Precio:** $ 349,57
-- **Enlace:** https://friovesa.com/product/agua-alcalina/
-- **Peso:** No publicado
-- **SKU:** 71628
-- **Palabras clave:** Agua Alcalina iones, Accesorios
-- **Categoría:** Accesorios
-- **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
-- **Estado:** activo
-- **Stock:** No publicado
 
 ## Funda de Silicona G Fits 946 ml a 1180 ml
 
@@ -87,34 +70,6 @@
 - **Categoría:** Accesorios
 - **Subcategoría:** No publicada
 - **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
-- **Estado:** activo
-- **Stock:** No publicado
-
-## Plantillas Curativas
-
-- **Descripción:** • Combate várices. • Contribuye a regular la presión arterial. • Combate hongos, bacterias y mal olor. • Ayuda a lograr un sueño profundo y reparador. • Disminuye inflamación. • Favorece una mejor circulación sanguínea y oxigenación. • Alivia el dolor. • Regula el sistema nervioso. • Aumenta la fuerza muscular. Debajo de los beneficios
-- **Precio:** $ 135,65
-- **Enlace:** https://friovesa.com/product/plantillas-curativas/
-- **Peso:** No publicado
-- **SKU:** 18861
-- **Palabras clave:** Plantillas Curativas, Accesorios
-- **Categoría:** Accesorios
-- **Subcategoría:** No publicada
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
-- **Estado:** activo
-- **Stock:** No publicado
-
-## Pulsera Iones Negativos
-
-- **Descripción:** Favorece una mejor circulación sanguínea y oxigenación. Colabora en el tratamiento osteoarticular. Ayuda a lograr un sueño profundo y reparador. Aumenta la fuerza muscular. Ayuda en casos de fibromialgia. Proporciona vitalidad, fuerza y energía. Mejora centro de equilibrio y estabilidad. Ayuda a aliviar el dolor. Contribuye a regular la presión arterial. Promueve el rendimiento en
-- **Precio:** $ 211,31
-- **Enlace:** https://friovesa.com/product/pulsera-iones-negativos/
-- **Peso:** No publicado
-- **SKU:** 36247
-- **Palabras clave:** Pulsera Iones Negativos, Accesorios
-- **Categoría:** Accesorios
-- **Subcategoría:** No publicada
-- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 

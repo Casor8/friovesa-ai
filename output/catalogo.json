@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "run_at": "2026-08-07T09:16:37.710182+00:00",
+    "run_at": "2026-08-08T09:02:58.299931+00:00",
     "source": "https://friovesa.com/",
     "brand_code": "friovesa",
     "brand_name": "Friovesa",
     "stores": {
       "uio": {
         "pages": 39,
-        "expected_count": 384,
-        "found": 384,
+        "expected_count": 381,
+        "found": 381,
         "categories_seen": {
           "https://friovesa.com/categoria-producto/uio/proteinas/": "Proteínas",
           "https://friovesa.com/categoria-producto/uio/antojitos/": "Antojitos",
@@ -23,9 +23,9 @@
           "https://friovesa.com/categoria-producto/uio/iceman/": "Iceman",
           "https://friovesa.com/categoria-producto/uio/salud-bienestar/": "Salud & Bienestar"
         },
-        "details_fetched": 7,
-        "details_reused": 377,
-        "urls_verified": 384
+        "details_fetched": 14,
+        "details_reused": 367,
+        "urls_verified": 381
       },
       "gye": {
         "pages": 8,
@@ -50,9 +50,9 @@
         "urls_verified": 78
       }
     },
-    "product_count": 462,
+    "product_count": 459,
     "errors": 0,
-    "previous_archive": "/home/runner/work/friovesa-ai/friovesa-ai/output/historico/20260807_091743"
+    "previous_archive": "/home/runner/work/friovesa-ai/friovesa-ai/output/historico/20260808_090437"
   },
   "products": [
     {
@@ -116,73 +116,6 @@
           "product_id": "208",
           "name": "Café Molido Friovesa 250gr",
           "price_text": "$ 6,50"
-        }
-      }
-    },
-    {
-      "product_id": "4573",
-      "name": "Agua Alcalina iones",
-      "city": "Quito",
-      "store_code": "uio",
-      "category": "Accesorios",
-      "subcategory": "",
-      "categories": [
-        "Accesorios"
-      ],
-      "url": "https://friovesa.com/product/agua-alcalina/",
-      "http_status": 200,
-      "final_url": "https://friovesa.com/product/agua-alcalina/",
-      "current_price": 349.57,
-      "regular_price": 349.57,
-      "sale_price": null,
-      "price_text": "$ 349,57",
-      "description": "",
-      "short_description": "Mejora del agua: Disminuye la inflamación y favorece una mejor circulación sanguínea y oxigenación. • Purificación: Combate hongos, bacterias y mal olor. • Equilibrio del organismo: • Contribuye a regular la presión arterial. • Regula el sistema nervioso. • Ayuda a lograr un sueño profundo y reparador. • Salud Física: • Combate várices. • Alivia",
-      "sku": "71628",
-      "weight": "",
-      "images": [
-        "https://i0.wp.com/friovesa.com/wp-content/uploads/2026/05/43a8dd99-cacd-4789-8c94-a0508201e7dc.png?fit=1511%2C1041&ssl=1"
-      ],
-      "status": "activo",
-      "stock": "",
-      "stock_quantity": null,
-      "related_products": [
-        {
-          "name": "Cangrejo Pulpa 1lb",
-          "url": "https://friovesa.com/product/pulpa-de-cangrejo-1lb/"
-        },
-        {
-          "name": "Atún Rojo ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
-        },
-        {
-          "name": "Chuleta Ahumada 500gr o 1kg",
-          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
-        },
-        {
-          "name": "Lomo Fino Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/"
-        }
-      ],
-      "tags": [],
-      "variations": [],
-      "attributes": {},
-      "breadcrumbs": [
-        "Inicio",
-        "UIO",
-        "Accesorios"
-      ],
-      "scraped_at": "2026-07-31T11:01:17.689771+00:00",
-      "error": "",
-      "extra": {
-        "brand": "",
-        "gtin": "",
-        "mpn": "",
-        "sitemap_lastmod": "2026-06-08T16:24:54+00:00",
-        "listing": {
-          "product_id": "4573",
-          "name": "Agua Alcalina iones",
-          "price_text": "$ 349,57"
         }
       }
     },
@@ -506,140 +439,6 @@
           "product_id": "4985",
           "name": "MicroPuroficador",
           "price_text": "$ 395,00"
-        }
-      }
-    },
-    {
-      "product_id": "4571",
-      "name": "Plantillas Curativas",
-      "city": "Quito",
-      "store_code": "uio",
-      "category": "Accesorios",
-      "subcategory": "",
-      "categories": [
-        "Accesorios"
-      ],
-      "url": "https://friovesa.com/product/plantillas-curativas/",
-      "http_status": 200,
-      "final_url": "https://friovesa.com/product/plantillas-curativas/",
-      "current_price": 135.65,
-      "regular_price": 135.65,
-      "sale_price": null,
-      "price_text": "$ 135,65",
-      "description": "",
-      "short_description": "• Combate várices. • Contribuye a regular la presión arterial. • Combate hongos, bacterias y mal olor. • Ayuda a lograr un sueño profundo y reparador. • Disminuye inflamación. • Favorece una mejor circulación sanguínea y oxigenación. • Alivia el dolor. • Regula el sistema nervioso. • Aumenta la fuerza muscular. Debajo de los beneficios",
-      "sku": "18861",
-      "weight": "",
-      "images": [
-        "https://i0.wp.com/friovesa.com/wp-content/uploads/2026/05/c2636c5f-a0e8-4e96-aa1b-65749e7c8ac2.png?fit=1511%2C1041&ssl=1"
-      ],
-      "status": "activo",
-      "stock": "",
-      "stock_quantity": null,
-      "related_products": [
-        {
-          "name": "Pulpas Saludables 10 ud x litro",
-          "url": "https://friovesa.com/product/6-pulpas-detox/"
-        },
-        {
-          "name": "Chuleta Ahumada 500gr o 1kg",
-          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
-        },
-        {
-          "name": "Lomo falda Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
-        },
-        {
-          "name": "Hamburguesa Res 1Lb o 2lb",
-          "url": "https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/"
-        }
-      ],
-      "tags": [],
-      "variations": [],
-      "attributes": {},
-      "breadcrumbs": [
-        "Inicio",
-        "UIO",
-        "Accesorios"
-      ],
-      "scraped_at": "2026-07-31T11:02:00.476001+00:00",
-      "error": "",
-      "extra": {
-        "brand": "",
-        "gtin": "",
-        "mpn": "",
-        "sitemap_lastmod": "2026-06-08T16:26:07+00:00",
-        "listing": {
-          "product_id": "4571",
-          "name": "Plantillas Curativas",
-          "price_text": "$ 135,65"
-        }
-      }
-    },
-    {
-      "product_id": "4575",
-      "name": "Pulsera Iones Negativos",
-      "city": "Quito",
-      "store_code": "uio",
-      "category": "Accesorios",
-      "subcategory": "",
-      "categories": [
-        "Accesorios"
-      ],
-      "url": "https://friovesa.com/product/pulsera-iones-negativos/",
-      "http_status": 200,
-      "final_url": "https://friovesa.com/product/pulsera-iones-negativos/",
-      "current_price": 211.31,
-      "regular_price": 211.31,
-      "sale_price": null,
-      "price_text": "$ 211,31",
-      "description": "",
-      "short_description": "Favorece una mejor circulación sanguínea y oxigenación. Colabora en el tratamiento osteoarticular. Ayuda a lograr un sueño profundo y reparador. Aumenta la fuerza muscular. Ayuda en casos de fibromialgia. Proporciona vitalidad, fuerza y energía. Mejora centro de equilibrio y estabilidad. Ayuda a aliviar el dolor. Contribuye a regular la presión arterial. Promueve el rendimiento en",
-      "sku": "36247",
-      "weight": "",
-      "images": [
-        "https://i0.wp.com/friovesa.com/wp-content/uploads/2026/05/1b38429f-5b92-4fa9-b957-5fe1ca05cbaf.png?fit=1511%2C1041&ssl=1"
-      ],
-      "status": "activo",
-      "stock": "",
-      "stock_quantity": null,
-      "related_products": [
-        {
-          "name": "Chuleta Ahumada 500gr o 1kg",
-          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
-        },
-        {
-          "name": "Costillas Cerdo 1Kg",
-          "url": "https://friovesa.com/product/costillas-cerdo-1kg/"
-        },
-        {
-          "name": "Camarones 500gr o 1kg",
-          "url": "https://friovesa.com/product/camarones-500gr-o-1kg/"
-        },
-        {
-          "name": "Lomo Fino Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/"
-        }
-      ],
-      "tags": [],
-      "variations": [],
-      "attributes": {},
-      "breadcrumbs": [
-        "Inicio",
-        "UIO",
-        "Accesorios"
-      ],
-      "scraped_at": "2026-07-31T11:02:02.973805+00:00",
-      "error": "",
-      "extra": {
-        "brand": "",
-        "gtin": "",
-        "mpn": "",
-        "sitemap_lastmod": "2026-06-08T16:24:14+00:00",
-        "listing": {
-          "product_id": "4575",
-          "name": "Pulsera Iones Negativos",
-          "price_text": "$ 211,31"
         }
       }
     },
@@ -16187,20 +15986,20 @@
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Atún Rojo ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
-        },
-        {
           "name": "Lomo Fino Cerdo 500gr",
           "url": "https://friovesa.com/product/lomo-fino-cerdo/"
         },
         {
-          "name": "Camarones 500gr o 1kg",
-          "url": "https://friovesa.com/product/camarones-500gr-o-1kg/"
+          "name": "Fritada 1kg",
+          "url": "https://friovesa.com/product/fritada-1kg/"
         },
         {
-          "name": "Molida Res (500gr o 1kg)",
-          "url": "https://friovesa.com/product/molida-res-500gr-o-1kg/"
+          "name": "Pechugas Limpias (1kg o 3Kg)",
+          "url": "https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/"
+        },
+        {
+          "name": "Tilapia ( 1Lb o 2Lb )",
+          "url": "https://friovesa.com/product/tilapia-1lb-o-2lb/"
         }
       ],
       "tags": [],
@@ -16217,7 +16016,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16233,7 +16032,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16249,7 +16048,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16265,7 +16064,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16281,7 +16080,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16297,7 +16096,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16313,7 +16112,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16329,7 +16128,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16345,7 +16144,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16361,7 +16160,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16377,7 +16176,7 @@
           "sku": "53396",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16393,7 +16192,7 @@
           "sku": "53396-03",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16409,7 +16208,7 @@
           "sku": "53396-08",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16425,7 +16224,7 @@
           "sku": "53396-10",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         },
@@ -16441,7 +16240,7 @@
           "sku": "53396-12",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 3103.0,
+          "stock_quantity": 3102.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/barfy-nueva.png?fit=1536%2C1024&ssl=1",
           "description": ""
         }
@@ -16452,13 +16251,13 @@
         "UIO",
         "Mascotas"
       ],
-      "scraped_at": "2026-08-07T09:17:16.005396+00:00",
+      "scraped_at": "2026-08-08T09:03:44.824087+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-06T16:12:44+00:00",
+        "sitemap_lastmod": "2026-08-07T12:43:55+00:00",
         "listing": {
           "product_id": "80",
           "name": "Alimento Barf 1kg a 48kg",
@@ -17684,25 +17483,25 @@
       "images": [
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/e2b80a45-2a65-4194-ada3-b5bc7f80a2e1.png?fit=1536%2C1024&ssl=1"
       ],
-      "status": "agotado",
-      "stock": "Sin existencias",
-      "stock_quantity": null,
+      "status": "activo",
+      "stock": "6 disponibles",
+      "stock_quantity": 6.0,
       "related_products": [
         {
-          "name": "Cangrejo Pulpa 1lb",
-          "url": "https://friovesa.com/product/pulpa-de-cangrejo-1lb/"
+          "name": "Fritada 1kg",
+          "url": "https://friovesa.com/product/fritada-1kg/"
         },
         {
-          "name": "Lomo falda Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
+          "name": "Costillas Cerdo 1Kg",
+          "url": "https://friovesa.com/product/costillas-cerdo-1kg/"
         },
         {
-          "name": "Merito ( 500gr o 1kg)",
-          "url": "https://friovesa.com/product/merito-500gr-o-1kg/"
+          "name": "Piernas 1kg – 5 a 6ud",
+          "url": "https://friovesa.com/product/piernas-1kg-5-a-6ud/"
         },
         {
-          "name": "Muslos 1kg – 4 ud",
-          "url": "https://friovesa.com/product/muslos-1kg-4-ud/"
+          "name": "Pechugas Limpias (1kg o 3Kg)",
+          "url": "https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/"
         }
       ],
       "tags": [],
@@ -17714,13 +17513,13 @@
         "Proteínas",
         "Res"
       ],
-      "scraped_at": "2026-08-04T10:59:04.695186+00:00",
+      "scraped_at": "2026-08-08T09:03:49.674624+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-07-21T01:30:55+00:00",
+        "sitemap_lastmod": "2026-08-07T20:49:05+00:00",
         "listing": {
           "product_id": "948",
           "name": "Carne Mechada 500gr",
@@ -18759,25 +18558,25 @@
       "images": [
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/0bdc23bd-6911-49ea-958d-8756c408b4d1.png?fit=1448%2C1086&ssl=1"
       ],
-      "status": "agotado",
-      "stock": "Sin existencias",
-      "stock_quantity": null,
+      "status": "activo",
+      "stock": "6 disponibles",
+      "stock_quantity": 6.0,
       "related_products": [
         {
-          "name": "Atún Rojo ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
+          "name": "Chuleta Ahumada 500gr o 1kg",
+          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
         },
         {
-          "name": "Fritada 1kg",
-          "url": "https://friovesa.com/product/fritada-1kg/"
+          "name": "Costillas Cerdo 1Kg",
+          "url": "https://friovesa.com/product/costillas-cerdo-1kg/"
         },
         {
           "name": "Lomo falda Res 500gr o 1kg",
           "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
         },
         {
-          "name": "Alimento Barf 1kg a 48kg",
-          "url": "https://friovesa.com/product/alimento-barf-1kg-a-48kg/"
+          "name": "Merito ( 500gr o 1kg)",
+          "url": "https://friovesa.com/product/merito-500gr-o-1kg/"
         }
       ],
       "tags": [],
@@ -18789,13 +18588,13 @@
         "Proteínas",
         "Res"
       ],
-      "scraped_at": "2026-07-27T11:43:43.386249+00:00",
+      "scraped_at": "2026-08-08T09:04:07.414273+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-07-26T17:54:32+00:00",
+        "sitemap_lastmod": "2026-08-07T20:49:42+00:00",
         "listing": {
           "product_id": "868",
           "name": "Milanesa Res 4ud",
@@ -19722,20 +19521,20 @@
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Fritada 1kg",
-          "url": "https://friovesa.com/product/fritada-1kg/"
-        },
-        {
-          "name": "Atún Rojo ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
-        },
-        {
-          "name": "Chorizo Argentino 1kg – 12 ud",
-          "url": "https://friovesa.com/product/chorizo-argentino-1kg-10-ud/"
+          "name": "Corvina 1lb o 2lb",
+          "url": "https://friovesa.com/product/corvina-roca-1lb-o-2lb/"
         },
         {
           "name": "Alimento Barf 1kg a 48kg",
           "url": "https://friovesa.com/product/alimento-barf-1kg-a-48kg/"
+        },
+        {
+          "name": "Camarones 500gr o 1kg",
+          "url": "https://friovesa.com/product/camarones-500gr-o-1kg/"
+        },
+        {
+          "name": "Molida Res (500gr o 1kg)",
+          "url": "https://friovesa.com/product/molida-res-500gr-o-1kg/"
         }
       ],
       "tags": [],
@@ -19751,7 +19550,7 @@
           "sku": "12269-01",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 47.0,
+          "stock_quantity": 46.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/cece04fc-f329-4008-84d8-954f73111ce3.png?fit=1448%2C1086&ssl=1",
           "description": ""
         },
@@ -19766,7 +19565,7 @@
           "sku": "12269-02",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 47.0,
+          "stock_quantity": 46.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/cece04fc-f329-4008-84d8-954f73111ce3.png?fit=1448%2C1086&ssl=1",
           "description": ""
         }
@@ -19778,13 +19577,13 @@
         "Proteínas",
         "Cortes Parrilleros"
       ],
-      "scraped_at": "2026-08-05T10:48:24.505112+00:00",
+      "scraped_at": "2026-08-08T09:04:06.235313+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-05T00:33:54+00:00",
+        "sitemap_lastmod": "2026-08-07T21:49:03+00:00",
         "listing": {
           "product_id": "95",
           "name": "Matambre 500gr o 1kg",
@@ -20195,25 +19994,25 @@
       "images": [
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/98b73788-cb7d-4e16-ab8b-e92d22979f37.png?fit=1448%2C1086&ssl=1"
       ],
-      "status": "agotado",
-      "stock": "Sin existencias",
-      "stock_quantity": null,
+      "status": "activo",
+      "stock": "4 disponibles",
+      "stock_quantity": 4.0,
       "related_products": [
         {
-          "name": "Cangrejo Pulpa 1lb",
-          "url": "https://friovesa.com/product/pulpa-de-cangrejo-1lb/"
+          "name": "Alitas 1kg – 6 a 7ud",
+          "url": "https://friovesa.com/product/alitas-1kg-6-a-7ud/"
         },
         {
-          "name": "Lomo Fino Cerdo 500gr",
-          "url": "https://friovesa.com/product/lomo-fino-cerdo/"
+          "name": "Chorizo Argentino 1kg – 12 ud",
+          "url": "https://friovesa.com/product/chorizo-argentino-1kg-10-ud/"
         },
         {
-          "name": "Corvina 1lb o 2lb",
-          "url": "https://friovesa.com/product/corvina-roca-1lb-o-2lb/"
+          "name": "Muslos 1kg – 4 ud",
+          "url": "https://friovesa.com/product/muslos-1kg-4-ud/"
         },
         {
-          "name": "Hamburguesa Res 1Lb o 2lb",
-          "url": "https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/"
+          "name": "Dorado Filetes 1lb o 2lb",
+          "url": "https://friovesa.com/product/dorado-filetes-1lb-o-2lb/"
         }
       ],
       "tags": [],
@@ -20225,13 +20024,13 @@
         "Proteínas",
         "Cortes Parrilleros"
       ],
-      "scraped_at": "2026-07-30T10:35:48.464037+00:00",
+      "scraped_at": "2026-08-08T09:04:10.552900+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-07-29T16:48:39+00:00",
+        "sitemap_lastmod": "2026-08-07T20:49:54+00:00",
         "listing": {
           "product_id": "1071",
           "name": "Pícaña Cerdo 2kg",
@@ -21334,25 +21133,25 @@
       "images": [
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/11/df5b0b27-fa55-43dc-ad52-98de7600a070.png?fit=1511%2C1041&ssl=1"
       ],
-      "status": "agotado",
-      "stock": "Sin existencias",
-      "stock_quantity": null,
+      "status": "activo",
+      "stock": "2 disponibles",
+      "stock_quantity": 2.0,
       "related_products": [
         {
-          "name": "Costillas Cerdo 1Kg",
-          "url": "https://friovesa.com/product/costillas-cerdo-1kg/"
-        },
-        {
-          "name": "Cangrejo Pulpa 1lb",
-          "url": "https://friovesa.com/product/pulpa-de-cangrejo-1lb/"
-        },
-        {
-          "name": "Camarones 500gr o 1kg",
-          "url": "https://friovesa.com/product/camarones-500gr-o-1kg/"
+          "name": "Chuleta Ahumada 500gr o 1kg",
+          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
         },
         {
           "name": "Muslos 1kg – 4 ud",
           "url": "https://friovesa.com/product/muslos-1kg-4-ud/"
+        },
+        {
+          "name": "Lomo falda Res 500gr o 1kg",
+          "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
+        },
+        {
+          "name": "Merito ( 500gr o 1kg)",
+          "url": "https://friovesa.com/product/merito-500gr-o-1kg/"
         }
       ],
       "tags": [],
@@ -21364,13 +21163,13 @@
         "Proteínas",
         "Cortes Parrilleros"
       ],
-      "scraped_at": "2026-07-31T11:01:28.312765+00:00",
+      "scraped_at": "2026-08-08T09:03:51.880244+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-07-02T16:28:50+00:00",
+        "sitemap_lastmod": "2026-08-07T21:49:03+00:00",
         "listing": {
           "product_id": "2703",
           "name": "Chistorra 1kg",
@@ -21475,24 +21274,24 @@
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/e3b36b3d-e96e-4f7d-824b-8cc14d152f1b.png?fit=1511%2C1041&ssl=1"
       ],
       "status": "activo",
-      "stock": "803 disponibles",
-      "stock_quantity": 803.0,
+      "stock": "801 disponibles",
+      "stock_quantity": 801.0,
       "related_products": [
-        {
-          "name": "Salón (500gr o 1kg)",
-          "url": "https://friovesa.com/product/salon-500gr-o-1kg/"
-        },
         {
           "name": "Pulpas Saludables 10 ud x litro",
           "url": "https://friovesa.com/product/6-pulpas-detox/"
+        },
+        {
+          "name": "Chuleta Ahumada 500gr o 1kg",
+          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
         },
         {
           "name": "Molida Res (500gr o 1kg)",
           "url": "https://friovesa.com/product/molida-res-500gr-o-1kg/"
         },
         {
-          "name": "Camarones 500gr o 1kg",
-          "url": "https://friovesa.com/product/camarones-500gr-o-1kg/"
+          "name": "Tilapia ( 1Lb o 2Lb )",
+          "url": "https://friovesa.com/product/tilapia-1lb-o-2lb/"
         }
       ],
       "tags": [],
@@ -21504,13 +21303,13 @@
         "Proteínas",
         "Cortes Parrilleros"
       ],
-      "scraped_at": "2026-08-04T10:59:06.508429+00:00",
+      "scraped_at": "2026-08-08T09:03:51.007706+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-04T00:31:01+00:00",
+        "sitemap_lastmod": "2026-08-07T21:49:03+00:00",
         "listing": {
           "product_id": "85",
           "name": "Chorizo Argentino 1kg – 12 ud",
@@ -21673,10 +21472,10 @@
       "url": "https://friovesa.com/product/colita-cuadril-importada/",
       "http_status": 200,
       "final_url": "https://friovesa.com/product/colita-cuadril-importada/",
-      "current_price": 24.99,
+      "current_price": 32.4,
       "regular_price": 17.99,
       "sale_price": null,
-      "price_text": "$ 17,99 - $ 24,99 Rango de precios: desde $17,99 hasta $24,99",
+      "price_text": "$ 17,99 - $ 32,40 Rango de precios: desde $17,99 hasta $32,40",
       "description": "",
       "short_description": "Las colita de cuadril es un corte de parrilla La Colita de Cuadril Nelore 1kg, o también de 1,2kg o 1,4kg Boliviana es una opción premium para los amantes de la carne de calidad. Proveniente de Bolivia, un país reconocido mundialmente por su excelencia en ganadería, esta colita de cuadril pertenece a la raza Nelore,",
       "sku": "13171",
@@ -21689,24 +21488,54 @@
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Merito ( 500gr o 1kg)",
-          "url": "https://friovesa.com/product/merito-500gr-o-1kg/"
+          "name": "Costillas Cerdo 1Kg",
+          "url": "https://friovesa.com/product/costillas-cerdo-1kg/"
         },
         {
-          "name": "Alimento Barf 1kg a 48kg",
-          "url": "https://friovesa.com/product/alimento-barf-1kg-a-48kg/"
+          "name": "Atún Rojo ( 1Lb o 2Lb )",
+          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
         },
         {
-          "name": "Chuletas Cerdo 500gr o 1kg",
-          "url": "https://friovesa.com/product/chuletas-cerdo/"
+          "name": "Lomo Fino Cerdo 500gr",
+          "url": "https://friovesa.com/product/lomo-fino-cerdo/"
         },
         {
-          "name": "Lomo Fino Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/"
+          "name": "Pechugas Limpias (1kg o 3Kg)",
+          "url": "https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/"
         }
       ],
       "tags": [],
       "variations": [
+        {
+          "variation_id": "5712",
+          "attributes": {
+            "peso": "1-6-kg"
+          },
+          "price": 28.8,
+          "regular_price": 28.8,
+          "sale_price": null,
+          "sku": "13171",
+          "weight": "",
+          "in_stock": false,
+          "stock_quantity": "",
+          "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/bae3ac3f-38fa-485b-9f45-cdf59848628e.png?fit=1511%2C1041&ssl=1",
+          "description": ""
+        },
+        {
+          "variation_id": "5713",
+          "attributes": {
+            "peso": "1-8-kg"
+          },
+          "price": 32.4,
+          "regular_price": 32.4,
+          "sale_price": null,
+          "sku": "13171",
+          "weight": "",
+          "in_stock": true,
+          "stock_quantity": 1.0,
+          "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/bae3ac3f-38fa-485b-9f45-cdf59848628e.png?fit=1511%2C1041&ssl=1",
+          "description": ""
+        },
         {
           "variation_id": "825",
           "attributes": {
@@ -21733,7 +21562,7 @@
           "sku": "13171-02",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 9.0,
+          "stock_quantity": 1.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/img_0127-2.jpeg?fit=1320%2C942&ssl=1",
           "description": ""
         },
@@ -21760,17 +21589,17 @@
         "Proteínas",
         "Res"
       ],
-      "scraped_at": "2026-08-04T10:59:08.764021+00:00",
+      "scraped_at": "2026-08-08T09:03:53.501883+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-04T00:31:01+00:00",
+        "sitemap_lastmod": "2026-08-07T21:49:17+00:00",
         "listing": {
           "product_id": "418",
           "name": "Colita Cuadril Importada",
-          "price_text": "$ 17,99 - $ 24,99 Rango de precios: desde $17,99 hasta $24,99"
+          "price_text": "$ 17,99 - $ 32,40 Rango de precios: desde $17,99 hasta $32,40"
         }
       }
     },
@@ -22280,20 +22109,20 @@
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/1de9749f-d4fd-4f60-ab58-8bc955461169.png?fit=1448%2C1086&ssl=1"
       ],
       "status": "activo",
-      "stock": "Agotado",
+      "stock": "Con stock",
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Atún Rojo ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
+          "name": "Corvina 1lb o 2lb",
+          "url": "https://friovesa.com/product/corvina-roca-1lb-o-2lb/"
         },
         {
-          "name": "Pechugas Limpias (1kg o 3Kg)",
-          "url": "https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/"
+          "name": "Pulpas Saludables 10 ud x litro",
+          "url": "https://friovesa.com/product/6-pulpas-detox/"
         },
         {
-          "name": "Lomo falda Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
+          "name": "Chuleta Ahumada 500gr o 1kg",
+          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
         },
         {
           "name": "Dorado Filetes 1lb o 2lb",
@@ -22312,8 +22141,8 @@
           "sale_price": null,
           "sku": "36288-01",
           "weight": "",
-          "in_stock": false,
-          "stock_quantity": "",
+          "in_stock": true,
+          "stock_quantity": 5.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/1de9749f-d4fd-4f60-ab58-8bc955461169.png?fit=1448%2C1086&ssl=1",
           "description": ""
         },
@@ -22327,8 +22156,8 @@
           "sale_price": null,
           "sku": "36288-02",
           "weight": "",
-          "in_stock": false,
-          "stock_quantity": "",
+          "in_stock": true,
+          "stock_quantity": 5.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/1de9749f-d4fd-4f60-ab58-8bc955461169.png?fit=1448%2C1086&ssl=1",
           "description": ""
         }
@@ -22340,13 +22169,13 @@
         "Proteínas",
         "Res"
       ],
-      "scraped_at": "2026-07-25T10:02:29.451343+00:00",
+      "scraped_at": "2026-08-08T09:04:02.535539+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-07-23T16:53:57+00:00",
+        "sitemap_lastmod": "2026-08-07T20:49:30+00:00",
         "listing": {
           "product_id": "73",
           "name": "Hamburguesa Res 1Lb o 2lb",
@@ -22822,24 +22651,24 @@
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/90600927-3ece-4cbe-b5f0-8eb96c3290ce.png?fit=1511%2C1041&ssl=1"
       ],
       "status": "activo",
-      "stock": "Agotado",
+      "stock": "Con stock",
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Corvina 1lb o 2lb",
-          "url": "https://friovesa.com/product/corvina-roca-1lb-o-2lb/"
+          "name": "Pulpas Saludables 10 ud x litro",
+          "url": "https://friovesa.com/product/6-pulpas-detox/"
         },
         {
-          "name": "Lomo falda Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
+          "name": "Chuleta Ahumada 500gr o 1kg",
+          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
         },
         {
-          "name": "Pechugas Limpias (1kg o 3Kg)",
-          "url": "https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/"
+          "name": "Alimento Barf 1kg a 48kg",
+          "url": "https://friovesa.com/product/alimento-barf-1kg-a-48kg/"
         },
         {
-          "name": "Muslos 1kg – 4 ud",
-          "url": "https://friovesa.com/product/muslos-1kg-4-ud/"
+          "name": "Molida Res (500gr o 1kg)",
+          "url": "https://friovesa.com/product/molida-res-500gr-o-1kg/"
         }
       ],
       "tags": [],
@@ -22854,8 +22683,8 @@
           "sale_price": null,
           "sku": "52391-01",
           "weight": "",
-          "in_stock": false,
-          "stock_quantity": "",
+          "in_stock": true,
+          "stock_quantity": 4.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/b11382c2-b84b-456e-9482-d3bd91ae00a9.png?fit=1448%2C1086&ssl=1",
           "description": ""
         },
@@ -22897,13 +22726,13 @@
         "Proteínas",
         "Res"
       ],
-      "scraped_at": "2026-08-06T10:50:51.343099+00:00",
+      "scraped_at": "2026-08-08T09:04:10.694767+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-05T22:38:18+00:00",
+        "sitemap_lastmod": "2026-08-07T20:43:28+00:00",
         "listing": {
           "product_id": "419",
           "name": "Pícaña Importada",
@@ -24192,20 +24021,20 @@
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Pulpas Saludables 10 ud x litro",
-          "url": "https://friovesa.com/product/6-pulpas-detox/"
+          "name": "Chuleta Ahumada 500gr o 1kg",
+          "url": "https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/"
         },
         {
-          "name": "Cangrejo Pulpa 1lb",
-          "url": "https://friovesa.com/product/pulpa-de-cangrejo-1lb/"
+          "name": "Lomo falda Res 500gr o 1kg",
+          "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
         },
         {
-          "name": "Tilapia ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/tilapia-1lb-o-2lb/"
+          "name": "Molida Res (500gr o 1kg)",
+          "url": "https://friovesa.com/product/molida-res-500gr-o-1kg/"
         },
         {
-          "name": "Lomo Fino Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/"
+          "name": "Muslos 1kg – 4 ud",
+          "url": "https://friovesa.com/product/muslos-1kg-4-ud/"
         }
       ],
       "tags": [],
@@ -24221,7 +24050,7 @@
           "sku": "29633-01",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 9916.0,
+          "stock_quantity": 9914.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/camarones.png?fit=1470%2C1070&ssl=1",
           "description": ""
         },
@@ -24236,7 +24065,7 @@
           "sku": "29633-02",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 9916.0,
+          "stock_quantity": 9914.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/camarones.png?fit=1470%2C1070&ssl=1",
           "description": ""
         }
@@ -24248,13 +24077,13 @@
         "Proteínas",
         "Mariscos"
       ],
-      "scraped_at": "2026-08-07T09:17:19.284970+00:00",
+      "scraped_at": "2026-08-08T09:03:50.317526+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-07T00:41:51+00:00",
+        "sitemap_lastmod": "2026-08-07T15:16:19+00:00",
         "listing": {
           "product_id": "74",
           "name": "Camarones 500gr o 1kg",
@@ -25740,12 +25569,16 @@
         "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/a8d5289e-62fc-42f0-bc96-6a8cad5e8f3e.png?fit=1506%2C1045&ssl=1"
       ],
       "status": "activo",
-      "stock": "Agotado",
+      "stock": "Con stock",
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Atún Rojo ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
+          "name": "Fritada 1kg",
+          "url": "https://friovesa.com/product/fritada-1kg/"
+        },
+        {
+          "name": "Corvina 1lb o 2lb",
+          "url": "https://friovesa.com/product/corvina-roca-1lb-o-2lb/"
         },
         {
           "name": "Salmón ( 600gr o 1kg )",
@@ -25754,10 +25587,6 @@
         {
           "name": "Camarones 500gr o 1kg",
           "url": "https://friovesa.com/product/camarones-500gr-o-1kg/"
-        },
-        {
-          "name": "Muslos 1kg – 4 ud",
-          "url": "https://friovesa.com/product/muslos-1kg-4-ud/"
         }
       ],
       "tags": [],
@@ -25772,8 +25601,8 @@
           "sale_price": null,
           "sku": "93739-01",
           "weight": "",
-          "in_stock": false,
-          "stock_quantity": "",
+          "in_stock": true,
+          "stock_quantity": 4.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/a8d5289e-62fc-42f0-bc96-6a8cad5e8f3e.png?fit=1506%2C1045&ssl=1",
           "description": ""
         },
@@ -25787,8 +25616,8 @@
           "sale_price": null,
           "sku": "93739-02",
           "weight": "",
-          "in_stock": false,
-          "stock_quantity": "",
+          "in_stock": true,
+          "stock_quantity": 4.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/a8d5289e-62fc-42f0-bc96-6a8cad5e8f3e.png?fit=1506%2C1045&ssl=1",
           "description": ""
         }
@@ -25800,13 +25629,13 @@
         "Proteínas",
         "Mariscos"
       ],
-      "scraped_at": "2026-08-05T10:48:41.548393+00:00",
+      "scraped_at": "2026-08-08T09:04:17.364307+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-04T12:24:39+00:00",
+        "sitemap_lastmod": "2026-08-07T20:50:10+00:00",
         "listing": {
           "product_id": "144",
           "name": "Wahoo Filetes 1Lb o 2Lb",
@@ -27314,20 +27143,20 @@
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Costillas Cerdo 1Kg",
-          "url": "https://friovesa.com/product/costillas-cerdo-1kg/"
+          "name": "Corvina 1lb o 2lb",
+          "url": "https://friovesa.com/product/corvina-roca-1lb-o-2lb/"
         },
         {
-          "name": "Pulpas Saludables 10 ud x litro",
-          "url": "https://friovesa.com/product/6-pulpas-detox/"
+          "name": "Molida Res (500gr o 1kg)",
+          "url": "https://friovesa.com/product/molida-res-500gr-o-1kg/"
         },
         {
-          "name": "Tilapia ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/tilapia-1lb-o-2lb/"
+          "name": "Dorado Filetes 1lb o 2lb",
+          "url": "https://friovesa.com/product/dorado-filetes-1lb-o-2lb/"
         },
         {
-          "name": "Piernas 1kg – 5 a 6ud",
-          "url": "https://friovesa.com/product/piernas-1kg-5-a-6ud/"
+          "name": "Lomo Fino Res 500gr o 1kg",
+          "url": "https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/"
         }
       ],
       "tags": [],
@@ -27343,7 +27172,7 @@
           "sku": "68463-01",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 128.0,
+          "stock_quantity": 125.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/ac41a208-6ebd-45b3-a6be-ac0726667b29.png?fit=1511%2C1041&ssl=1",
           "description": ""
         },
@@ -27358,7 +27187,7 @@
           "sku": "68463-02",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 128.0,
+          "stock_quantity": 125.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/ac41a208-6ebd-45b3-a6be-ac0726667b29.png?fit=1511%2C1041&ssl=1",
           "description": ""
         }
@@ -27370,13 +27199,13 @@
         "Proteínas",
         "Res"
       ],
-      "scraped_at": "2026-08-06T10:50:44.529184+00:00",
+      "scraped_at": "2026-08-08T09:04:04.729569+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-05T19:12:41+00:00",
+        "sitemap_lastmod": "2026-08-07T15:16:19+00:00",
         "listing": {
           "product_id": "135",
           "name": "Lomo Falda filetes (500gr – 1kg)",
@@ -27514,20 +27343,20 @@
       "stock_quantity": null,
       "related_products": [
         {
-          "name": "Salón (500gr o 1kg)",
-          "url": "https://friovesa.com/product/salon-500gr-o-1kg/"
+          "name": "Pulpas Saludables 10 ud x litro",
+          "url": "https://friovesa.com/product/6-pulpas-detox/"
         },
         {
-          "name": "Atún Rojo ( 1Lb o 2Lb )",
-          "url": "https://friovesa.com/product/atun-rojo-1lb-o-2lb/"
+          "name": "Chorizo Argentino 1kg – 12 ud",
+          "url": "https://friovesa.com/product/chorizo-argentino-1kg-10-ud/"
         },
         {
-          "name": "Dorado Filetes 1lb o 2lb",
-          "url": "https://friovesa.com/product/dorado-filetes-1lb-o-2lb/"
+          "name": "Camarones 500gr o 1kg",
+          "url": "https://friovesa.com/product/camarones-500gr-o-1kg/"
         },
         {
-          "name": "Lomo falda Res 500gr o 1kg",
-          "url": "https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/"
+          "name": "Chuletas Cerdo 500gr o 1kg",
+          "url": "https://friovesa.com/product/chuletas-cerdo/"
         }
       ],
       "tags": [],
@@ -27618,7 +27447,7 @@
           "sku": "21721-01",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 952.0,
+          "stock_quantity": 947.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/lomo-en-2.png?fit=1511%2C1041&ssl=1",
           "description": ""
         },
@@ -27633,7 +27462,7 @@
           "sku": "21721-02",
           "weight": "",
           "in_stock": true,
-          "stock_quantity": 952.0,
+          "stock_quantity": 947.0,
           "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/lomo-h.png?fit=1512%2C1040&ssl=1",
           "description": ""
         }
@@ -27645,13 +27474,13 @@
         "Proteínas",
         "Res"
       ],
-      "scraped_at": "2026-08-06T10:50:43.231254+00:00",
+      "scraped_at": "2026-08-08T09:04:04.164749+00:00",
       "error": "",
       "extra": {
         "brand": "",
         "gtin": "",
         "mpn": "",
-        "sitemap_lastmod": "2026-08-05T12:08:46+00:00",
+        "sitemap_lastmod": "2026-08-07T16:02:46+00:00",
         "listing": {
           "product_id": "71",
           "name": "Lomo Fino Res 500gr o 1kg",

@@ -81,12 +81,9 @@
 | Guayaquil | Proteínas | Pollo | Nuggets de Pollo | [Abrir](https://friovesa.com/product/nuggets-de-pollo/) |
 | Guayaquil | Proteínas | Res | Lomo Fino | [Abrir](https://friovesa.com/product/lomo-fino/) |
 | Quito |  |  | Café Molido Friovesa 250gr | [Abrir](https://friovesa.com/product/cafe-molido-friovesa-250gr/) |
-| Quito | Accesorios |  | Agua Alcalina iones | [Abrir](https://friovesa.com/product/agua-alcalina/) |
 | Quito | Accesorios |  | Funda de Silicona G Fits 946 ml a 1180 ml | [Abrir](https://friovesa.com/product/funda-de-silicona-g-fits-946-ml-a-1180-ml/) |
 | Quito | Accesorios |  | Funda de Silicona P Fits 355 ml a 740 ml | [Abrir](https://friovesa.com/product/funda-de-silicona-p-fits-355-ml-a-740-ml/) |
 | Quito | Accesorios |  | MicroPuroficador | [Abrir](https://friovesa.com/product/micropuroficador/) |
-| Quito | Accesorios |  | Plantillas Curativas | [Abrir](https://friovesa.com/product/plantillas-curativas/) |
-| Quito | Accesorios |  | Pulsera Iones Negativos | [Abrir](https://friovesa.com/product/pulsera-iones-negativos/) |
 | Quito | Accesorios |  | Purificador Casero | [Abrir](https://friovesa.com/product/purificador-casero/) |
 | Quito | Accesorios |  | Tapa de Repuesto con Pico | [Abrir](https://friovesa.com/product/tapa-de-repuesto-con-pico/) |
 | Quito | Accesorios |  | Termo Térmico 355 ml | [Abrir](https://friovesa.com/product/termo-termico-355-ml/) |

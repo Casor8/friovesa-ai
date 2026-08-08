@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-07T09:16:37.710182+00:00
+Actualizado: 2026-08-08T09:02:58.299931+00:00
 
 ## Guayaquil (78 productos)
 
@@ -83,15 +83,12 @@ Actualizado: 2026-08-07T09:16:37.710182+00:00
 - [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/) — $ 5,10 - $ 10,20 Rango de precios: desde $5,10 hasta $10,20 — Proteínas
 - [Lomo Fino](https://friovesa.com/product/lomo-fino/) — $ 10,75 - $ 21,50 Rango de precios: desde $10,75 hasta $21,50 — Proteínas
 
-## Quito (384 productos)
+## Quito (381 productos)
 
 - [Café Molido Friovesa 250gr](https://friovesa.com/product/cafe-molido-friovesa-250gr/) — $ 6,50 — Sin categoría
-- [Agua Alcalina iones](https://friovesa.com/product/agua-alcalina/) — $ 349,57 — Accesorios
 - [Funda de Silicona G Fits 946 ml a 1180 ml](https://friovesa.com/product/funda-de-silicona-g-fits-946-ml-a-1180-ml/) — $ 4,00 — Accesorios
 - [Funda de Silicona P Fits 355 ml a 740 ml](https://friovesa.com/product/funda-de-silicona-p-fits-355-ml-a-740-ml/) — $ 4,00 — Accesorios
 - [MicroPuroficador](https://friovesa.com/product/micropuroficador/) — $ 395,00 — Accesorios
-- [Plantillas Curativas](https://friovesa.com/product/plantillas-curativas/) — $ 135,65 — Accesorios
-- [Pulsera Iones Negativos](https://friovesa.com/product/pulsera-iones-negativos/) — $ 211,31 — Accesorios
 - [Purificador Casero](https://friovesa.com/product/purificador-casero/) — $ 129,00 — Accesorios
 - [Tapa de Repuesto con Pico](https://friovesa.com/product/tapa-de-repuesto-con-pico/) — $ 5,00 — Accesorios
 - [Termo Térmico 355 ml](https://friovesa.com/product/termo-termico-355-ml/) — $ 13,00 — Accesorios
@@ -367,7 +364,7 @@ Actualizado: 2026-08-07T09:16:37.710182+00:00
 - [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/) — $ 10,99 — Proteínas
 - [Chorizo Botón – 20ud](https://friovesa.com/product/chorizo-boton-20ud/) — $ 10,50 — Proteínas
 - [Chorizo Paisa 12u/900g](https://friovesa.com/product/chorizo-paisa-12ud/) — $ 9,50 — Proteínas
-- [Colita Cuadril Importada](https://friovesa.com/product/colita-cuadril-importada/) — $ 17,99 - $ 24,99 Rango de precios: desde $17,99 hasta $24,99 — Proteínas
+- [Colita Cuadril Importada](https://friovesa.com/product/colita-cuadril-importada/) — $ 17,99 - $ 32,40 Rango de precios: desde $17,99 hasta $32,40 — Proteínas
 - [Encendedor Líquido](https://friovesa.com/product/encendedor-liquido/) — $ 2,50 — Proteínas
 - [Enciende Fuegos](https://friovesa.com/product/enciende-fuegos/) — $ 1,99 — Proteínas
 - [Entraña de Res 1kg](https://friovesa.com/product/entrana-de-res-1kg/) — $ 11,99 — Proteínas
