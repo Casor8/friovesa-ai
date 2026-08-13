@@ -120,7 +120,7 @@
 - **Palabras clave:** Carne Molida de Cerdo, Proteinas Gye, Cerdo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Cerdo
-- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Matambre](https://friovesa.com/product/matambre/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Salón](https://friovesa.com/product/salon/)
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Róbalo](https://friovesa.com/product/robalo/), [Alitas](https://friovesa.com/product/alitas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -267,7 +267,7 @@
 - **Palabras clave:** Lomo Fino de Cerdo, Proteinas Gye, Cerdo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Cerdo
-- **Productos relacionados:** [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Longaniza](https://friovesa.com/product/longaniza/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Morcilla](https://friovesa.com/product/morcilla/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -617,7 +617,7 @@
 - **Palabras clave:** Cubos de Ceviche, Proteinas Gye, Mariscos
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Salón](https://friovesa.com/product/salon/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Productos relacionados:** [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -802,7 +802,7 @@
 - **Palabras clave:** Tilapia, Proteinas Gye, Mariscos
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Morcilla](https://friovesa.com/product/morcilla/), [Fritada](https://friovesa.com/product/fritada/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Piernas](https://friovesa.com/product/piernas/)
+- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Salón](https://friovesa.com/product/salon/), [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -911,7 +911,7 @@
 - **Palabras clave:** Filetes de Muslo, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Fritada](https://friovesa.com/product/fritada/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Morcilla](https://friovesa.com/product/morcilla/), [Fritada](https://friovesa.com/product/fritada/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -930,7 +930,7 @@
 - **Palabras clave:** Filetes de Pechuga, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Alitas](https://friovesa.com/product/alitas/)
+- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Salón](https://friovesa.com/product/salon/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -968,7 +968,7 @@
 - **Palabras clave:** Muslo y Cadera, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Salón](https://friovesa.com/product/salon/), [Morcilla](https://friovesa.com/product/morcilla/), [Piernas](https://friovesa.com/product/piernas/)
+- **Productos relacionados:** [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Matambre](https://friovesa.com/product/matambre/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -1001,7 +1001,7 @@
 - **Palabras clave:** Pechuga Entera, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Tocino](https://friovesa.com/product/tocino/), [T-Bone](https://friovesa.com/product/t-bone/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Fritada](https://friovesa.com/product/fritada/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Morcilla](https://friovesa.com/product/morcilla/)
 - **Estado:** activo
 - **Stock:** 13 disponibles (puede reservarse)
 
@@ -1015,14 +1015,14 @@
 - **Palabras clave:** Pechuga Limpia, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Morcilla](https://friovesa.com/product/morcilla/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Alitas](https://friovesa.com/product/alitas/)
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Alitas](https://friovesa.com/product/alitas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
 - peso: 3-kg — USD 21.99 — SKU: 13242 — Stock: 20.0
-- peso: 1-kg — USD 7.90 — SKU: 13242-01 — Stock: 19.0
+- peso: 1-kg — USD 7.90 — SKU: 13242-01 — Stock: 15.0
 - peso: 500-g — USD 3.90 — SKU: 13242-02 — Stock: 20.0
 
 ## Piernas
@@ -1068,7 +1068,7 @@
 - **Palabras clave:** Bife de Chorizo, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Alitas](https://friovesa.com/product/alitas/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
+- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -1106,7 +1106,7 @@
 - **Palabras clave:** Carne Molida Especial, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Salón](https://friovesa.com/product/salon/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Tocino](https://friovesa.com/product/tocino/)
+- **Productos relacionados:** [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Tocino](https://friovesa.com/product/tocino/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -1286,7 +1286,7 @@
 - **Palabras clave:** Pulpa Negra, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Fritada](https://friovesa.com/product/fritada/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/)
+- **Productos relacionados:** [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Longaniza](https://friovesa.com/product/longaniza/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -1362,7 +1362,7 @@
 - **Palabras clave:** Ribeye, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Salón](https://friovesa.com/product/salon/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Tocino](https://friovesa.com/product/tocino/)
+- **Productos relacionados:** [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -1400,7 +1400,7 @@
 - **Palabras clave:** T-Bone, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Atún Blanco](https://friovesa.com/product/atun-blanco/), [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Fritada](https://friovesa.com/product/fritada/)
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Salón](https://friovesa.com/product/salon/), [Morcilla](https://friovesa.com/product/morcilla/)
 - **Estado:** activo
 - **Stock:** Con stock
 

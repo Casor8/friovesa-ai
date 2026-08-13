@@ -14,7 +14,7 @@
 - **Palabras clave:** Alimento Barf 1kg a 48kg, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Salón](https://friovesa.com/product/salon/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Alitas](https://friovesa.com/product/alitas/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
 - **Estado:** activo
 - **Stock:** Con stock
 
