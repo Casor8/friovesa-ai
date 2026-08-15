@@ -15,7 +15,7 @@
 - **Palabras clave:** Nuggets de Pollo, Proteínas, Pollo
 - **Categoría:** Proteínas
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Tocino](https://friovesa.com/product/tocino/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Matambre](https://friovesa.com/product/matambre/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -34,7 +34,7 @@
 - **Palabras clave:** Lomo Fino, Proteínas, Res
 - **Categoría:** Proteínas
 - **Subcategoría:** Res
-- **Productos relacionados:** [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/)
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [T-Bone](https://friovesa.com/product/t-bone/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Morcilla](https://friovesa.com/product/morcilla/)
 - **Estado:** activo
 - **Stock:** Con stock
 

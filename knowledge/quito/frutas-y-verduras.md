@@ -37,7 +37,7 @@
 - **Palabras clave:** Arveja 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -51,7 +51,7 @@
 - **Palabras clave:** Brócoli 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -65,7 +65,7 @@
 - **Palabras clave:** Chocho 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -79,7 +79,7 @@
 - **Palabras clave:** Choclo 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
+- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -93,7 +93,7 @@
 - **Palabras clave:** Ensalada Rusa 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
+- **Productos relacionados:** [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -107,7 +107,7 @@
 - **Palabras clave:** Frejol Rojo 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
+- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -121,7 +121,7 @@
 - **Palabras clave:** Frutillas 450gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** 97 disponibles
 
@@ -135,7 +135,7 @@
 - **Palabras clave:** Garbanzo 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/)
+- **Productos relacionados:** [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -149,7 +149,7 @@
 - **Palabras clave:** Moras 450gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/)
+- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** 11 disponibles
 
@@ -163,7 +163,7 @@
 - **Palabras clave:** Pimiento 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
+- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -177,7 +177,7 @@
 - **Palabras clave:** Vainitas 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
+- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -191,7 +191,7 @@
 - **Palabras clave:** Zanahoria 500gr ❄️, Frutas y Verduras, Congelados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Congelados
-- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -205,7 +205,7 @@
 - **Palabras clave:** Frutilla Deshidratada 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/), [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Tomate Deshidratado 1Lb](https://friovesa.com/product/tomate-deshidratado-1lb/)
+- **Productos relacionados:** [Limón Deshidratado 1Lb](https://friovesa.com/product/limon-deshidratado-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/), [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/), [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -219,7 +219,7 @@
 - **Palabras clave:** Limón Deshidratado 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/), [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/), [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/)
+- **Productos relacionados:** [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/), [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -233,7 +233,7 @@
 - **Palabras clave:** Mandarina Deshidratada 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/), [Limón Deshidratado 1Lb](https://friovesa.com/product/limon-deshidratado-1lb/), [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/)
+- **Productos relacionados:** [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/), [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -247,7 +247,7 @@
 - **Palabras clave:** Mora Deshidratada 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/), [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Tomate Deshidratado 1Lb](https://friovesa.com/product/tomate-deshidratado-1lb/), [Limón Deshidratado 1Lb](https://friovesa.com/product/limon-deshidratado-1lb/)
+- **Productos relacionados:** [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/), [Tomate Deshidratado 1Lb](https://friovesa.com/product/tomate-deshidratado-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -261,7 +261,7 @@
 - **Palabras clave:** Naranjilla Deshidratada 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/), [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/)
+- **Productos relacionados:** [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/), [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/), [Tomate Deshidratado 1Lb](https://friovesa.com/product/tomate-deshidratado-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -275,7 +275,7 @@
 - **Palabras clave:** Piña Deshidratada 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/), [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/)
+- **Productos relacionados:** [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/), [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/), [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -289,7 +289,7 @@
 - **Palabras clave:** Tomate Deshidratado 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/), [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/), [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Limón Deshidratado 1Lb](https://friovesa.com/product/limon-deshidratado-1lb/)
+- **Productos relacionados:** [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Mora Deshidratada 1Lb](https://friovesa.com/product/mora-deshidratada-1lb/), [Uvilla Deshidratada 1Lb](https://friovesa.com/product/uvilla-deshidratada-1lb/), [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -303,7 +303,7 @@
 - **Palabras clave:** Uvilla Deshidratada 1Lb, Frutas y Verduras, Deshidratados
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Deshidratados
-- **Productos relacionados:** [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/), [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Tomate Deshidratado 1Lb](https://friovesa.com/product/tomate-deshidratado-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/)
+- **Productos relacionados:** [Naranjilla Deshidratada 1Lb](https://friovesa.com/product/naranjilla-deshidratada-1lb/), [Frutilla Deshidratada 1Lb](https://friovesa.com/product/frutilla-deshidratada-1lb/), [Piña Deshidratada 1Lb](https://friovesa.com/product/pina-deshidratada-1lb/), [Mandarina Deshidratada 1Lb](https://friovesa.com/product/mandarina-deshidratada-1lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -317,7 +317,7 @@
 - **Palabras clave:** Canasta, Frutas y Verduras, Frescas
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Frescas
-- **Productos relacionados:** [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/)
+- **Productos relacionados:** [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -331,7 +331,7 @@
 - **Palabras clave:** 3 Papillas bebe 90g c/u, Frutas y Verduras, Pulpas de Fruta
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Pulpas de Fruta
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -345,25 +345,25 @@
 - **Palabras clave:** Pulpas 10 ud x litro, Frutas y Verduras, Pulpas de Fruta
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Pulpas de Fruta
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
+- **Productos relacionados:** [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- frutas: mix-frutilla-maracuya-2 — USD 8.90 — SKU: 35248 — Stock: 983.0
-- frutas: mix-pink-lemon — USD 8.90 — SKU: 35248 — Stock: 983.0
-- frutas: coco — USD 6.90 — SKU: 35248 — Stock: 983.0
-- frutas: taxo — USD 6.90 — SKU: 35248 — Stock: 983.0
-- frutas: frutilla — USD 5.90 — SKU: 35248-01 — Stock: 983.0
-- frutas: tamarindo — USD 6.90 — SKU: 35248 — Stock: 983.0
-- frutas: guanabana — USD 6.90 — SKU: 35248-02 — Stock: 983.0
-- frutas: mango — USD 6.90 — SKU: 35248-03 — Stock: 983.0
-- frutas: maracuya — USD 6.90 — SKU: 35248-04 — Stock: 983.0
-- frutas: mora — USD 5.90 — SKU: 35248-05 — Stock: 983.0
-- frutas: naranjilla — USD 6.90 — SKU: 35248-06 — Stock: 983.0
-- frutas: pina — USD 5.90 — SKU: 35248-07 — Stock: 983.0
-- frutas: tomate-de-arbol — USD 5.90 — SKU: 35248-08 — Stock: 983.0
+- frutas: mix-frutilla-maracuya-2 — USD 8.90 — SKU: 35248 — Stock: 981.0
+- frutas: mix-pink-lemon — USD 8.90 — SKU: 35248 — Stock: 981.0
+- frutas: coco — USD 6.90 — SKU: 35248 — Stock: 981.0
+- frutas: taxo — USD 6.90 — SKU: 35248 — Stock: 981.0
+- frutas: frutilla — USD 5.90 — SKU: 35248-01 — Stock: 981.0
+- frutas: tamarindo — USD 6.90 — SKU: 35248 — Stock: 981.0
+- frutas: guanabana — USD 6.90 — SKU: 35248-02 — Stock: 981.0
+- frutas: mango — USD 6.90 — SKU: 35248-03 — Stock: 981.0
+- frutas: maracuya — USD 6.90 — SKU: 35248-04 — Stock: 981.0
+- frutas: mora — USD 5.90 — SKU: 35248-05 — Stock: 981.0
+- frutas: naranjilla — USD 6.90 — SKU: 35248-06 — Stock: 981.0
+- frutas: pina — USD 5.90 — SKU: 35248-07 — Stock: 981.0
+- frutas: tomate-de-arbol — USD 5.90 — SKU: 35248-08 — Stock: 981.0
 
 ## Pulpas Saludables 10 ud x litro
 
@@ -375,12 +375,12 @@
 - **Palabras clave:** Pulpas Saludables 10 ud x litro, Frutas y Verduras, Pulpas de Fruta
 - **Categoría:** Frutas y Verduras
 - **Subcategoría:** Pulpas de Fruta
-- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/)
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- frutas: inmuno — USD 13.50 — SKU: 16158 — Stock: 55.0
-- frutas: digest — USD 13.50 — SKU: 16158 — Stock: 55.0
-- frutas: detox — USD 13.50 — SKU: 16158 — Stock: 55.0
+- frutas: inmuno — USD 13.50 — SKU: 16158 — Stock: 53.0
+- frutas: digest — USD 13.50 — SKU: 16158 — Stock: 53.0
+- frutas: detox — USD 13.50 — SKU: 16158 — Stock: 53.0

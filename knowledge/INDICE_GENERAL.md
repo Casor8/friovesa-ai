@@ -98,7 +98,7 @@
 | Quito | Antojitos |  | Arepas 4 a 6ud ❄️ | [Abrir](https://friovesa.com/product/arepa-con-sal-4ud/) |
 | Quito | Antojitos |  | Aros Cebolla 500gr ❄️ | [Abrir](https://friovesa.com/product/aros-cebolla-500gr/) |
 | Quito | Antojitos |  | Bolon 6ud ❄️ | [Abrir](https://friovesa.com/product/bolon-6ud/) |
-| Quito | Antojitos |  | Burritos❄️ | [Abrir](https://friovesa.com/product/burritos-5ud/) |
+| Quito | Antojitos |  | Burritos 5ud ❄️ | [Abrir](https://friovesa.com/product/burritos-5ud/) |
 | Quito | Antojitos |  | Corviche 4ud ❄️ | [Abrir](https://friovesa.com/product/corviche-4ud/) |
 | Quito | Antojitos |  | Empanadas Bolivianas ❄️ | [Abrir](https://friovesa.com/product/empanadas-bolivianas-2-a-3ud/) |
 | Quito | Antojitos |  | Empanadas verde 8ud ❄️ | [Abrir](https://friovesa.com/product/empanadas-de-verde-8ud/) |
@@ -119,6 +119,7 @@
 | Quito | Antojitos |  | Tortillas maíz 12ud ❄️ | [Abrir](https://friovesa.com/product/tortillas-de-maiz-12ud/) |
 | Quito | Antojitos | IceMan | Puré Papas 900gr ❄️ | [Abrir](https://friovesa.com/product/pure-papas/) |
 | Quito | Antojitos | IceMan | Waffles 4ud ❄️ | [Abrir](https://friovesa.com/product/waffles-congelados-con-azucar-perlado/) |
+| Quito | Antojitos | Postres | Rollos Canela 4ud | [Abrir](https://friovesa.com/product/rollos-canela-4u/) |
 | Quito | Bebidas y Licores |  | Botellón de agua | [Abrir](https://friovesa.com/product/botellon-de-agua/) |
 | Quito | Bebidas y Licores |  | Cero Resaca Drink 4ud | [Abrir](https://friovesa.com/product/cero-resaca-drink-4ud/) |
 | Quito | Bebidas y Licores |  | Colada Morada 500ml | [Abrir](https://friovesa.com/product/colada-morada/) |
@@ -301,8 +302,8 @@
 | Quito | Mascotas |  | Perrines Snacks | [Abrir](https://friovesa.com/product/perrines-snacks/) |
 | Quito | Mascotas |  | Snacks Deshidratados | [Abrir](https://friovesa.com/product/snacks/) |
 | Quito | Mascotas |  | Vaca Snacks | [Abrir](https://friovesa.com/product/rabo-de-vaca-snack/) |
-| Quito | Postres |  | Brownie 6ud | [Abrir](https://friovesa.com/product/pastel-chocolate-grande/) |
-| Quito | Postres |  | Cheesecake Mora 4ud | [Abrir](https://friovesa.com/product/pastel-chocolate-pequeno/) |
+| Quito | Postres |  | Brownie 6ud | [Abrir](https://friovesa.com/product/brownie/) |
+| Quito | Postres |  | Cheesecake Mora 4ud | [Abrir](https://friovesa.com/product/cheesecake/) |
 | Quito | Postres |  | Chocolates Hash 80gr c/u | [Abrir](https://friovesa.com/product/chocolate-blanco-matcha-amaranto-80gr/) |
 | Quito | Postres |  | Dubai Chocolate 60g | [Abrir](https://friovesa.com/product/dubai-chocolate/) |
 | Quito | Postres |  | Torta Zanahoria 6ud | [Abrir](https://friovesa.com/product/pastel-zanahoria/) |
@@ -353,7 +354,7 @@
 | Quito | Proteínas | Cortes Parrilleros | Bife Importado 500gr o 1kg | [Abrir](https://friovesa.com/product/bife-importado-500gr-o-1kg/) |
 | Quito | Proteínas | Cortes Parrilleros | Carbon 1.5k | [Abrir](https://friovesa.com/product/carbon-1-5k/) |
 | Quito | Proteínas | Cortes Parrilleros | Carbón parrillero 2kg | [Abrir](https://friovesa.com/product/carbon-parrillero-1-kg/) |
-| Quito | Proteínas | Cortes Parrilleros | Chinchulines 500gr | [Abrir](https://friovesa.com/product/chinchulines-500gr/) |
+| Quito | Proteínas | Cortes Parrilleros | Chinchulines importado 500gr | [Abrir](https://friovesa.com/product/chinchulines-500gr/) |
 | Quito | Proteínas | Cortes Parrilleros | Chistorra 1kg | [Abrir](https://friovesa.com/product/chistorra-1kg/) |
 | Quito | Proteínas | Cortes Parrilleros | Choricillo 1kg – 20ud | [Abrir](https://friovesa.com/product/choricillo-1kg-20ud/) |
 | Quito | Proteínas | Cortes Parrilleros | Chorizo Argentino 1kg – 12 ud | [Abrir](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/) |

@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-13T09:34:36.599091+00:00
+Actualizado: 2026-08-15T08:47:26.775802+00:00
 
 ## Guayaquil (78 productos)
 
@@ -83,7 +83,7 @@ Actualizado: 2026-08-13T09:34:36.599091+00:00
 - [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/) — $ 5,10 - $ 10,20 Rango de precios: desde $5,10 hasta $10,20 — Proteínas
 - [Lomo Fino](https://friovesa.com/product/lomo-fino/) — $ 10,75 - $ 21,50 Rango de precios: desde $10,75 hasta $21,50 — Proteínas
 
-## Quito (381 productos)
+## Quito (382 productos)
 
 - [Café Molido Friovesa 250gr](https://friovesa.com/product/cafe-molido-friovesa-250gr/) — $ 6,50 — Sin categoría
 - [Funda de Silicona G Fits 946 ml a 1180 ml](https://friovesa.com/product/funda-de-silicona-g-fits-946-ml-a-1180-ml/) — $ 4,00 — Accesorios
@@ -103,7 +103,7 @@ Actualizado: 2026-08-13T09:34:36.599091+00:00
 - [Arepas 4 a 6ud ❄️](https://friovesa.com/product/arepa-con-sal-4ud/) — $ 2,99 - $ 4,70 Rango de precios: desde $2,99 hasta $4,70 — Antojitos
 - [Aros Cebolla 500gr ❄️](https://friovesa.com/product/aros-cebolla-500gr/) — $ 3,99 — Antojitos
 - [Bolon 6ud ❄️](https://friovesa.com/product/bolon-6ud/) — $ 5,50 — Antojitos
-- [Burritos❄️](https://friovesa.com/product/burritos-5ud/) — $ 6,99 - $ 115,00 Rango de precios: desde $6,99 hasta $115,00 — Antojitos
+- [Burritos 5ud ❄️](https://friovesa.com/product/burritos-5ud/) — $ 6,99 — Antojitos
 - [Corviche 4ud ❄️](https://friovesa.com/product/corviche-4ud/) — $ 6,50 — Antojitos
 - [Empanadas Bolivianas ❄️](https://friovesa.com/product/empanadas-bolivianas-2-a-3ud/) — $ 3,99 - $ 5,50 Rango de precios: desde $3,99 hasta $5,50 — Antojitos
 - [Empanadas verde 8ud ❄️](https://friovesa.com/product/empanadas-de-verde-8ud/) — $ 6,99 — Antojitos
@@ -124,6 +124,7 @@ Actualizado: 2026-08-13T09:34:36.599091+00:00
 - [Tortillas maíz 12ud ❄️](https://friovesa.com/product/tortillas-de-maiz-12ud/) — $ 6,99 — Antojitos
 - [Puré Papas 900gr ❄️](https://friovesa.com/product/pure-papas/) — $ 5,48 — Antojitos
 - [Waffles 4ud ❄️](https://friovesa.com/product/waffles-congelados-con-azucar-perlado/) — $ 6,80 — Antojitos
+- [Rollos Canela 4ud](https://friovesa.com/product/rollos-canela-4u/) — $ 6,99 — Antojitos
 - [Botellón de agua](https://friovesa.com/product/botellon-de-agua/) — $ 2,99 - $ 7,99 Rango de precios: desde $2,99 hasta $7,99 — Bebidas y Licores
 - [Cero Resaca Drink 4ud](https://friovesa.com/product/cero-resaca-drink-4ud/) — $ 4,99 — Bebidas y Licores
 - [Colada Morada 500ml](https://friovesa.com/product/colada-morada/) — $ 4,50 — Bebidas y Licores
@@ -306,8 +307,8 @@ Actualizado: 2026-08-13T09:34:36.599091+00:00
 - [Perrines Snacks](https://friovesa.com/product/perrines-snacks/) — $ 1,50 - $ 5,99 Rango de precios: desde $1,50 hasta $5,99 — Mascotas
 - [Snacks Deshidratados](https://friovesa.com/product/snacks/) — $ 3,50 - $ 3,99 Rango de precios: desde $3,50 hasta $3,99 — Mascotas
 - [Vaca Snacks](https://friovesa.com/product/rabo-de-vaca-snack/) — $ 4,57 - $ 5,99 Rango de precios: desde $4,57 hasta $5,99 — Mascotas
-- [Brownie 6ud](https://friovesa.com/product/pastel-chocolate-grande/) — $ 5,89 — Postres
-- [Cheesecake Mora 4ud](https://friovesa.com/product/pastel-chocolate-pequeno/) — $ 6,88 — Postres
+- [Brownie 6ud](https://friovesa.com/product/brownie/) — $ 5,89 — Postres
+- [Cheesecake Mora 4ud](https://friovesa.com/product/cheesecake/) — $ 6,88 — Postres
 - [Chocolates Hash 80gr c/u](https://friovesa.com/product/chocolate-blanco-matcha-amaranto-80gr/) — $ 4,80 — Postres
 - [Dubai Chocolate 60g](https://friovesa.com/product/dubai-chocolate/) — $ 5,99 — Postres
 - [Torta Zanahoria 6ud](https://friovesa.com/product/pastel-zanahoria/) — $ 5,22 — Postres
@@ -358,7 +359,7 @@ Actualizado: 2026-08-13T09:34:36.599091+00:00
 - [Bife Importado 500gr o 1kg](https://friovesa.com/product/bife-importado-500gr-o-1kg/) — $ 10,50 - $ 18,99 Rango de precios: desde $10,50 hasta $18,99 — Proteínas
 - [Carbon 1.5k](https://friovesa.com/product/carbon-1-5k/) — $ 2,60 — Proteínas
 - [Carbón parrillero 2kg](https://friovesa.com/product/carbon-parrillero-1-kg/) — $ 2,90 — Proteínas
-- [Chinchulines 500gr](https://friovesa.com/product/chinchulines-500gr/) — $ 8,99 — Proteínas
+- [Chinchulines importado 500gr](https://friovesa.com/product/chinchulines-500gr/) — $ 11,50 — Proteínas
 - [Chistorra 1kg](https://friovesa.com/product/chistorra-1kg/) — $ 13,50 — Proteínas
 - [Choricillo 1kg – 20ud](https://friovesa.com/product/choricillo-1kg-20ud/) — $ 13,99 — Proteínas
 - [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/) — $ 10,99 — Proteínas
