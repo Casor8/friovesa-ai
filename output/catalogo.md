@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-15T08:47:26.775802+00:00
+Actualizado: 2026-08-16T08:48:20.330079+00:00
 
 ## Guayaquil (78 productos)
 
@@ -301,7 +301,7 @@ Actualizado: 2026-08-15T08:47:26.775802+00:00
 - [Servilletas 100 ud](https://friovesa.com/product/servilletas-100ud/) — $ 2,00 — Limpieza
 - [Suavizante Líquido](https://friovesa.com/product/suavizante-2l/) — $ 7,76 - $ 11,06 Rango de precios: desde $7,76 hasta $11,06 — Limpieza
 - [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/) — $ 3,99 - $ 168,00 Rango de precios: desde $3,99 hasta $168,00 — Mascotas
-- [Bolitas Carnes Liofilizadas 250gr](https://friovesa.com/product/bolitas-carnes-liofilizadas/) — $ 3,99 — Mascotas
+- [Bolitas Carnes Liofilizadas 250gr](https://friovesa.com/product/bolitas-carnes-liofilizadas/) — $ 4,99 — Mascotas
 - [Fundas Perros](https://friovesa.com/product/fundas-perros/) — $ 3,50 — Mascotas
 - [Galletas Perros](https://friovesa.com/product/galletas-perros/) — $ 3,99 - $ 4,99 Rango de precios: desde $3,99 hasta $4,99 — Mascotas
 - [Perrines Snacks](https://friovesa.com/product/perrines-snacks/) — $ 1,50 - $ 5,99 Rango de precios: desde $1,50 hasta $5,99 — Mascotas
