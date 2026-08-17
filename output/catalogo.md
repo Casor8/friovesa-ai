@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-16T08:48:20.330079+00:00
+Actualizado: 2026-08-17T09:02:35.516809+00:00
 
 ## Guayaquil (78 productos)
 
