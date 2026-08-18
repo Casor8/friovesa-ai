@@ -112,13 +112,13 @@
 | Quito | Antojitos |  | Papá Hash 1kg ❄️ | [Abrir](https://friovesa.com/product/papa-hash-1kg/) |
 | Quito | Antojitos |  | Pastel de Choclo 4ud ❄️ | [Abrir](https://friovesa.com/product/pastel-de-choclo-4ud/) |
 | Quito | Antojitos |  | Pizzas Medianas ❄️ | [Abrir](https://friovesa.com/product/pizza/) |
-| Quito | Antojitos |  | Quimbolitos 4ud ❄️ | [Abrir](https://friovesa.com/product/quimbolitos-4ud/) |
 | Quito | Antojitos |  | Tamal pollo 2ud ❄️ | [Abrir](https://friovesa.com/product/tamal-2ud/) |
 | Quito | Antojitos |  | Tigrillo c/ Queso 300gr ❄️ | [Abrir](https://friovesa.com/product/tigrillo-450gr/) |
 | Quito | Antojitos |  | Tortillas Maduro 6ud ❄️ | [Abrir](https://friovesa.com/product/tortillas-de-maduro-6ud/) |
 | Quito | Antojitos |  | Tortillas maíz 12ud ❄️ | [Abrir](https://friovesa.com/product/tortillas-de-maiz-12ud/) |
 | Quito | Antojitos | IceMan | Puré Papas 900gr ❄️ | [Abrir](https://friovesa.com/product/pure-papas/) |
 | Quito | Antojitos | IceMan | Waffles 4ud ❄️ | [Abrir](https://friovesa.com/product/waffles-congelados-con-azucar-perlado/) |
+| Quito | Antojitos | Postres | Quimbolitos 4ud ❄️ | [Abrir](https://friovesa.com/product/quimbolitos-4ud/) |
 | Quito | Antojitos | Postres | Rollos Canela 4ud | [Abrir](https://friovesa.com/product/rollos-canela-4u/) |
 | Quito | Bebidas y Licores |  | Botellón de agua | [Abrir](https://friovesa.com/product/botellon-de-agua/) |
 | Quito | Bebidas y Licores |  | Cero Resaca Drink 4ud | [Abrir](https://friovesa.com/product/cero-resaca-drink-4ud/) |
@@ -296,7 +296,7 @@
 | Quito | Limpieza |  | Servilletas 100 ud | [Abrir](https://friovesa.com/product/servilletas-100ud/) |
 | Quito | Limpieza |  | Suavizante Líquido | [Abrir](https://friovesa.com/product/suavizante-2l/) |
 | Quito | Mascotas |  | Alimento Barf 1kg a 48kg | [Abrir](https://friovesa.com/product/alimento-barf-1kg-a-48kg/) |
-| Quito | Mascotas |  | Bolitas Carnes Liofilizadas 250gr | [Abrir](https://friovesa.com/product/bolitas-carnes-liofilizadas/) |
+| Quito | Mascotas |  | Carnes Liofilizadas 400gr | [Abrir](https://friovesa.com/product/bolitas-carnes-liofilizadas/) |
 | Quito | Mascotas |  | Fundas Perros | [Abrir](https://friovesa.com/product/fundas-perros/) |
 | Quito | Mascotas |  | Galletas Perros | [Abrir](https://friovesa.com/product/galletas-perros/) |
 | Quito | Mascotas |  | Perrines Snacks | [Abrir](https://friovesa.com/product/perrines-snacks/) |

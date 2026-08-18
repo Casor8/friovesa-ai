@@ -19,13 +19,13 @@
 - [Papá Hash 1kg ❄️](#papa-hash-1kg)
 - [Pastel de Choclo 4ud ❄️](#pastel-de-choclo-4ud)
 - [Pizzas Medianas ❄️](#pizzas-medianas)
-- [Quimbolitos 4ud ❄️](#quimbolitos-4ud)
 - [Tamal pollo 2ud ❄️](#tamal-pollo-2ud)
 - [Tigrillo c/ Queso 300gr ❄️](#tigrillo-c-queso-300gr)
 - [Tortillas Maduro 6ud ❄️](#tortillas-maduro-6ud)
 - [Tortillas maíz 12ud ❄️](#tortillas-maiz-12ud)
 - [Puré Papas 900gr ❄️](#pure-papas-900gr)
 - [Waffles 4ud ❄️](#waffles-4ud)
+- [Quimbolitos 4ud ❄️](#quimbolitos-4ud)
 - [Rollos Canela 4ud](#rollos-canela-4ud)
 
 ## Arepas 4 a 6ud ❄️
@@ -294,20 +294,6 @@
 - ingresientes: jamon — USD 6.99 — SKU: 22677-02 — Stock: 
 - ingresientes: pepperoni — USD 6.99 — SKU: 22677-03 — Stock: 
 
-## Quimbolitos 4ud ❄️
-
-- **Descripción:** Quimbolitos 4ud Descubre el auténtico sabor de los quimbolitos, una delicia tradicional que te hará revivir los sabores de la cocina clásica. Estos quimbolitos vienen en un paquete de 4 unidades, ideales para compartir en familia o disfrutar en solitario. Preparados con ingredientes de alta calidad, los quimbolitos ofrecen una textura suave y esponjosa con
-- **Precio:** $ 6,00
-- **Enlace:** https://friovesa.com/product/quimbolitos-4ud/
-- **Peso:** No publicado
-- **SKU:** 39756
-- **Palabras clave:** Quimbolitos 4ud ❄️, Antojitos
-- **Categoría:** Antojitos
-- **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/)
-- **Estado:** activo
-- **Stock:** 86 disponibles
-
 ## Tamal pollo 2ud ❄️
 
 - **Descripción:** No publicada
@@ -388,9 +374,23 @@
 - **Palabras clave:** Waffles 4ud ❄️, Antojitos, IceMan
 - **Categoría:** Antojitos
 - **Subcategoría:** IceMan
-- **Productos relacionados:** [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
+
+## Quimbolitos 4ud ❄️
+
+- **Descripción:** Quimbolitos 4ud Descubre el auténtico sabor de los quimbolitos, una delicia tradicional que te hará revivir los sabores de la cocina clásica. Estos quimbolitos vienen en un paquete de 4 unidades, ideales para compartir en familia o disfrutar en solitario. Preparados con ingredientes de alta calidad, los quimbolitos ofrecen una textura suave y esponjosa con
+- **Precio:** $ 6,00
+- **Enlace:** https://friovesa.com/product/quimbolitos-4ud/
+- **Peso:** No publicado
+- **SKU:** 39756
+- **Palabras clave:** Quimbolitos 4ud ❄️, Antojitos, Postres
+- **Categoría:** Antojitos
+- **Subcategoría:** Postres
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
+- **Estado:** activo
+- **Stock:** 86 disponibles
 
 ## Rollos Canela 4ud
 

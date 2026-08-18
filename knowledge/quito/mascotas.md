@@ -3,7 +3,7 @@
 ## Índice
 
 - [Alimento Barf 1kg a 48kg](#alimento-barf-1kg-a-48kg)
-- [Bolitas Carnes Liofilizadas 250gr](#bolitas-carnes-liofilizadas-250gr)
+- [Carnes Liofilizadas 400gr](#carnes-liofilizadas-400gr)
 - [Fundas Perros](#fundas-perros)
 - [Galletas Perros](#galletas-perros)
 - [Perrines Snacks](#perrines-snacks)
@@ -42,17 +42,17 @@
 - peso: 3-kg, sabor: pollo — USD 11.99 — SKU: 53396-10 — Stock: 3089.0
 - peso: 1-kg, sabor: pollo — USD 3.99 — SKU: 53396-12 — Stock: 3089.0
 
-## Bolitas Carnes Liofilizadas 250gr
+## Carnes Liofilizadas 400gr
 
 - **Descripción:** Bolitas de Carne Liofilizada para Perros y Gatos Deliciosas bolitas de carne 100% natural, elaboradas mediante liofilización, un proceso que conserva intactos los nutrientes, el sabor y el aroma de la carne fresca, sin necesidad de conservantes ni aditivos artificiales. Son altamente palatables, ideales tanto para perros como para gatos, y perfectas como snack saludable,
 - **Precio:** $ 4,99
 - **Enlace:** https://friovesa.com/product/bolitas-carnes-liofilizadas/
 - **Peso:** No publicado
 - **SKU:** 44781
-- **Palabras clave:** Bolitas Carnes Liofilizadas 250gr, Mascotas
+- **Palabras clave:** Carnes Liofilizadas 400gr, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/)
+- **Productos relacionados:** [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
 - **Estado:** activo
 - **Stock:** No publicado
 

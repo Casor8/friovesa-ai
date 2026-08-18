@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-17T09:02:35.516809+00:00
+Actualizado: 2026-08-18T08:55:05.265960+00:00
 
 ## Guayaquil (78 productos)
 
@@ -117,13 +117,13 @@ Actualizado: 2026-08-17T09:02:35.516809+00:00
 - [Papá Hash 1kg ❄️](https://friovesa.com/product/papa-hash-1kg/) — $ 5,50 — Antojitos
 - [Pastel de Choclo 4ud ❄️](https://friovesa.com/product/pastel-de-choclo-4ud/) — $ 9,99 — Antojitos
 - [Pizzas Medianas ❄️](https://friovesa.com/product/pizza/) — $ 6,99 — Antojitos
-- [Quimbolitos 4ud ❄️](https://friovesa.com/product/quimbolitos-4ud/) — $ 6,00 — Antojitos
 - [Tamal pollo 2ud ❄️](https://friovesa.com/product/tamal-2ud/) — $ 4,99 — Antojitos
 - [Tigrillo c/ Queso 300gr ❄️](https://friovesa.com/product/tigrillo-450gr/) — $ 3,99 — Antojitos
 - [Tortillas Maduro 6ud ❄️](https://friovesa.com/product/tortillas-de-maduro-6ud/) — $ 5,50 — Antojitos
 - [Tortillas maíz 12ud ❄️](https://friovesa.com/product/tortillas-de-maiz-12ud/) — $ 6,99 — Antojitos
 - [Puré Papas 900gr ❄️](https://friovesa.com/product/pure-papas/) — $ 5,48 — Antojitos
 - [Waffles 4ud ❄️](https://friovesa.com/product/waffles-congelados-con-azucar-perlado/) — $ 6,80 — Antojitos
+- [Quimbolitos 4ud ❄️](https://friovesa.com/product/quimbolitos-4ud/) — $ 6,00 — Antojitos
 - [Rollos Canela 4ud](https://friovesa.com/product/rollos-canela-4u/) — $ 6,99 — Antojitos
 - [Botellón de agua](https://friovesa.com/product/botellon-de-agua/) — $ 2,99 - $ 7,99 Rango de precios: desde $2,99 hasta $7,99 — Bebidas y Licores
 - [Cero Resaca Drink 4ud](https://friovesa.com/product/cero-resaca-drink-4ud/) — $ 4,99 — Bebidas y Licores
@@ -301,7 +301,7 @@ Actualizado: 2026-08-17T09:02:35.516809+00:00
 - [Servilletas 100 ud](https://friovesa.com/product/servilletas-100ud/) — $ 2,00 — Limpieza
 - [Suavizante Líquido](https://friovesa.com/product/suavizante-2l/) — $ 7,76 - $ 11,06 Rango de precios: desde $7,76 hasta $11,06 — Limpieza
 - [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/) — $ 3,99 - $ 168,00 Rango de precios: desde $3,99 hasta $168,00 — Mascotas
-- [Bolitas Carnes Liofilizadas 250gr](https://friovesa.com/product/bolitas-carnes-liofilizadas/) — $ 4,99 — Mascotas
+- [Carnes Liofilizadas 400gr](https://friovesa.com/product/bolitas-carnes-liofilizadas/) — $ 4,99 — Mascotas
 - [Fundas Perros](https://friovesa.com/product/fundas-perros/) — $ 3,50 — Mascotas
 - [Galletas Perros](https://friovesa.com/product/galletas-perros/) — $ 3,99 - $ 4,99 Rango de precios: desde $3,99 hasta $4,99 — Mascotas
 - [Perrines Snacks](https://friovesa.com/product/perrines-snacks/) — $ 1,50 - $ 5,99 Rango de precios: desde $1,50 hasta $5,99 — Mascotas
@@ -356,7 +356,7 @@ Actualizado: 2026-08-17T09:02:35.516809+00:00
 - [T-Bone Cordero 500gr](https://friovesa.com/product/t-bone-cordero-1kg/) — $ 12,50 — Proteínas
 - [Trozos Cordero 500gr](https://friovesa.com/product/trozos-cordero-1kg/) — $ 9,90 — Proteínas
 - [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/) — $ 4,99 — Proteínas
-- [Bife Importado 500gr o 1kg](https://friovesa.com/product/bife-importado-500gr-o-1kg/) — $ 10,50 - $ 18,99 Rango de precios: desde $10,50 hasta $18,99 — Proteínas
+- [Bife Importado 500gr o 1kg](https://friovesa.com/product/bife-importado-500gr-o-1kg/) — $ 11,50 - $ 19,99 Rango de precios: desde $11,50 hasta $19,99 — Proteínas
 - [Carbon 1.5k](https://friovesa.com/product/carbon-1-5k/) — $ 2,60 — Proteínas
 - [Carbón parrillero 2kg](https://friovesa.com/product/carbon-parrillero-1-kg/) — $ 2,90 — Proteínas
 - [Chinchulines importado 500gr](https://friovesa.com/product/chinchulines-500gr/) — $ 11,50 — Proteínas
@@ -378,8 +378,8 @@ Actualizado: 2026-08-17T09:02:35.516809+00:00
 - [Morcillas 1kg – 20ud](https://friovesa.com/product/morcillas-1kg-20ud/) — $ 8,49 — Proteínas
 - [Olmas 1kg – 20ud](https://friovesa.com/product/olmas-1kg-10ud/) — $ 9,99 — Proteínas
 - [Palillos tipo Pinchos](https://friovesa.com/product/palillos-tipo-pinchos/) — $ 1,80 — Proteínas
-- [Pícaña Importada](https://friovesa.com/product/picana-importada-boliviana/) — $ 25,99 - $ 32,99 Rango de precios: desde $25,99 hasta $32,99 — Proteínas
-- [Ribeye importado 500gr o 1kg](https://friovesa.com/product/ribeye-importado-500gr-o-1kg/) — $ 10,50 - $ 18,99 Rango de precios: desde $10,50 hasta $18,99 — Proteínas
+- [Pícaña Importada](https://friovesa.com/product/picana-importada-boliviana/) — $ 27,50 - $ 36,50 Rango de precios: desde $27,50 hasta $36,50 — Proteínas
+- [Ribeye importado 500gr o 1kg](https://friovesa.com/product/ribeye-importado-500gr-o-1kg/) — $ 11,50 - $ 19,99 Rango de precios: desde $11,50 hasta $19,99 — Proteínas
 - [Salame Rebanado 600gr](https://friovesa.com/product/salame-rebanado-600gr-2/) — $ 6,99 — Proteínas
 - [Salchicha Frankfurter 1kg – 20ud](https://friovesa.com/product/salchicha-frankfurter-1kg-20ud/) — $ 7,49 — Proteínas
 - [Ancas de Rana 500gr – 5ud](https://friovesa.com/product/ancas-de-rana-500gr-5ud/) — $ 9,99 — Proteínas
