@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-19T08:56:02.696082+00:00
+Actualizado: 2026-08-20T08:57:44.468136+00:00
 
 ## Guayaquil (78 productos)
 
@@ -300,7 +300,7 @@ Actualizado: 2026-08-19T08:56:02.696082+00:00
 - [Sanizante de vegetales 50ml](https://friovesa.com/product/sanizante-de-vegetales-50ml/) — $ 3,21 — Limpieza
 - [Servilletas 100 ud](https://friovesa.com/product/servilletas-100ud/) — $ 2,00 — Limpieza
 - [Suavizante Líquido](https://friovesa.com/product/suavizante-2l/) — $ 7,76 - $ 11,06 Rango de precios: desde $7,76 hasta $11,06 — Limpieza
-- [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/) — $ 3,99 - $ 168,00 Rango de precios: desde $3,99 hasta $168,00 — Mascotas
+- [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/) — $ 4,50 - $ 192,00 Rango de precios: desde $4,50 hasta $192,00 — Mascotas
 - [Carnes Liofilizadas 400gr](https://friovesa.com/product/bolitas-carnes-liofilizadas/) — $ 4,99 — Mascotas
 - [Fundas Perros](https://friovesa.com/product/fundas-perros/) — $ 3,50 — Mascotas
 - [Galletas Perros](https://friovesa.com/product/galletas-perros/) — $ 3,99 - $ 4,99 Rango de precios: desde $3,99 hasta $4,99 — Mascotas
@@ -432,7 +432,7 @@ Actualizado: 2026-08-19T08:56:02.696082+00:00
 - [Guatita – 1kg](https://friovesa.com/product/guatita-1kg/) — $ 7,50 — Proteínas
 - [Higado Res 1kg](https://friovesa.com/product/higado-1kg/) — $ 7,40 — Proteínas
 - [Hueso Carnudo 1kg](https://friovesa.com/product/hueso-carnudo-1kg/) — $ 3,99 — Proteínas
-- [Lomo Falda filetes (500gr – 1kg)](https://friovesa.com/product/lomo-falda-filetes-500gr-1kg/) — $ 7,80 - $ 14,50 Rango de precios: desde $7,80 hasta $14,50 — Proteínas
+- [Lomo Falda filetes (500gr – 1kg)](https://friovesa.com/product/lomo-falda-filetes-500gr-1kg/) — $ 8,50 - $ 14,50 Rango de precios: desde $8,50 hasta $14,50 — Proteínas
 - [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/) — $ 7,99 - $ 13,50 Rango de precios: desde $7,99 hasta $13,50 — Proteínas
 - [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/) — $ 11,99 - $ 46,20 Rango de precios: desde $11,99 hasta $46,20 — Proteínas
 - [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/) — $ 5,50 - $ 8,99 Rango de precios: desde $5,50 hasta $8,99 — Proteínas
