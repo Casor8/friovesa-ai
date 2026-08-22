@@ -20,27 +20,27 @@
 - **Palabras clave:** Alimento Barf 1kg a 48kg, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Salón (500gr o 1kg)](https://friovesa.com/product/salon-500gr-o-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/), [Camarones 500gr o 1kg](https://friovesa.com/product/camarones-500gr-o-1kg/)
+- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 48-kg, sabor: pollo — USD 192.00 — SKU: 53396-01 — Stock: 3075.0
-- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396-02 — Stock: 3075.0
-- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396 — Stock: 3075.0
-- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396-04 — Stock: 3075.0
-- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396-05 — Stock: 3075.0
-- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396-06 — Stock: 3075.0
-- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396-07 — Stock: 3075.0
-- peso: 42-kg, sabor: pollo — USD 167.99 — SKU: 53396 — Stock: 3075.0
-- peso: 30-kg, sabor: pollo — USD 122.99 — SKU: 53396-09 — Stock: 3075.0
-- peso: 15-kg, sabor: pollo — USD 64.50 — SKU: 53396 — Stock: 3075.0
-- peso: 21-kg, sabor: pollo — USD 88.50 — SKU: 53396-11 — Stock: 3075.0
-- peso: 10-kg, sabor: pollo — USD 44.50 — SKU: 53396-03 — Stock: 3075.0
-- peso: 5-kg, sabor: pollo — USD 22.50 — SKU: 53396-08 — Stock: 3075.0
-- peso: 3-kg, sabor: pollo — USD 13.50 — SKU: 53396-10 — Stock: 3075.0
-- peso: 1-kg, sabor: pollo — USD 4.50 — SKU: 53396-12 — Stock: 3075.0
+- peso: 48-kg, sabor: pollo — USD 192.00 — SKU: 53396-01 — Stock: 3073.0
+- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396-02 — Stock: 3073.0
+- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396 — Stock: 3073.0
+- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396-04 — Stock: 3073.0
+- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396-05 — Stock: 3073.0
+- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396-06 — Stock: 3073.0
+- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396-07 — Stock: 3073.0
+- peso: 42-kg, sabor: pollo — USD 167.99 — SKU: 53396 — Stock: 3073.0
+- peso: 30-kg, sabor: pollo — USD 122.99 — SKU: 53396-09 — Stock: 3073.0
+- peso: 15-kg, sabor: pollo — USD 64.50 — SKU: 53396 — Stock: 3073.0
+- peso: 21-kg, sabor: pollo — USD 88.50 — SKU: 53396-11 — Stock: 3073.0
+- peso: 10-kg, sabor: pollo — USD 44.50 — SKU: 53396-03 — Stock: 3073.0
+- peso: 5-kg, sabor: pollo — USD 22.50 — SKU: 53396-08 — Stock: 3073.0
+- peso: 3-kg, sabor: pollo — USD 13.50 — SKU: 53396-10 — Stock: 3073.0
+- peso: 1-kg, sabor: pollo — USD 4.50 — SKU: 53396-12 — Stock: 3073.0
 
 ## Carnes Liofilizadas 400gr
 
