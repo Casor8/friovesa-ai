@@ -1015,13 +1015,13 @@
 - **Palabras clave:** Pechuga Limpia, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Tomahawk](https://friovesa.com/product/tomahawk/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Alitas](https://friovesa.com/product/alitas/)
+- **Productos relacionados:** [Atún Blanco](https://friovesa.com/product/atun-blanco/), [T-Bone](https://friovesa.com/product/t-bone/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 3-kg — USD 21.99 — SKU: 13242 — Stock: 20.0
+- peso: 3-kg — USD 21.99 — SKU: 13242 — Stock: 19.0
 - peso: 1-kg — USD 7.90 — SKU: 13242-01 — Stock: 15.0
 - peso: 500-g — USD 3.90 — SKU: 13242-02 — Stock: 20.0
 
@@ -1248,13 +1248,13 @@
 - **Palabras clave:** Pajarilla, Proteinas Gye, Res
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Res
-- **Productos relacionados:** [Fritada](https://friovesa.com/product/fritada/), [Morcilla](https://friovesa.com/product/morcilla/), [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
+- **Productos relacionados:** [Tocino](https://friovesa.com/product/tocino/), [Lomo de Falda Fileteado](https://friovesa.com/product/lomo-de-falda-fileteado/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 12.92 — SKU: 49998-01 — Stock: 20.0
+- peso: 1-kg — USD 12.92 — SKU: 49998-01 — Stock: 19.0
 - peso: 500-g — USD 6.46 — SKU: 49998-02 — Stock: 20.0
 
 ## Pulpa Blanca
