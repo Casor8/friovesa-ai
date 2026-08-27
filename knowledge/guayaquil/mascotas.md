@@ -14,7 +14,7 @@
 - **Palabras clave:** Alimento Barf 1kg a 48kg, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Longaniza](https://friovesa.com/product/longaniza/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Alitas](https://friovesa.com/product/alitas/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Longaniza](https://friovesa.com/product/longaniza/), [Tocino](https://friovesa.com/product/tocino/), [Morcilla](https://friovesa.com/product/morcilla/)
 - **Estado:** activo
 - **Stock:** Con stock
 

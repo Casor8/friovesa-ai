@@ -16,6 +16,7 @@
 - [Muchines Yuca 8ud ❄️](#muchines-yuca-8ud)
 - [Nachos 500gr](#nachos-500gr)
 - [Papas Fritras ❄️](#papas-fritras)
+- [Papas Kiwa](#papas-kiwa)
 - [Papá Hash 1kg ❄️](#papa-hash-1kg)
 - [Pastel de Choclo 4ud ❄️](#pastel-de-choclo-4ud)
 - [Pizzas Medianas ❄️](#pizzas-medianas)
@@ -245,6 +246,26 @@
 - tipo-de-papa: lisa — USD 5.90 — SKU: 89418 — Stock: 
 - tipo-de-papa: ondulada — USD 5.90 — SKU: 89418 — Stock: 
 
+## Papas Kiwa
+
+- **Descripción:** No publicada
+- **Precio:** $ 0,99 - $ 3,00 Rango de precios: desde $0,99 hasta $3,00
+- **Enlace:** https://friovesa.com/product/papas-kiwa/
+- **Peso:** No publicado
+- **SKU:** 32123
+- **Palabras clave:** Papas Kiwa, Antojitos
+- **Categoría:** Antojitos
+- **Subcategoría:** No publicada
+- **Productos relacionados:** [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
+- **Estado:** activo
+- **Stock:** Con stock
+
+### Variantes
+
+- sabor: papa-en-malla, peso: 2-kg — USD 3.00 — SKU: 32123-01 — Stock: 
+- sabor: papa-nativa, peso: 113gr — USD 1.99 — SKU: 32123-02 — Stock: 
+- sabor: papa-nativa, peso: 28gr — USD 0.99 — SKU: 32123-03 — Stock: 
+
 ## Papá Hash 1kg ❄️
 
 - **Descripción:** La Papá Hash 1kg es una variedad de papa que destaca por su textura suave y su sabor excepcional. Ideal para preparar una gran variedad de platos, desde guarniciones hasta recetas más elaboradas. Su tamaño de 1kg la hace perfecta para compartir en familia o para preparar en grandes cantidades. Esta papa es especialmente popular
@@ -318,7 +339,7 @@
 - **Palabras clave:** Tigrillo c/ Queso 300gr ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
+- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** 83 disponibles
 

@@ -109,6 +109,7 @@
 | Quito | Antojitos |  | Muchines Yuca 8ud ❄️ | [Abrir](https://friovesa.com/product/muchines-de-yuca-6ud/) |
 | Quito | Antojitos |  | Nachos 500gr | [Abrir](https://friovesa.com/product/nachos-500gr/) |
 | Quito | Antojitos |  | Papas Fritras ❄️ | [Abrir](https://friovesa.com/product/papa/) |
+| Quito | Antojitos |  | Papas Kiwa | [Abrir](https://friovesa.com/product/papas-kiwa/) |
 | Quito | Antojitos |  | Papá Hash 1kg ❄️ | [Abrir](https://friovesa.com/product/papa-hash-1kg/) |
 | Quito | Antojitos |  | Pastel de Choclo 4ud ❄️ | [Abrir](https://friovesa.com/product/pastel-de-choclo-4ud/) |
 | Quito | Antojitos |  | Pizzas Medianas ❄️ | [Abrir](https://friovesa.com/product/pizza/) |
@@ -195,6 +196,7 @@
 | Quito | Despensa | Carbohidratos | Arroz envejecido 1kg | [Abrir](https://friovesa.com/product/arroz-envejecido-1kg/) |
 | Quito | Despensa | Carbohidratos | Avena hojuelas 500gr | [Abrir](https://friovesa.com/product/avena-hojuelas-500gr/) |
 | Quito | Despensa | Carbohidratos | Fideo 400gr | [Abrir](https://friovesa.com/product/fideo-400gr/) |
+| Quito | Despensa | Carbohidratos | Kiwa Yuca | [Abrir](https://friovesa.com/product/kiwa-productos/) |
 | Quito | Despensa | Conservas y Salsas | Ají Tomate de árbol 125gr | [Abrir](https://friovesa.com/product/aji-tomate-de-arbol-125gr/) |
 | Quito | Despensa | Conservas y Salsas | Chimichurri | [Abrir](https://friovesa.com/product/chimichurri/) |
 | Quito | Despensa | Conservas y Salsas | Jalapeños Encurtidos 270gr | [Abrir](https://friovesa.com/product/jalapenos-encurtidos-270gr/) |

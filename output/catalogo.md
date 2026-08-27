@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-08-26T09:04:26.471431+00:00
+Actualizado: 2026-08-27T19:05:38.993142+00:00
 
 ## Guayaquil (78 productos)
 
@@ -83,7 +83,7 @@ Actualizado: 2026-08-26T09:04:26.471431+00:00
 - [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/) — $ 5,10 - $ 10,20 Rango de precios: desde $5,10 hasta $10,20 — Proteínas
 - [Lomo Fino](https://friovesa.com/product/lomo-fino/) — $ 10,75 - $ 21,50 Rango de precios: desde $10,75 hasta $21,50 — Proteínas
 
-## Quito (382 productos)
+## Quito (384 productos)
 
 - [Café Molido Friovesa 250gr](https://friovesa.com/product/cafe-molido-friovesa-250gr/) — $ 6,50 — Sin categoría
 - [Funda de Silicona G Fits 946 ml a 1180 ml](https://friovesa.com/product/funda-de-silicona-g-fits-946-ml-a-1180-ml/) — $ 4,00 — Accesorios
@@ -114,6 +114,7 @@ Actualizado: 2026-08-26T09:04:26.471431+00:00
 - [Muchines Yuca 8ud ❄️](https://friovesa.com/product/muchines-de-yuca-6ud/) — $ 5,99 — Antojitos
 - [Nachos 500gr](https://friovesa.com/product/nachos-500gr/) — $ 5,00 — Antojitos
 - [Papas Fritras ❄️](https://friovesa.com/product/papa/) — $ 5,90 — Antojitos
+- [Papas Kiwa](https://friovesa.com/product/papas-kiwa/) — $ 0,99 - $ 3,00 Rango de precios: desde $0,99 hasta $3,00 — Antojitos
 - [Papá Hash 1kg ❄️](https://friovesa.com/product/papa-hash-1kg/) — $ 5,50 — Antojitos
 - [Pastel de Choclo 4ud ❄️](https://friovesa.com/product/pastel-de-choclo-4ud/) — $ 9,99 — Antojitos
 - [Pizzas Medianas ❄️](https://friovesa.com/product/pizza/) — $ 6,99 — Antojitos
@@ -200,6 +201,7 @@ Actualizado: 2026-08-26T09:04:26.471431+00:00
 - [Arroz envejecido 1kg](https://friovesa.com/product/arroz-envejecido-1kg/) — $ 3,49 — Despensa
 - [Avena hojuelas 500gr](https://friovesa.com/product/avena-hojuelas-500gr/) — $ 1,40 — Despensa
 - [Fideo 400gr](https://friovesa.com/product/fideo-400gr/) — $ 2,20 — Despensa
+- [Kiwa Yuca](https://friovesa.com/product/kiwa-productos/) — $ 0,99 - $ 2,99 Rango de precios: desde $0,99 hasta $2,99 — Despensa
 - [Ají Tomate de árbol 125gr](https://friovesa.com/product/aji-tomate-de-arbol-125gr/) — $ 4,80 — Despensa
 - [Chimichurri](https://friovesa.com/product/chimichurri/) — $ 4,99 — Despensa
 - [Jalapeños Encurtidos 270gr](https://friovesa.com/product/jalapenos-encurtidos-270gr/) — $ 4,80 — Despensa
