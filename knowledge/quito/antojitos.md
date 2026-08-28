@@ -296,7 +296,7 @@
 
 ## Pizzas Medianas ❄️
 
-- **Descripción:** 🍕 Pizza Congelada Friovesa Jamón y Queso Deliciosa pizza elaborada con una base crujiente, abundante queso mozzarella y finas láminas de jamón. Una combinación clásica que encanta a toda la familia. Lista para hornear y disfrutar en minutos. 🍍 Pizza Congelada Friovesa Hawaiana La mezcla perfecta entre lo dulce y lo salado. Preparada con queso
+- **Descripción:** Preparación de Pizza Congelada Fácil, rápida y deliciosa. Lista en minutos. Precalentar el horno Precalienta el horno a 200 °C. Colocar la pizza Retira la pizza del empaque y, sin descongelar, colócala directamente en la rejilla central del horno. Hornear Hornea durante aproximadamente 5 minutos, o hasta que el queso esté completamente derretido y burbujeante.
 - **Precio:** $ 6,99
 - **Enlace:** https://friovesa.com/product/pizza/
 - **Peso:** No publicado
@@ -304,7 +304,7 @@
 - **Palabras clave:** Pizzas Medianas ❄️, Antojitos
 - **Categoría:** Antojitos
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Alimento Barf 1kg a 48kg](https://friovesa.com/product/alimento-barf-1kg-a-48kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** Con stock
 
