@@ -15,7 +15,7 @@
 - **Palabras clave:** 3 Lomo fino de 150gr, Sin categorizar
 - **Categoría:** Sin categorizar
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Higado Res 1kg](https://friovesa.com/product/higado-1kg/), [Cocktail Vodka Snic](https://friovesa.com/product/cocktail-vodka-snic/), [Proteina Mutant Mass](https://friovesa.com/product/proteina-mutant-mass/), [Citrate Magnecio 60cap](https://friovesa.com/product/citrate-magnecio-60cap/)
+- **Productos relacionados:** [Forever Nature Min](https://friovesa.com/product/forever-nature-min/), [Citrate Magnecio 60cap](https://friovesa.com/product/citrate-magnecio-60cap/), [Omega 3 – 90cap](https://friovesa.com/product/omega-3-90cap/), [Creatina Levro Mono 300gr](https://friovesa.com/product/creatina-levro-mono/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -29,6 +29,6 @@
 - **Palabras clave:** Forever Nature Min, Sin categorizar
 - **Categoría:** Sin categorizar
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Molida Pollo 1kg](https://friovesa.com/product/molida-pollo/), [Cocktail Vodka Snic](https://friovesa.com/product/cocktail-vodka-snic/), [Citrate Magnecio 60cap](https://friovesa.com/product/citrate-magnecio-60cap/), [Omega 3 – 90cap](https://friovesa.com/product/omega-3-90cap/)
+- **Productos relacionados:** [Higado Res 1kg](https://friovesa.com/product/higado-1kg/), [Molida Pollo 1kg](https://friovesa.com/product/molida-pollo/), [Proteina Mutant Mass](https://friovesa.com/product/proteina-mutant-mass/), [Proteína Whey 2lb](https://friovesa.com/product/proteina-whey-2lb/)
 - **Estado:** activo
 - **Stock:** No publicado

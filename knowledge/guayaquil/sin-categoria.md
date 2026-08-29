@@ -14,7 +14,7 @@
 - **Palabras clave:** Merito
 - **Categoría:** No publicada
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Lomo Fino de Cerdo](https://friovesa.com/product/lomo-fino-de-cerdo/), [Alitas](https://friovesa.com/product/alitas/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/)
+- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/), [Alitas](https://friovesa.com/product/alitas/)
 - **Estado:** activo
 - **Stock:** Con stock
 

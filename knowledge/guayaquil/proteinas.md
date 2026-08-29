@@ -15,7 +15,7 @@
 - **Palabras clave:** Nuggets de Pollo, Proteínas, Pollo
 - **Categoría:** Proteínas
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Matambre](https://friovesa.com/product/matambre/), [Lomo de Falda Entero](https://friovesa.com/product/lomo-de-falda-entero/), [Piernas](https://friovesa.com/product/piernas/)
+- **Productos relacionados:** [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Matambre](https://friovesa.com/product/matambre/), [Salón](https://friovesa.com/product/salon/), [Piernas](https://friovesa.com/product/piernas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
@@ -34,7 +34,7 @@
 - **Palabras clave:** Lomo Fino, Proteínas, Res
 - **Categoría:** Proteínas
 - **Subcategoría:** Res
-- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [T-Bone](https://friovesa.com/product/t-bone/), [Punta de Cadera Fileteada](https://friovesa.com/product/punta-de-cadera-fileteada/), [Morcilla](https://friovesa.com/product/morcilla/)
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [T-Bone](https://friovesa.com/product/t-bone/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/), [Alitas](https://friovesa.com/product/alitas/)
 - **Estado:** activo
 - **Stock:** Con stock
 
