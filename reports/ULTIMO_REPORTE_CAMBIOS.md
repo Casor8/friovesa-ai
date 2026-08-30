@@ -1,6 +1,6 @@
 # Reporte de cambios del catálogo
 
-- Ejecución: 2026-08-29T13:50:53.062775+00:00
+- Ejecución: 2026-08-30T13:49:47.357344+00:00
 - Productos nuevos: 0
 - Productos eliminados: 0
 - Productos modificados: 1
@@ -15,6 +15,6 @@ Sin cambios.
 
 ## Productos modificados
 
-### [Moras 450gr ❄️](https://friovesa.com/product/moras-450gr-%e2%9d%84%ef%b8%8f/) — Quito
+### [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/) — Quito
 
-- stock: `11 disponibles` → `10 disponibles`
+- variantes: `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/5b0cd79d-d772-41f5-856e-b79aaeee123b.png?fit=1448%2C1086&s…` → `[{"attributes": {"peso": "1-kg"}, "description": "", "image": "https://i0.wp.com/friovesa.com/wp-content/uploads/2025/10/5b0cd79d-d772-41f5-856e-b79aaeee123b.png?fit=1448%2C1086&s…`
