@@ -20,27 +20,27 @@
 - **Palabras clave:** Alimento Barf 1kg a 48kg, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Chorizo Argentino 1kg – 12 ud](https://friovesa.com/product/chorizo-argentino-1kg-10-ud/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/)
+- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Salón (500gr o 1kg)](https://friovesa.com/product/salon-500gr-o-1kg/), [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Lomo Fino Res 500gr o 1kg](https://friovesa.com/product/lomo-fino-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 48-kg, sabor: pollo — USD 192.00 — SKU: 53396-01 — Stock: 3068.0
-- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396-02 — Stock: 3068.0
-- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396 — Stock: 3068.0
-- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396-04 — Stock: 3068.0
-- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396-05 — Stock: 3068.0
-- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396-06 — Stock: 3068.0
-- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396-07 — Stock: 3068.0
-- peso: 42-kg, sabor: pollo — USD 167.99 — SKU: 53396 — Stock: 3068.0
-- peso: 30-kg, sabor: pollo — USD 122.99 — SKU: 53396-09 — Stock: 3068.0
-- peso: 15-kg, sabor: pollo — USD 64.50 — SKU: 53396 — Stock: 3068.0
-- peso: 21-kg, sabor: pollo — USD 88.50 — SKU: 53396-11 — Stock: 3068.0
-- peso: 10-kg, sabor: pollo — USD 44.50 — SKU: 53396-03 — Stock: 3068.0
-- peso: 5-kg, sabor: pollo — USD 22.50 — SKU: 53396-08 — Stock: 3068.0
-- peso: 3-kg, sabor: pollo — USD 13.50 — SKU: 53396-10 — Stock: 3068.0
-- peso: 1-kg, sabor: pollo — USD 4.50 — SKU: 53396-12 — Stock: 3068.0
+- peso: 48-kg, sabor: pollo — USD 192.00 — SKU: 53396-01 — Stock: 3061.0
+- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396-02 — Stock: 3061.0
+- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396 — Stock: 3061.0
+- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396-04 — Stock: 3061.0
+- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396-05 — Stock: 3061.0
+- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396-06 — Stock: 3061.0
+- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396-07 — Stock: 3061.0
+- peso: 42-kg, sabor: pollo — USD 167.99 — SKU: 53396 — Stock: 3061.0
+- peso: 30-kg, sabor: pollo — USD 122.99 — SKU: 53396-09 — Stock: 3061.0
+- peso: 15-kg, sabor: pollo — USD 64.50 — SKU: 53396 — Stock: 3061.0
+- peso: 21-kg, sabor: pollo — USD 88.50 — SKU: 53396-11 — Stock: 3061.0
+- peso: 10-kg, sabor: pollo — USD 44.50 — SKU: 53396-03 — Stock: 3061.0
+- peso: 5-kg, sabor: pollo — USD 22.50 — SKU: 53396-08 — Stock: 3061.0
+- peso: 3-kg, sabor: pollo — USD 13.50 — SKU: 53396-10 — Stock: 3061.0
+- peso: 1-kg, sabor: pollo — USD 4.50 — SKU: 53396-12 — Stock: 3061.0
 
 ## Carnes Liofilizadas 400gr
 
@@ -52,7 +52,7 @@
 - **Palabras clave:** Carnes Liofilizadas 400gr, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Chuletas Cerdo 500gr o 1kg](https://friovesa.com/product/chuletas-cerdo/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/)
+- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
 - **Estado:** activo
 - **Stock:** No publicado
 

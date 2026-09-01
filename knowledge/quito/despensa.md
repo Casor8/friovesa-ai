@@ -271,9 +271,9 @@
 - **Palabras clave:** Cashews 500gr, Despensa, Frutos Secos
 - **Categoría:** Despensa
 - **Subcategoría:** Frutos Secos
-- **Productos relacionados:** [Atún Rojo ( 1Lb o 2Lb )](https://friovesa.com/product/atun-rojo-1lb-o-2lb/), [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Hamburguesa Res 1Lb o 2lb](https://friovesa.com/product/hamburguesa-res-1lb-o-2lb/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
 - **Estado:** activo
-- **Stock:** 32 disponibles
+- **Stock:** 31 disponibles
 
 ## Ciruelas Sin Pepa 1Lb
 
@@ -341,9 +341,9 @@
 - **Palabras clave:** Macadamia 500gr – 2ud de 250gr, Despensa, Frutos Secos
 - **Categoría:** Despensa
 - **Subcategoría:** Frutos Secos
-- **Productos relacionados:** [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Tilapia ( 1Lb o 2Lb )](https://friovesa.com/product/tilapia-1lb-o-2lb/)
+- **Productos relacionados:** [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/), [Muslos 1kg – 4 ud](https://friovesa.com/product/muslos-1kg-4-ud/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Salmón ( 600gr o 1kg )](https://friovesa.com/product/salmon-600gr-o-1kg/)
 - **Estado:** activo
-- **Stock:** 3 disponibles
+- **Stock:** 2 disponibles
 
 ## Mani 1Lb
 

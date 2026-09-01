@@ -151,13 +151,13 @@
 - **Palabras clave:** Termo Térmico 740 ml c/Tapa Pico, Accesorios
 - **Categoría:** Accesorios
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Purificador Casero](https://friovesa.com/product/purificador-casero/), [Funda de Silicona P Fits 355 ml a 740 ml](https://friovesa.com/product/funda-de-silicona-p-fits-355-ml-a-740-ml/), [Tapa de Repuesto con Pico](https://friovesa.com/product/tapa-de-repuesto-con-pico/), [Funda de Silicona G Fits 946 ml a 1180 ml](https://friovesa.com/product/funda-de-silicona-g-fits-946-ml-a-1180-ml/)
+- **Productos relacionados:** [Purificador Total](https://friovesa.com/product/purificador-total/), [Purificador Ducha](https://friovesa.com/product/purificador-ducha/), [Vaso Térmico 600 ml](https://friovesa.com/product/vaso-termico-600-ml/), [Termo Térmico 355 ml](https://friovesa.com/product/termo-termico-355-ml/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- color: negro — USD 15.00 — SKU: 72846-02 — Stock: 25.0
+- color: negro — USD 15.00 — SKU: 72846-02 — Stock: 24.0
 
 ## Vaso Térmico 473 ml
 
@@ -169,7 +169,7 @@
 - **Palabras clave:** Vaso Térmico 473 ml, Accesorios
 - **Categoría:** Accesorios
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Purificador Ducha](https://friovesa.com/product/purificador-ducha/), [Vaso Térmico 890 ml c/Una Bombilla de Acero Inoxidable](https://friovesa.com/product/vaso-termico-890-ml-c-una-bombilla-de-acero-inoxidable/), [Termo Térmico 740 ml c/Tapa Pico](https://friovesa.com/product/termo-termico-740-ml-c-tapa-pico/), [Funda de Silicona P Fits 355 ml a 740 ml](https://friovesa.com/product/funda-de-silicona-p-fits-355-ml-a-740-ml/)
+- **Productos relacionados:** [Purificador Total](https://friovesa.com/product/purificador-total/), [Purificador Ducha](https://friovesa.com/product/purificador-ducha/), [Vaso Térmico 600 ml](https://friovesa.com/product/vaso-termico-600-ml/), [Termo Térmico 621 ml Sport Lid](https://friovesa.com/product/termo-termico-621-ml-sport-lid/)
 - **Estado:** activo
 - **Stock:** Con stock
 

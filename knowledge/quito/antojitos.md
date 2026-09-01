@@ -395,7 +395,7 @@
 - **Palabras clave:** Waffles 4ud ❄️, Antojitos, IceMan
 - **Categoría:** Antojitos
 - **Subcategoría:** IceMan
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Merito ( 500gr o 1kg)](https://friovesa.com/product/merito-500gr-o-1kg/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
+- **Productos relacionados:** [Chuleta Ahumada 500gr o 1kg](https://friovesa.com/product/chuleta-ahumada-500gr-o-1kg/), [Lomo Fino Cerdo 500gr](https://friovesa.com/product/lomo-fino-cerdo/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
 - **Estado:** activo
 - **Stock:** No publicado
 
@@ -409,7 +409,7 @@
 - **Palabras clave:** Quimbolitos 4ud ❄️, Antojitos, Postres
 - **Categoría:** Antojitos
 - **Subcategoría:** Postres
-- **Productos relacionados:** [Corvina 1lb o 2lb](https://friovesa.com/product/corvina-roca-1lb-o-2lb/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/), [Molida Res (500gr o 1kg)](https://friovesa.com/product/molida-res-500gr-o-1kg/)
+- **Productos relacionados:** [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Dorado Filetes 1lb o 2lb](https://friovesa.com/product/dorado-filetes-1lb-o-2lb/), [Alitas 1kg – 6 a 7ud](https://friovesa.com/product/alitas-1kg-6-a-7ud/)
 - **Estado:** activo
 - **Stock:** 86 disponibles
 
