@@ -14,24 +14,24 @@
 - **Palabras clave:** Alimento Barf 1kg a 48kg, Mascotas
 - **Categoría:** Mascotas
 - **Subcategoría:** No publicada
-- **Productos relacionados:** [Baby Calamar](https://friovesa.com/product/baby-calamar/), [Longaniza](https://friovesa.com/product/longaniza/), [Tocino](https://friovesa.com/product/tocino/), [Morcilla](https://friovesa.com/product/morcilla/)
+- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Pollo Entero](https://friovesa.com/product/pollo-entero/), [Nuggets de Pollo](https://friovesa.com/product/nuggets-de-pollo/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 48-kg, sabor: pollo — USD 168.00 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 42-kg, sabor: pollo — USD 147.00 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 30-kg, sabor: pollo — USD 108.00 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 15-kg, sabor: pollo — USD 57.00 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 21-kg, sabor: pollo — USD 77.70 — SKU: 53396-3397 — Stock: 3329.0
-- peso: 10-kg, sabor: pollo — USD 39.00 — SKU: 53396-3398 — Stock: 3329.0
-- peso: 5-kg, sabor: pollo — USD 19.99 — SKU: 53396-3399 — Stock: 3329.0
-- peso: 3-kg, sabor: pollo — USD 11.99 — SKU: 53396-3400 — Stock: 3329.0
-- peso: 1-kg, sabor: pollo — USD 3.99 — SKU: 53396-3401 — Stock: 3329.0
+- peso: 48-kg, sabor: pollo — USD 168.00 — SKU: 53396-3397-01 — Stock: 
+- peso: 15-kg, sabor: res — USD 117.00 — SKU: 53396-3397-02 — Stock: 3438.0
+- peso: 21-kg, sabor: res — USD 161.00 — SKU: 53396-3397-03 — Stock: 3438.0
+- peso: 3-kg, sabor: res — USD 23.99 — SKU: 53396-3397-04 — Stock: 3438.0
+- peso: 5-kg, sabor: res — USD 39.99 — SKU: 53396-3397-05 — Stock: 3438.0
+- peso: 10-kg, sabor: res — USD 79.00 — SKU: 53396-3397-06 — Stock: 3438.0
+- peso: 1-kg, sabor: res — USD 7.99 — SKU: 53396-3397-07 — Stock: 3438.0
+- peso: 42-kg, sabor: pollo — USD 147.00 — SKU: 53396-3397-08 — Stock: 3000.0
+- peso: 30-kg, sabor: pollo — USD 108.00 — SKU: 53396-3397-09 — Stock: 3000.0
+- peso: 15-kg, sabor: pollo — USD 57.00 — SKU: 53396-3397-10 — Stock: 
+- peso: 21-kg, sabor: pollo — USD 77.70 — SKU: 53396-3397-11 — Stock: 
+- peso: 10-kg, sabor: pollo — USD 39.00 — SKU: 53396-3398 — Stock: 
+- peso: 5-kg, sabor: pollo — USD 19.99 — SKU: 53396-3399 — Stock: 3331.0
+- peso: 3-kg, sabor: pollo — USD 11.99 — SKU: 53396-3400 — Stock: 3331.0
+- peso: 1-kg, sabor: pollo — USD 3.99 — SKU: 53396-3401 — Stock: 3331.0

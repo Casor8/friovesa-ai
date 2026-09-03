@@ -36,7 +36,7 @@
 - [Croissant 8ud](#croissant-8ud)
 - [Croissant Integral 8ud](#croissant-integral-8ud)
 - [Mini Churros ❄️](#mini-churros)
-- [Pan de Yuca 20ud](#pan-de-yuca-20ud)
+- [Pan de Yuca 10ud](#pan-de-yuca-10ud)
 - [Pan Italiano 8ud](#pan-italiano-8ud)
 - [Pan Yuca Nachos Cheese](#pan-yuca-nachos-cheese)
 - [Asiago 150 g.](#asiago-150-g)
@@ -541,19 +541,19 @@
 - **Estado:** activo
 - **Stock:** No publicado
 
-## Pan de Yuca 20ud
+## Pan de Yuca 10ud
 
 - **Descripción:** Pan de Yuca 20ud Descubre el auténtico sabor del Pan de Yuca, una deliciosa y versátil opción que combina la suavidad de la yuca con una textura ligera y esponjosa. Este paquete de 20 unidades ofrece una experiencia culinaria única, ideal tanto para acompañar comidas diarias como para realzar eventos especiales con un toque tradicional.
 - **Precio:** $ 6,99
 - **Enlace:** https://friovesa.com/product/pan-de-yuca-20ud/
 - **Peso:** No publicado
 - **SKU:** 21862
-- **Palabras clave:** Pan de Yuca 20ud, Despensa, Pan Congelado
+- **Palabras clave:** Pan de Yuca 10ud, Despensa, Pan Congelado
 - **Categoría:** Despensa
 - **Subcategoría:** Pan Congelado
-- **Productos relacionados:** [Cangrejo Pulpa 1lb](https://friovesa.com/product/pulpa-de-cangrejo-1lb/), [Pulpas Saludables 10 ud x litro](https://friovesa.com/product/6-pulpas-detox/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/), [Pechugas Limpias (1kg o 3Kg)](https://friovesa.com/product/pechugas-limpias-1kg-o-3kg/)
+- **Productos relacionados:** [Fritada 1kg](https://friovesa.com/product/fritada-1kg/), [Costillas Cerdo 1Kg](https://friovesa.com/product/costillas-cerdo-1kg/), [Piernas 1kg – 5 a 6ud](https://friovesa.com/product/piernas-1kg-5-a-6ud/), [Lomo falda Res 500gr o 1kg](https://friovesa.com/product/lomo-falda-res-500gr-o-1kg/)
 - **Estado:** activo
-- **Stock:** 965 disponibles
+- **Stock:** 964 disponibles
 
 ## Pan Italiano 8ud
 

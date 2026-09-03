@@ -1,6 +1,6 @@
 # Catálogo oficial Friovesa
 
-Actualizado: 2026-09-02T12:47:46.314248+00:00
+Actualizado: 2026-09-03T12:51:04.315750+00:00
 
 ## Guayaquil (78 productos)
 
@@ -232,7 +232,7 @@ Actualizado: 2026-09-02T12:47:46.314248+00:00
 - [Croissant 8ud](https://friovesa.com/product/croissant-8ud/) — $ 4,70 — Despensa
 - [Croissant Integral 8ud](https://friovesa.com/product/croissant-integral-8ud/) — $ 4,70 — Despensa
 - [Mini Churros ❄️](https://friovesa.com/product/mini-churros/) — $ 4,20 — Despensa
-- [Pan de Yuca 20ud](https://friovesa.com/product/pan-de-yuca-20ud/) — $ 6,99 — Despensa
+- [Pan de Yuca 10ud](https://friovesa.com/product/pan-de-yuca-20ud/) — $ 6,99 — Despensa
 - [Pan Italiano 8ud](https://friovesa.com/product/pan-italiano-8ud/) — $ 4,90 — Despensa
 - [Pan Yuca Nachos Cheese](https://friovesa.com/product/pan-yuca-nachos-cheese/) — $ 4,00 — Despensa
 - [Asiago 150 g.](https://friovesa.com/product/asiago-150-g/) — $ 7,25 — Despensa

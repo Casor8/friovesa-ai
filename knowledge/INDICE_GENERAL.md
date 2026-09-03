@@ -229,7 +229,7 @@
 | Quito | Despensa | Pan Congelado | Mini Churros ❄️ | [Abrir](https://friovesa.com/product/mini-churros/) |
 | Quito | Despensa | Pan Congelado | Pan Italiano 8ud | [Abrir](https://friovesa.com/product/pan-italiano-8ud/) |
 | Quito | Despensa | Pan Congelado | Pan Yuca Nachos Cheese | [Abrir](https://friovesa.com/product/pan-yuca-nachos-cheese/) |
-| Quito | Despensa | Pan Congelado | Pan de Yuca 20ud | [Abrir](https://friovesa.com/product/pan-de-yuca-20ud/) |
+| Quito | Despensa | Pan Congelado | Pan de Yuca 10ud | [Abrir](https://friovesa.com/product/pan-de-yuca-20ud/) |
 | Quito | Despensa | Verde Oveja | Asiago 150 g. | [Abrir](https://friovesa.com/product/asiago-150-g/) |
 | Quito | Despensa | Verde Oveja | Baby Swiss 150 g. | [Abrir](https://friovesa.com/product/baby-swiss-150-g/) |
 | Quito | Despensa | Verde Oveja | Cheddar 150 g. | [Abrir](https://friovesa.com/product/cheddar-150-g/) |
