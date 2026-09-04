@@ -598,13 +598,13 @@
 - **Palabras clave:** Corvinilla, Proteinas Gye, Mariscos
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Mariscos
-- **Productos relacionados:** [Costillas St. Louis](https://friovesa.com/product/costillas-st-louis/), [Tocino](https://friovesa.com/product/tocino/), [Piernas](https://friovesa.com/product/piernas/), [Hamburguesa de Res](https://friovesa.com/product/hamburguesa-de-res/)
+- **Productos relacionados:** [Jamón Sanduchero](https://friovesa.com/product/jamon-sanduchero/), [Longaniza](https://friovesa.com/product/longaniza/), [Matambre](https://friovesa.com/product/matambre/), [Pechuga Limpia](https://friovesa.com/product/pechuga-limpia/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 9.99 — SKU: 78552-01 — Stock: 20.0
+- peso: 1-kg — USD 9.99 — SKU: 78552-01 — Stock: 19.0
 - peso: 500-g — USD 4.99 — SKU: 78552-02 — Stock: 20.0
 
 ## Cubos de Ceviche
@@ -930,13 +930,13 @@
 - **Palabras clave:** Filetes de Pechuga, Proteinas Gye, Pollo
 - **Categoría:** Proteinas Gye
 - **Subcategoría:** Pollo
-- **Productos relacionados:** [Róbalo](https://friovesa.com/product/robalo/), [Salón](https://friovesa.com/product/salon/), [Morcilla](https://friovesa.com/product/morcilla/), [Alitas](https://friovesa.com/product/alitas/)
+- **Productos relacionados:** [Pulpo](https://friovesa.com/product/pulpo/), [Tocino](https://friovesa.com/product/tocino/), [Piernas](https://friovesa.com/product/piernas/), [Chuleta de Cerdo](https://friovesa.com/product/chuleta-de-cerdo/)
 - **Estado:** activo
 - **Stock:** Con stock
 
 ### Variantes
 
-- peso: 1-kg — USD 8.99 — SKU: 78782-01 — Stock: 18.0
+- peso: 1-kg — USD 8.99 — SKU: 78782-01 — Stock: 17.0
 - peso: 500-g — USD 4.50 — SKU: 78782-02 — Stock: 20.0
 
 ## Mollejas
